@@ -99,8 +99,6 @@ let () =
         exit 0
     end else ()
 
-let _ = Unix.system "rm tmp_line*.*"
-
 let () = (* We verify options that are mutually exclusive *)
     let excl = 
         [(!mstdout, !rmstdout); (!mstderr, !rmstderr); (!mdiff, !rmdiff)]
@@ -245,6 +243,14 @@ let () =
         in
         let execution_line = append_output execution_line in
         print_endline ("Executing " ^ execution_line);
+        print_endline ("For the script:");
+        let () = 
+            match Unix.system command with
+            | Unix.WEXITED 0 -> print_newline ()
+            | _ -> 
+                    print_endline 
+                    "Warning: there was an error producing resulting script"
+        in
         match Unix.system execution_line with
         | Unix.WEXITED n ->
                 if n = 0 || !error_expected then
