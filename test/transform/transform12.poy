@@ -1,6 +1,7 @@
 (* Read and transform static_approx:keep *)
-read ("1.fas")
+(*terminals reduced to random 10 to expidite test*)
 set(seed:50)
+set (timer:0)
+read ("FILENAME1")
 build (1)
-transform ((all, static_approx:keep))
-
+transform (static_approx:keep)
