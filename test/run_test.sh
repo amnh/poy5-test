@@ -6,10 +6,10 @@
 # System dependent options
 case `../gnu/config.guess` in
     *-cygwin*)
-        test_program="poy_test.exe"
+        test_program="poy_test.native.exe"
         ;;
     *)
-        test_program="poy_test"
+        test_program="poy_test.native"
         ;;
 esac
 list_of_tests=$3
@@ -45,7 +45,7 @@ fi
 # computer 
 echo "Making ${test_program}"
 cd ./src
-if make clean &> ../test/make.log && make depend &>../test/make.log && make poy_test &> ../test/make.log
+if make clean &> ../test/make.log && make depend &>../test/make.log && ocamlbuild poy_test.native &> ../test/make.log
 then
     echo "Finished making ${test_program}"
 else
