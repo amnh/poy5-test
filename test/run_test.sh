@@ -16,7 +16,7 @@ list_of_tests=$3
 number_of_processors=$4
 test_execution_script="ocaml unix.cma str.cma test_line.ml"
 
-report_bug_to="megan@amnh.org"
+report_bug_to="lhong@amnh.org"
 
 temp="tmp_mail"
 
@@ -65,7 +65,7 @@ EOF
     cd ../test
     exit 1
 fi
-mv ./${test_program} ../test/
+mv ./_build/${test_program} ../test/
 cd ../test/
 # We cleanup all of the test log files.
 rm -f test_al*.log
