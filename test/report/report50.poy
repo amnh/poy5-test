@@ -1,0 +1,6 @@
+(* Build, transform to likelihood and report diagnosis *)
+set (seed:1, timer:0)
+read ("1.fas")
+build (1)
+transform( tcm:(1,1), static_approx, likelihood:(jc69) )
+report( diagnosis )
