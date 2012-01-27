@@ -2,6 +2,6 @@
 set(seed:50, timer:0)
 read ("1.fas", "30.ss")
 build (3)
-transform ((all, static_approx))
+transform (all,(static_approx))
 calculate_support (jackknife)
 report (graphsupports)
