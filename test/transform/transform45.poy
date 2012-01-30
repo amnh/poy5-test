@@ -1,4 +1,4 @@
-(* Read annotated chromosome and transform using dynamic pam circular true *)
+(* Read annotated chromosome and transform using circular true *)
 set (seed:1, timer:0)
 read (annotated:("FILENAME1"))
-transform ((all, dynamic_pam:(circular:true)))
+transform (all, (annotated:(circular:true)))

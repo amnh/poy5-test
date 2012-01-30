@@ -1,4 +1,4 @@
-(* Read annotated chromosome using dynamic pam median 2 *)
+(* Read annotated chromosome using median 2 *)
 set (seed:1, timer:0)
 read (annotated:("FILENAME1"))
-transform ((all, dynamic_pam:(median:2)))
+transform (all, (annotated:(median:2)))
