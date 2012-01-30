@@ -1,4 +1,4 @@
-(* Read annotated chromosome using dynamic pam min_seed_length 15 *)
+(* Read annotated chromosome with median solver mgr *)
 set (seed:1, timer:0)
 read (annotated:("FILENAME1"))
 transform (all, (annotated:(median_solver:mgr)))
