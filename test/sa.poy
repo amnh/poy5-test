@@ -1,4 +1,4 @@
-(* Testing static approximation, we only test with *)
+(* Testing static approximation, we only test with costs *)
 read ("FILENAME1")
 read ("../test/FILENAME1.tree")
-transform (static_approx)
+transform( tcm:(1,2), static_approx )
