@@ -2,7 +2,8 @@ Information : Setting random seed value to 50
 Information : Reading file 31.ss of type hennig86/Nona
 
 Information :
-The file 31.ss defines 167 static homology characters in 49 taxa.
+The file 31.ss defines 167 static homology characters, 0 unaligned sequences,
+and 0 trees, containing 49 taxa.
 Status : Loading Characters : 0 of 49 -- Storing the character specifications
 Status : Loading Characters : 1 of 49 -- Storing the character specifications
 Status : Loading Characters : 2 of 49 -- Storing the character specifications
@@ -94,10 +95,12 @@ Loading Characters : 48 of 49 -- Storing the character specifications
 Status :
 Loading Characters : 49 of 49 -- Storing the character specifications
 Status : Loading Characters Finished
+Status : Loading Trees Finished
 Information : Reading file 32.ss of type hennig86/Nona
 
 Information :
-The file 32.ss defines 88 static homology characters in 49 taxa.
+The file 32.ss defines 88 static homology characters, 0 unaligned sequences,
+and 0 trees, containing 49 taxa.
 Status : Loading Characters : 0 of 49 -- Storing the character specifications
 Status : Loading Characters : 1 of 49 -- Storing the character specifications
 Status : Loading Characters : 2 of 49 -- Storing the character specifications
@@ -189,10 +192,12 @@ Loading Characters : 48 of 49 -- Storing the character specifications
 Status :
 Loading Characters : 49 of 49 -- Storing the character specifications
 Status : Loading Characters Finished
+Status : Loading Trees Finished
 Information : Reading file 33.ss of type hennig86/Nona
 
 Information :
-The file 33.ss defines 100 static homology characters in 49 taxa.
+The file 33.ss defines 100 static homology characters, 0 unaligned sequences,
+and 0 trees, containing 49 taxa.
 Status : Loading Characters : 0 of 49 -- Storing the character specifications
 Status : Loading Characters : 1 of 49 -- Storing the character specifications
 Status : Loading Characters : 2 of 49 -- Storing the character specifications
@@ -284,10 +289,12 @@ Loading Characters : 48 of 49 -- Storing the character specifications
 Status :
 Loading Characters : 49 of 49 -- Storing the character specifications
 Status : Loading Characters Finished
+Status : Loading Trees Finished
 Information : Reading file 34.ss of type hennig86/Nona
 
 Information :
-The file 34.ss defines 161 static homology characters in 49 taxa.
+The file 34.ss defines 161 static homology characters, 0 unaligned sequences,
+and 0 trees, containing 49 taxa.
 Status : Loading Characters : 0 of 49 -- Storing the character specifications
 Status : Loading Characters : 1 of 49 -- Storing the character specifications
 Status : Loading Characters : 2 of 49 -- Storing the character specifications
@@ -379,20 +386,22 @@ Loading Characters : 48 of 49 -- Storing the character specifications
 Status :
 Loading Characters : 49 of 49 -- Storing the character specifications
 Status : Loading Characters Finished
-Status : Wagner : 2 of 5 -- Wagner tree with cost 199.
-Status : Wagner : 3 of 5 -- Wagner tree with cost 298.
-Status : Wagner : 4 of 5 -- Wagner tree with cost 378.
+Status : Loading Trees Finished
+Status : Wagner : 2 of 5 -- Wagner tree with cost 172.
+Status : Wagner : 3 of 5 -- Wagner tree with cost 291.
+Status : Wagner : 4 of 5 -- Wagner tree with cost 384.
 Status : Wagner Finished
 Status : Building Wagner Tree Finished
 Status : Running Pipeline : 1 of 2 -- Estimated finish in 0 s
-Status : Wagner : 2 of 5 -- Wagner tree with cost 174.
-Status : Wagner : 3 of 5 -- Wagner tree with cost 274.
-Status : Wagner : 4 of 5 -- Wagner tree with cost 334.
+Status : Wagner : 2 of 5 -- Wagner tree with cost 199.
+Status : Wagner : 3 of 5 -- Wagner tree with cost 300.
+Status : Wagner : 4 of 5 -- Wagner tree with cost 390.
 Status : Wagner Finished
 Status : Building Wagner Tree Finished
 Status : Running Pipeline : 2 of 2 -- Estimated finish in 0 s
 Status : Running Pipeline Finished
-Status : Transforming : 1 of 1 --  of transformations applied
+Status : Transforming : 1 of 1 --  transformations applied
+Status : Transforming : 0 of 516 --  characters transformed
 Status : Transforming Finished
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
@@ -404,7 +413,7 @@ Status : Diagnosis Finished
 Information :
 
   Trees:
-    Storing 2 trees with costs 426. to 426.
-    Best cost in 2 trees 
+    Storing 2 trees with costs 465. to 467.
+    Best cost in 1 tree 
   Cost Mode: Normal Direct Optimization
 PASSED
