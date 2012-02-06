@@ -1,0 +1,491 @@
+Information : Setting random seed value to 1
+Information : Reading file 1.fas of type input sequences
+
+Information :
+The file 1.fas contains sequences of 49 taxa, each sequence holding 5
+fragments.
+Status : Loading Trees Finished
+Information : Reading file 30.ss of type hennig86/Nona
+
+Information :
+The file 30.ss defines 144 static homology characters, 0 unaligned sequences,
+and 0 trees, containing 49 taxa.
+Status : Loading Characters : 0 of 49 -- Storing the character specifications
+Status : Loading Characters : 1 of 49 -- Storing the character specifications
+Status : Loading Characters : 2 of 49 -- Storing the character specifications
+Status : Loading Characters : 3 of 49 -- Storing the character specifications
+Status : Loading Characters : 4 of 49 -- Storing the character specifications
+Status : Loading Characters : 5 of 49 -- Storing the character specifications
+Status : Loading Characters : 6 of 49 -- Storing the character specifications
+Status : Loading Characters : 7 of 49 -- Storing the character specifications
+Status : Loading Characters : 8 of 49 -- Storing the character specifications
+Status : Loading Characters : 9 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 10 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 11 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 12 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 13 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 14 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 15 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 16 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 17 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 18 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 19 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 20 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 21 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 22 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 23 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 24 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 25 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 26 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 27 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 28 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 29 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 30 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 31 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 32 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 33 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 34 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 35 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 36 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 37 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 38 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 39 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 40 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 41 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 42 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 43 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 44 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 45 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 46 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 47 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 48 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 49 of 49 -- Storing the character specifications
+Status : Loading Characters Finished
+Status : Loading Trees Finished
+Status : Calculating Three Dimansional Aminoacid Cost Matrix Finished
+Information :
+The file 40.aa contains sequences of 42 taxa, each sequence holding 1
+fragment.
+
+Status : Loading Trees Finished
+Status : Wagner : 2 of 49 -- Wagner tree with cost 233.
+Status : Wagner : 3 of 49 -- Wagner tree with cost 352.
+Status : Wagner : 4 of 49 -- Wagner tree with cost 441.
+Status : Wagner : 5 of 49 -- Wagner tree with cost 482.
+Status : Wagner : 6 of 49 -- Wagner tree with cost 530.
+Status : Wagner : 7 of 49 -- Wagner tree with cost 626.
+Status : Wagner : 8 of 49 -- Wagner tree with cost 670.
+Status : Wagner : 9 of 49 -- Wagner tree with cost 793.
+Status : Wagner : 10 of 49 -- Wagner tree with cost 845.
+Status : Wagner : 11 of 49 -- Wagner tree with cost 861.
+Status : Wagner : 12 of 49 -- Wagner tree with cost 896.
+Status : Wagner : 13 of 49 -- Wagner tree with cost 927.
+Status : Wagner : 14 of 49 -- Wagner tree with cost 975.
+Status : Wagner : 15 of 49 -- Wagner tree with cost 1049.
+Status : Wagner : 16 of 49 -- Wagner tree with cost 1074.
+Status : Wagner : 17 of 49 -- Wagner tree with cost 1118.
+Status : Wagner : 18 of 49 -- Wagner tree with cost 1133.
+Status : Wagner : 19 of 49 -- Wagner tree with cost 1165.
+Status : Wagner : 20 of 49 -- Wagner tree with cost 1188.
+Status : Wagner : 21 of 49 -- Wagner tree with cost 1246.
+Status : Wagner : 22 of 49 -- Wagner tree with cost 1279.
+Status : Wagner : 23 of 49 -- Wagner tree with cost 1328.
+Status : Wagner : 24 of 49 -- Wagner tree with cost 1417.
+Status : Wagner : 25 of 49 -- Wagner tree with cost 1485.
+Status : Wagner : 26 of 49 -- Wagner tree with cost 1505.
+Status : Wagner : 27 of 49 -- Wagner tree with cost 1599.
+Status : Wagner : 28 of 49 -- Wagner tree with cost 1626.
+Status : Wagner : 29 of 49 -- Wagner tree with cost 1638.
+Status : Wagner : 30 of 49 -- Wagner tree with cost 1663.
+Status : Wagner : 31 of 49 -- Wagner tree with cost 1684.
+Status : Wagner : 32 of 49 -- Wagner tree with cost 1724.
+Status : Wagner : 33 of 49 -- Wagner tree with cost 1768.
+Status : Wagner : 34 of 49 -- Wagner tree with cost 1829.
+Status : Wagner : 35 of 49 -- Wagner tree with cost 1864.
+Status : Wagner : 36 of 49 -- Wagner tree with cost 1873.
+Status : Wagner : 37 of 49 -- Wagner tree with cost 1885.
+Status : Wagner : 38 of 49 -- Wagner tree with cost 1894.
+Status : Wagner : 39 of 49 -- Wagner tree with cost 1954.
+Status : Wagner : 40 of 49 -- Wagner tree with cost 2068.
+Status : Wagner : 41 of 49 -- Wagner tree with cost 2099.
+Status : Wagner : 42 of 49 -- Wagner tree with cost 2132.
+Status : Wagner : 43 of 49 -- Wagner tree with cost 2183.
+Status : Wagner : 44 of 49 -- Wagner tree with cost 2200.
+Status : Wagner : 45 of 49 -- Wagner tree with cost 2211.
+Status : Wagner : 46 of 49 -- Wagner tree with cost 2229.
+Status : Wagner : 47 of 49 -- Wagner tree with cost 2241.
+Status : Wagner : 48 of 49 -- Wagner tree with cost 2272.
+Status : Wagner Finished
+Status : Building Wagner Tree Finished
+Information : Starting on tree
+Status : SPR : 2271 Searching
+Status : SPR Finished
+Status : Running Pipeline : 1 of 2 -- Estimated finish in 49 s
+Status : Wagner : 2 of 49 -- Wagner tree with cost 153.
+Status : Wagner : 3 of 49 -- Wagner tree with cost 263.
+Status : Wagner : 4 of 49 -- Wagner tree with cost 323.
+Status : Wagner : 5 of 49 -- Wagner tree with cost 344.
+Status : Wagner : 6 of 49 -- Wagner tree with cost 391.
+Status : Wagner : 7 of 49 -- Wagner tree with cost 428.
+Status : Wagner : 8 of 49 -- Wagner tree with cost 520.
+Status : Wagner : 9 of 49 -- Wagner tree with cost 562.
+Status : Wagner : 10 of 49 -- Wagner tree with cost 655.
+Status : Wagner : 11 of 49 -- Wagner tree with cost 739.
+Status : Wagner : 12 of 49 -- Wagner tree with cost 776.
+Status : Wagner : 13 of 49 -- Wagner tree with cost 835.
+Status : Wagner : 14 of 49 -- Wagner tree with cost 876.
+Status : Wagner : 15 of 49 -- Wagner tree with cost 922.
+Status : Wagner : 16 of 49 -- Wagner tree with cost 969.
+Status : Wagner : 17 of 49 -- Wagner tree with cost 1006.
+Status : Wagner : 18 of 49 -- Wagner tree with cost 1062.
+Status : Wagner : 19 of 49 -- Wagner tree with cost 1162.
+Status : Wagner : 20 of 49 -- Wagner tree with cost 1196.
+Status : Wagner : 21 of 49 -- Wagner tree with cost 1210.
+Status : Wagner : 22 of 49 -- Wagner tree with cost 1254.
+Status : Wagner : 23 of 49 -- Wagner tree with cost 1343.
+Status : Wagner : 24 of 49 -- Wagner tree with cost 1396.
+Status : Wagner : 25 of 49 -- Wagner tree with cost 1408.
+Status : Wagner : 26 of 49 -- Wagner tree with cost 1417.
+Status : Wagner : 27 of 49 -- Wagner tree with cost 1477.
+Status : Wagner : 28 of 49 -- Wagner tree with cost 1506.
+Status : Wagner : 29 of 49 -- Wagner tree with cost 1559.
+Status : Wagner : 30 of 49 -- Wagner tree with cost 1574.
+Status : Wagner : 31 of 49 -- Wagner tree with cost 1588.
+Status : Wagner : 32 of 49 -- Wagner tree with cost 1622.
+Status : Wagner : 33 of 49 -- Wagner tree with cost 1666.
+Status : Wagner : 34 of 49 -- Wagner tree with cost 1696.
+Status : Wagner : 35 of 49 -- Wagner tree with cost 1731.
+Status : Wagner : 36 of 49 -- Wagner tree with cost 1791.
+Status : Wagner : 37 of 49 -- Wagner tree with cost 1810.
+Status : Wagner : 38 of 49 -- Wagner tree with cost 1828.
+Status : Wagner : 39 of 49 -- Wagner tree with cost 1881.
+Status : Wagner : 40 of 49 -- Wagner tree with cost 1896.
+Status : Wagner : 41 of 49 -- Wagner tree with cost 1916.
+Status : Wagner : 42 of 49 -- Wagner tree with cost 1935.
+Status : Wagner : 43 of 49 -- Wagner tree with cost 1952.
+Status : Wagner : 44 of 49 -- Wagner tree with cost 2049.
+Status : Wagner : 45 of 49 -- Wagner tree with cost 2084.
+Status : Wagner : 46 of 49 -- Wagner tree with cost 2108.
+Status : Wagner : 47 of 49 -- Wagner tree with cost 2119.
+Status : Wagner : 48 of 49 -- Wagner tree with cost 2293.
+Status : Wagner Finished
+Status : Building Wagner Tree Finished
+Information : Starting on tree
+Status : SPR : 2282 Searching
+Status : SPR Finished
+Status : Running Pipeline : 2 of 2 -- Estimated finish in 0 s
+Status : Running Pipeline Finished
+Status : Running pipeline on each tree : 1 of 2 -- 
+Status : Perturb Iteration : 1 of 2 -- 
+Status : Ratcheting : 0 of 1 -- trees in the current optimum
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting : 1 of 1 -- trees in the current optimum
+Status : TBR : 9843 Searching
+Status : TBR Finished
+Status : Perturbing : 1 of 3 -- 
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Perturbing : 2 of 3 -- Estimated finish in 2 s
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Perturbing : 3 of 3 -- Estimated finish in 1 s
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Perturbing Finished
+Status : Ratcheting Finished
+Status : Perturb Iteration : 2 of 2 -- 
+Status : Ratcheting : 0 of 3 -- trees in the current optimum
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting : 1 of 3 -- trees in the current optimum
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting : 2 of 3 -- trees in the current optimum
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting : 3 of 3 -- trees in the current optimum
+Status : TBR : 5791 Searching
+Status : TBR : 5789 Searching
+Status : TBR : 5749 Searching
+Status : TBR : 5743 Searching
+Status : TBR : 5740 Searching
+Status : TBR : 5716 Searching
+Status : TBR : 5705 Searching
+Status : TBR : 5673 Searching
+Status : TBR : 5670 Searching
+Status : TBR : 5661 Searching
+Status : TBR : 5660 Searching
+Status : TBR : 5659 Searching
+Status : TBR : 5648 Searching
+Status : TBR : 5645 Searching
+Status : TBR : 5622 Searching
+Status : TBR : 5612 Searching
+Status : TBR : 5608 Searching
+Status : TBR : 5607 Searching
+Status : TBR : 5603 Searching
+Status : TBR : 5602 Searching
+Status : TBR : 5601 Searching
+Status : TBR : 5594 Searching
+Status : TBR Finished
+Status : TBR : 8215 Searching
+Status : TBR : 8210 Searching
+Status : TBR : 8189 Searching
+Status : TBR : 8181 Searching
+Status : TBR : 8179 Searching
+Status : TBR : 8175 Searching
+Status : TBR : 8161 Searching
+Status : TBR : 8140 Searching
+Status : TBR : 8129 Searching
+Status : TBR : 8127 Searching
+Status : TBR : 8123 Searching
+Status : TBR : 8111 Searching
+Status : TBR : 8110 Searching
+Status : TBR : 8108 Searching
+Status : TBR : 8083 Searching
+Status : TBR : 8067 Searching
+Status : TBR : 8058 Searching
+Status : TBR : 8056 Searching
+Status : TBR : 8039 Searching
+Status : TBR : 8022 Searching
+Status : TBR : 8014 Searching
+Status : TBR : 8012 Searching
+Status : TBR : 7997 Searching
+Status : TBR : 7990 Searching
+Status : TBR : 7984 Searching
+Status : TBR : 7983 Searching
+Status : TBR Finished
+Status : TBR : 7915 Searching
+Status : TBR : 7889 Searching
+Status : TBR : 7881 Searching
+Status : TBR : 7879 Searching
+Status : TBR : 7870 Searching
+Status : TBR : 7867 Searching
+Status : TBR : 7862 Searching
+Status : TBR : 7860 Searching
+Status : TBR : 7843 Searching
+Status : TBR : 7836 Searching
+Status : TBR : 7835 Searching
+Status : TBR : 7824 Searching
+Status : TBR : 7816 Searching
+Status : TBR : 7802 Searching
+Status : TBR : 7796 Searching
+Status : TBR : 7784 Searching
+Status : TBR : 7782 Searching
+Status : TBR : 7780 Searching
+Status : TBR : 7773 Searching
+Status : TBR : 7770 Searching
+Status : TBR : 7755 Searching
+Status : TBR : 7752 Searching
+Status : TBR : 7740 Searching
+Status : TBR : 7734 Searching
+Status : TBR : 7733 Searching
+Status : TBR : 7709 Searching
+Status : TBR : 7707 Searching
+Status : TBR : 7706 Searching
+Status : TBR : 7686 Searching
+Status : TBR : 7681 Searching
+Status : TBR Finished
+Status : Perturbing : 1 of 6 -- 
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Perturbing : 2 of 6 -- Estimated finish in 4 s
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Perturbing : 3 of 6 -- Estimated finish in 3 s
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Perturbing : 4 of 6 -- Estimated finish in 2 s
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Perturbing : 5 of 6 -- Estimated finish in 2 s
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Perturbing : 6 of 6 -- Estimated finish in 1 s
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Perturbing Finished
+Status : Ratcheting Finished
+Status : Perturb Iteration Finished
+Status : Tree search : 1 of 6 -- 
+Status : TBR : 2285 Searching
+Status : TBR : 2282 Searching
+Status : TBR : 2279 Searching
+Status : TBR : 2278 Searching
+Status : TBR : 2267 Searching
+Status : TBR Finished
+Status : Tree search : 2 of 6 -- Estimated finish in 16 m, 44 s
+Status : TBR : 2276 Searching
+Status : TBR : 2275 Searching
+Status : TBR : 2267 Searching
+Status : TBR : 2263 Searching
+Status : TBR : 2262 Searching
+Status : TBR : 2257 Searching
+Status : TBR : 2255 Searching
+Status : TBR : 2254 Searching
+Status : TBR : 2249 Searching
+Status : TBR : 2248 Searching
+Status : TBR : 2247 Searching
+Status : TBR : 2246 Searching
+Status : TBR Finished
+Status : Tree search : 3 of 6 -- Estimated finish in 13 m, 23 s
+Status : TBR : 2266 Searching
+Status : TBR Finished
+Status : Tree search : 4 of 6 -- Estimated finish in 9 m, 58 s
+Status : TBR : 2264 Searching
+Status : TBR Finished
+Status : Tree search : 5 of 6 -- Estimated finish in 6 m, 35 s
+Status : TBR : 2235 Searching
+Status : TBR Finished
+Status : Tree search : 6 of 6 -- Estimated finish in 3 m, 18 s
+Status : TBR : 2234 Searching
+Status : TBR Finished
+Status : Tree search Finished
+Status :
+Running pipeline on each tree : 2 of 2 -- Estimated finish in 33 m, 24 s
+Status : Perturb Iteration : 1 of 2 -- 
+Status : Ratcheting : 0 of 1 -- trees in the current optimum
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting : 1 of 1 -- trees in the current optimum
+Status : TBR : 8110 Searching
+Status : TBR Finished
+Status : Perturbing : 1 of 3 -- 
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Perturbing : 2 of 3 -- Estimated finish in 2 s
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Perturbing : 3 of 3 -- Estimated finish in 1 s
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Perturbing Finished
+Status : Ratcheting Finished
+Status : Perturb Iteration : 2 of 2 -- 
+Status : Ratcheting : 0 of 3 -- trees in the current optimum
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting : 1 of 3 -- trees in the current optimum
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting : 2 of 3 -- trees in the current optimum
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting : 3 of 3 -- trees in the current optimum
+Status : TBR : 8188 Searching
+Status : TBR : 8185 Searching
+Status : TBR : 8177 Searching
+Status : TBR : 8148 Searching
+Status : TBR : 8136 Searching
+Status : TBR : 8112 Searching
+Status : TBR : 8085 Searching
+Status : TBR : 8076 Searching
+Status : TBR : 8072 Searching
+Status : TBR : 8060 Searching
+Status : TBR : 8052 Searching
+Status : TBR : 8047 Searching
+Status : TBR : 8044 Searching
+Status : TBR : 8022 Searching
+Status : TBR : 8020 Searching
+Status : TBR : 8015 Searching
+Status : TBR : 8012 Searching
+Status : TBR : 8008 Searching
+Status : TBR : 8003 Searching
+Status : TBR : 8001 Searching
+Status : TBR : 7996 Searching
+Status : TBR : 7991 Searching
+Status : TBR : 7990 Searching
+Status : TBR : 7987 Searching
+Status : TBR : 7986 Searching
+Status : TBR : 7980 Searching
+Status : TBR : 7961 Searching
+Status : TBR Finished
+Status : TBR : 9778 Searching
+Status : TBR Finished
+Status : TBR : 6350 Searching
+Status : TBR Finished
+Status : Perturbing : 1 of 9 -- 
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Perturbing : 2 of 9 -- Estimated finish in 6 s
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Perturbing : 3 of 9 -- Estimated finish in 5 s
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Perturbing : 4 of 9 -- Estimated finish in 5 s
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Perturbing : 5 of 9 -- Estimated finish in 4 s
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Perturbing : 6 of 9 -- Estimated finish in 3 s
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Perturbing : 7 of 9 -- Estimated finish in 2 s
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Perturbing : 8 of 9 -- Estimated finish in 2 s
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Perturbing : 9 of 9 -- Estimated finish in 1 s
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Perturbing Finished
+Status : Ratcheting Finished
+Status : Perturb Iteration Finished
+Status : Tree search : 1 of 2 -- 
+Status : TBR : 2284 Searching
+Status : TBR Finished
+Status : Tree search : 2 of 2 -- Estimated finish in 3 m, 20 s
+Status : TBR : 2277 Searching
+Status : TBR Finished
+Status : Tree search Finished
+Status : Running pipeline on each tree Finished
+Information :
+
+  Trees:
+    Storing 2 trees with costs 2234. to 2277.
+    Best cost in 1 tree 
+  Cost Mode: Normal Direct Optimization
+PASSED
