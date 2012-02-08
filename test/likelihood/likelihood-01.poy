@@ -1,0 +1,12 @@
+(* Script for mixing aligned and prealigned data; cost must be mpl *)
+set (seed:1,timer:0)
+
+read(prealigned:("FILENAME2", tcm:(1,1)))
+read("FILENAME1")
+
+transform(likelihood:(jc69,mpl))
+build(2,optimize:(model:never,branches:never))
+
+report(all_roots)
+report(lkmodel)
+report(ia:all)

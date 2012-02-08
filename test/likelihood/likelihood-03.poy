@@ -1,0 +1,9 @@
+(* test transforming a bunch of models combining 3 arguments *)
+set (seed:1)
+read("FILENAME1")
+
+build()
+
+transform(likelihood:(FILENAME1,FILENAME2))
+transform(likelihood:(FILENAME1,FILENAME3))
+transform(likelihood:(FILENAME2))
