@@ -2,4 +2,4 @@
 set (seed:50, timer:0)
 read ("1.fas")
 build (1)
-report ("./report/xml/report36.poy.xml", ia)
+report ("test.xml", ia)
