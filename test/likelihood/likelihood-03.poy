@@ -4,6 +4,6 @@ read("FILENAME1")
 
 build()
 
-transform(likelihood:(FILENAME1,FILENAME2))
-transform(likelihood:(FILENAME1,FILENAME3))
+transform(likelihood:(FILENAME4,FILENAME2))
+transform(likelihood:(FILENAME4,FILENAME3))
 transform(likelihood:(FILENAME2))

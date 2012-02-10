@@ -5,5 +5,5 @@ set (timer:0)
 read ("FILENAME1")
 select (terminals, _random:10)
 build (2)
-transform ((all, auto_sequence_partition))
+transform (all, (auto_sequence_partition))
 
