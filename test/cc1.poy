@@ -1,4 +1,5 @@
-(* Build and swap chel.aln *)
+(*cost test1 with space saving alignment-newkkonen *)
 read ("FILENAME1")
+set(space_saving_alignment)
 transform (tcm:(1,1))
 read ("../test/FILENAME1.1.tree")
