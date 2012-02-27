@@ -1,4 +1,4 @@
-(* Build and swap chel.aln *)
+(* cost test with negative weightfactor,tcm=1,2 *)
 read ("FILENAME1")
 transform (tcm:(1,2),weightfactor:-1)
 read ("../test/FILENAME1.tree")

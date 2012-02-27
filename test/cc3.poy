@@ -1,4 +1,4 @@
-(* Build and swap chel.aln *)
+(* cost test3 with gap_opening=5,tcm=(3,1) *)
 read ("FILENAME1")
 transform (tcm:(3,1), gap_opening:5)
 read ("../test/FILENAME1.3.tree")
