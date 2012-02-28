@@ -1,0 +1,41 @@
+#NEXUS 
+
+BEGIN DATA;
+    DIMENSIONS  NTAX=5 NCHAR=1;
+    FORMAT MISSING=? GAP=- DATATYPE=DNA;
+    [OPTIONS  MSTAXA=UNCERTAIN;]
+
+    MATRIX
+        Alpha              T
+        Beta               C
+        Gamma              A
+        Delta              C
+        Epsilon            C;
+
+END;
+
+BEGIN SETS;
+ 
+ CharSet ch1 = 0;
+
+END;
+
+BEGIN TREES;
+
+ Tree one = (((Alpha[&pnd1],Beta[&pnd2])[&pnd6],Gamma[&pnd3])[&pnd8],(Delta[&pnd4],Epsilon[&pnd5])[&pnd7]);
+
+END;
+
+BEGIN POY;
+
+    Likelihood
+        Model = LK_MODEL; Priors = LK_PRIORS; CharSet = ch1;
+        variation = LK_RATES; cost = LK_COST;
+    ;
+
+    CharacterBranch
+        Trees = one; Names = ch1;
+        Map nd1 0.2, nd2 0.2, nd3 0.2, nd4 0.2, nd5 0.2, nd6 0.1, nd7 0.1, nd8 0.1;
+    ;
+
+END;

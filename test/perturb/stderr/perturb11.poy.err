@@ -4,52 +4,57 @@ Information : Reading file 1.fas of type input sequences
 Information :
 The file 1.fas contains sequences of 49 taxa, each sequence holding 5
 fragments.
+Status : Loading Trees Finished
 Information : Reading file 3.fas of type input sequences
 
 Information :
 The file 3.fas contains sequences of 49 taxa, each sequence holding 2
 fragments.
+Status : Loading Trees Finished
 Status : Calculating Three Dimansional Aminoacid Cost Matrix Finished
 Information :
 The file 40.aa contains sequences of 42 taxa, each sequence holding 1
 fragment.
 
+Status : Loading Trees Finished
 Information : Selected Terminals:
               
 
 Information : 
 Information : Total included: 12
 Information : Total excluded: 37
+Status : Wagner : 2 of 12 -- Wagner tree with cost 69.
+Status : Wagner : 3 of 12 -- Wagner tree with cost 89.
+Status : Wagner : 4 of 12 -- Wagner tree with cost 127.
+Status : Wagner : 5 of 12 -- Wagner tree with cost 176.
+Status : Wagner : 6 of 12 -- Wagner tree with cost 215.
+Status : Wagner : 7 of 12 -- Wagner tree with cost 241.
+Status : Wagner : 8 of 12 -- Wagner tree with cost 307.
+Status : Wagner : 9 of 12 -- Wagner tree with cost 360.
+Status : Wagner : 10 of 12 -- Wagner tree with cost 394.
+Status : Wagner : 11 of 12 -- Wagner tree with cost 455.
+Status : Wagner Finished
+Status : Building Wagner Tree Finished
+Information : Starting on tree
+Status : SPR : 509 Searching
+Status : SPR Finished
+Status : Running Pipeline : 1 of 2 -- Estimated finish in 2 s
 Status : Wagner : 2 of 12 -- Wagner tree with cost 109.
-Status : Wagner : 3 of 12 -- Wagner tree with cost 160.
-Status : Wagner : 4 of 12 -- Wagner tree with cost 210.
-Status : Wagner : 5 of 12 -- Wagner tree with cost 242.
-Status : Wagner : 6 of 12 -- Wagner tree with cost 286.
-Status : Wagner : 7 of 12 -- Wagner tree with cost 321.
-Status : Wagner : 8 of 12 -- Wagner tree with cost 422.
-Status : Wagner : 9 of 12 -- Wagner tree with cost 495.
-Status : Wagner : 10 of 12 -- Wagner tree with cost 546.
-Status : Wagner : 11 of 12 -- Wagner tree with cost 592.
+Status : Wagner : 3 of 12 -- Wagner tree with cost 140.
+Status : Wagner : 4 of 12 -- Wagner tree with cost 181.
+Status : Wagner : 5 of 12 -- Wagner tree with cost 268.
+Status : Wagner : 6 of 12 -- Wagner tree with cost 288.
+Status : Wagner : 7 of 12 -- Wagner tree with cost 323.
+Status : Wagner : 8 of 12 -- Wagner tree with cost 362.
+Status : Wagner : 9 of 12 -- Wagner tree with cost 424.
+Status : Wagner : 10 of 12 -- Wagner tree with cost 467.
+Status : Wagner : 11 of 12 -- Wagner tree with cost 500.
 Status : Wagner Finished
 Status : Building Wagner Tree Finished
 Information : Starting on tree
-Status : SPR : 627 Searching
+Status : SPR : 521 Searching
 Status : SPR Finished
-Status : Wagner : 2 of 12 -- Wagner tree with cost 99.
-Status : Wagner : 3 of 12 -- Wagner tree with cost 148.
-Status : Wagner : 4 of 12 -- Wagner tree with cost 247.
-Status : Wagner : 5 of 12 -- Wagner tree with cost 292.
-Status : Wagner : 6 of 12 -- Wagner tree with cost 370.
-Status : Wagner : 7 of 12 -- Wagner tree with cost 463.
-Status : Wagner : 8 of 12 -- Wagner tree with cost 495.
-Status : Wagner : 9 of 12 -- Wagner tree with cost 534.
-Status : Wagner : 10 of 12 -- Wagner tree with cost 584.
-Status : Wagner : 11 of 12 -- Wagner tree with cost 607.
-Status : Wagner Finished
-Status : Building Wagner Tree Finished
-Information : Starting on tree
-Status : SPR : 639 Searching
-Status : SPR Finished
+Status : Running Pipeline : 2 of 2 -- Estimated finish in 0 s
 Status : Running Pipeline Finished
 Status : Running pipeline on each tree : 1 of 2 -- 
 Status : Perturb Iteration : 1 of 1 -- 
@@ -57,36 +62,58 @@ Status : Ratcheting : 0 of 1 -- trees in the current optimum
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
 Status : Ratcheting : 1 of 1 -- trees in the current optimum
-Status : TBR : 967 Searching
-Status : TBR Finished
+Status : Alternate : 0 Beginning search
+Status : Alternate : 0 SPR search
+Status : SPR : 775 Searching
+Status : SPR Finished
+Status : Alternate : 0 Performing TBR swapping
+Status : Single TBR Finished
+Status : Alternate Finished
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
 Status : Ratcheting Finished
 Status : Perturb Iteration Finished
+Status : Running pipeline on each tree : 2 of 2 -- Estimated finish in 5 s
 Status : Perturb Iteration : 1 of 1 -- 
 Status : Ratcheting : 0 of 1 -- trees in the current optimum
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
 Status : Ratcheting : 1 of 1 -- trees in the current optimum
-Status : TBR : 940 Searching
-Status : TBR : 922 Searching
-Status : TBR : 917 Searching
-Status : TBR : 903 Searching
-Status : TBR : 896 Searching
-Status : TBR : 889 Searching
-Status : TBR Finished
+Status : Alternate : 0 Beginning search
+Status : Alternate : 0 SPR search
+Status : SPR : 776 Searching
+Status : SPR : 764 Searching
+Status : SPR : 755 Searching
+Status : SPR : 752 Searching
+Status : SPR : 748 Searching
+Status : SPR : 746 Searching
+Status : SPR : 742 Searching
+Status : SPR Finished
+Status : Alternate : 0 Performing TBR swapping
+Status : Single TBR Finished
+Status : Alternate : 0 SPR search
+Status : SPR : 742 Searching
+Status : SPR Finished
+Status : Alternate : 0 Performing TBR swapping
+Status : Single TBR Finished
+Status : Alternate Finished
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
 Status : Ratcheting Finished
 Status : Perturb Iteration Finished
-Status : TBR : 618 Searching
-Status : TBR : 612 Searching
-Status : TBR Finished
+Status : Alternate : 0 Beginning search
+Status : Alternate : 0 SPR search
+Status : SPR : 510 Searching
+Status : SPR : 509 Searching
+Status : SPR Finished
+Status : Alternate : 0 Performing TBR swapping
+Status : Single TBR Finished
+Status : Alternate Finished
 Status : Running pipeline on each tree Finished
 Information :
 
   Trees:
-    Storing 2 trees with costs 611. to 627.
-    Best cost in 1 tree 
+    Storing 2 trees with costs 509. to 509.
+    Best cost in 2 trees 
   Cost Mode: Normal Direct Optimization
 PASSED

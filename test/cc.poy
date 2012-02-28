@@ -1,3 +1,4 @@
-(* Build and swap chel.aln *)
+(* cost test with tcm=(1,2) *)
 read ("FILENAME1")
 read ("../test/FILENAME1.tree")
+transform(tcm:(1,2))

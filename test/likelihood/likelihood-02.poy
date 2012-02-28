@@ -1,0 +1,8 @@
+(* Dynamic Likelihood Test; w/ 2 arguments *)
+set (seed:1, timer:0)
+read("FILENAME1")
+
+transform(likelihood:(FILENAME2,FILENAME3,mpl))
+set(normal_do)
+build(1)
+report(all_roots)
