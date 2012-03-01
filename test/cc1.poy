@@ -1,5 +1,4 @@
-(*cost test1 with space saving alignment-newkkonen *)
+(*cost test1, tcm(1,1) *)
 read ("FILENAME1")
-set(space_saving_alignment)
 transform (tcm:(1,1))
 read ("../test/FILENAME1.1.tree")
