@@ -1,6 +1,5 @@
-none
-gamma
-theta
-constant
-gamma:(8)
-theta:(8)
+rates:(gamma)
+rates:(theta)
+rates:(constant)
+rates:(gamma:(8))
+rates:(theta:(8))
