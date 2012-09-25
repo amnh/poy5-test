@@ -4,7 +4,7 @@ set (seed:1,timer:0)
 read("FILENAME1")
 read("FILENAME2")
 
-transform(likelihood:(jc69,mpl))
+transform(likelihood:(jc69,mpl,gap:(coupled)))
 build(2,optimize:(model:never,branches:never))
 
 report(all_roots)
