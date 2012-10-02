@@ -1,2 +1,2 @@
-estimate
-equal
+priors:(estimate)
+priors:(equal)

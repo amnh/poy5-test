@@ -16,25 +16,25 @@ END;
 
 BEGIN SETS;
  
- CharSet ch1 = 0;
+ CharSet ch1 = 1;
 
 END;
 
 BEGIN TREES;
 
- Tree one = (((Alpha[&pnd1],Beta[&pnd2])[&pnd6],Gamma[&pnd3])[&pnd8],(Delta[&pnd4],Epsilon[&pnd5])[&pnd7]);
+ Tree one = (((Alpha[&nd1],Beta[&nd2])[&nd6],Gamma[&nd3])[&nd8],(Delta[&nd4],Epsilon[&nd5])[&nd7]);
 
 END;
 
 BEGIN POY;
 
     Likelihood
-        Model = LK_MODEL; Priors = LK_PRIORS; CharSet = ch1;
-        variation = LK_RATES; cost = LK_COST;
+        Model = K2P; Parameters = 1.0; gap = missing;
+        Priors = A 0.25, C 0.25, G 0.25, T 0.25; CharSet = ch1; 
     ;
 
     CharacterBranch
-        Trees = one; Names = ch1;
+        Trees = one; CharSet = ch1;
         Map nd1 0.2, nd2 0.2, nd3 0.2, nd4 0.2, nd5 0.2, nd6 0.1, nd7 0.1, nd8 0.1;
     ;
 
