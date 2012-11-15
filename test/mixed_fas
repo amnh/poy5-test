@@ -1,8 +1,8 @@
-prealigned:("3.fas",tcm:(1,2))
-prealigned:("7.fas",tcm:(1,0))
-prealigned:("8.fas",tcm:(1,1))
+prealigned:("3.fas"\,tcm:(1\,2))
+prealigned:("7.fas"\,tcm:(1\,0))
+prealigned:("8.fas"\,tcm:(1\,1))
 "2.fas"
 "26.fas"
 "31.ss"
 "34.ss"
-aminoacid:("40.aa";prealigned)
+aminoacid:("40.aa"\;prealigned)
