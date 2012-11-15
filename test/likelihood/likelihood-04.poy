@@ -1,5 +1,5 @@
 set (seed:1)
-read("FILENAME1")
+read(FILENAME1)
 select (terminals, _random:20)
 build(2)
 set(opt:coarse)
