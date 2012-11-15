@@ -2,10 +2,18 @@
 set (seed:1,timer:0)
 
 read("FILENAME1")
-read("FILENAME2")
+read(prealigned:("FILENAME2", tcm:(1,1)))
 build(1,random)
-transform((names:"FILENAME1",(elikelihood:(k80,mpl,gap:(coupled)))))
-transform((names:"FILENAME2",(elikelihood:(gtr,mpl,gap:(coupled)))))
+
+set(opt:coarse:2)
+
+transform((names:("FILENAME1"),(elikelihood:(k80,mpl,gap:(coupled)))))
+transform((names:("FILENAME2"),(elikelihood:(gtr,mpl,gap:(coupled)))))
+
+swap(all,spr, optimize:(model:(threshold:1.3), branch:join_delta))
+
+rediagnose( preserve )
 
 report(all_roots)
+
 report(lkmodel)

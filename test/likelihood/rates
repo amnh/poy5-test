@@ -1,3 +1,4 @@
 rates:(gamma:(8))
-rates:(theta:(4))
+rates:(gamma:(4))
+rates:(theta:(3))
 rates:(constant)
