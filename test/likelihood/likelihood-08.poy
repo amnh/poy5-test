@@ -4,8 +4,8 @@ read("FILENAME1", "FILENAME2")
 
 build(1,random)
 
-transform( (names:"FILENAME1", (likelihood:(ncm)) )
-transform( (names:"FILENAME2", (likelihood:(gtr)) )
+transform( (names:("FILENAME1"), (likelihood:(ncm)) )
+transform( (names:("FILENAME2"), (likelihood:(gtr)) )
 
 swap(all)
 
