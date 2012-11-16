@@ -1,3 +1,4 @@
 priors:(estimate)
 priors:(equal)
-priors:(given:(0.24,0.24,0.24,0.24,0.04))
+priors:(given:(0.24\,0.24\,0.24\,0.24\,0.04))
+priors:(given:(0.25\,0.25\,0.25\,0.25))
