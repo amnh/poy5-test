@@ -1,5 +1,6 @@
 (* read and confirm Yang.nex *)
 set(seed:1,timer:0)
+set(opt:no_opt)
 read("./likelihood/yang.nex")
 report(all_roots)
 rediagnose()
