@@ -1,0 +1,15 @@
+(* non-test file; used to generate data for the likelihood-10 script *)
+
+set (seed:1, timer:0)
+set(opt:coarse)
+
+read(prealigned:("8.fas", tcm:(1,1)))
+set(root:"t1")
+transform(likelihood:(jc69))
+
+read("8.fas.tree", "8.fas.1.tree", "8.fas.2.tree", "8.fas.3.tree")
+select()
+swap(all, visited:"8.fas.4.trees")
+report("8.fas.4.tree",trees:(total))
+
+exit()
