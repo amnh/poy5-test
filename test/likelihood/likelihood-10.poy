@@ -1,0 +1,8 @@
+(* likelihood bremer test; w/ 1 arguments as support type *)
+set (seed:1, timer:0)
+
+read(prealigned:("8.fas", tcm:(1,1)))
+transform(likelihood:(jc69))
+read("8.fas.4.tree")
+set(root:"t1")
+report(supports:FILENAME1:"8.fas.4.trees")
