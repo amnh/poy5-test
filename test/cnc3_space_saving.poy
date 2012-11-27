@@ -1,0 +1,5 @@
+(* cost test with negative weightfactor,tcm=3,1, gap_opening:5*)
+read ("FILENAME1")
+set(space_saving_alignment)
+transform (tcm:(3,1), gap_opening:5, weightfactor:-1)
+read ("../test/FILENAME1.3.tree")
