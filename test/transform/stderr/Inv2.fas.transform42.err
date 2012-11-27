@@ -1,11 +1,12 @@
 Information : Setting random seed value to 1
 Information : Reading file Inv2.fas of type input sequences
 
-Information :
-The file Inv2.fas contains sequences of 11 taxa, each sequence holding 7
-fragments.
+Information : The file Inv2.fas contains sequences of 11 taxa, each sequence
+              holding 7 fragments.
+Status : Loading Trees Finished
 Status : Tranform Finished
-Status : Transforming : 1 of 1 --  of transformations applied
+Status : Transforming : 1 of 1 --  transformations applied
+Status : Transforming : 0 of 1 --  characters transformed
 Status : Transforming Finished
 Information : 
                 Trees:
