@@ -1,12 +1,13 @@
 Information : Setting random seed value to 50
 Information : Reading file 16.fas of type input sequences
 
-Information :
-The file 16.fas contains sequences of 49 taxa, each sequence holding 6
-fragments.
-Status : Wagner : 2 of 5 -- Wagner tree with cost 8.
-Status : Wagner : 3 of 5 -- Wagner tree with cost 9.
-Status : Wagner : 4 of 5 -- Wagner tree with cost 12.
+Information : The file 16.fas contains sequences of 49 taxa, each sequence
+              holding 6 fragments.
+Status : Loading Trees Finished
+Status : Selected 5 of 49 terminals
+Status : Wagner : 2 of 5 -- Wagner tree with cost 7.
+Status : Wagner : 3 of 5 -- Wagner tree with cost 7.
+Status : Wagner : 4 of 5 -- Wagner tree with cost 7.
 Status : Wagner Finished
 Status : Building Wagner Tree Finished
 Status : Running Pipeline : 1 of 1 -- Estimated finish in 0 s
@@ -107,15 +108,15 @@ Status : Loading Characters : 3 of 5 -- Storing the character specifications
 Status : Loading Characters : 4 of 5 -- Storing the character specifications
 Status : Loading Characters : 5 of 5 -- Storing the character specifications
 Status : Loading Characters Finished
-Status : Transforming : 1 of 1 --  of transformations applied
+Status : Transforming : 1 of 1 --  transformations applied
+Status : Transforming : 77 of 6 --  characters transformed
 Status : Transforming Finished
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
 Status : Diagnosis : 1 of 1 -- Recalculating trees
 Status : Diagnosis Finished
-Information :
-
-  Trees:
-    Storing 1 tree with cost 34. 
-  Cost Mode: Normal Direct Optimization
+Information : 
+                Trees:
+                  Storing 1 tree with cost 8. 
+                Cost Mode: Normal Direct Optimization
 PASSED
