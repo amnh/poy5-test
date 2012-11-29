@@ -1,4 +1,4 @@
 (* Read annotated chromosome using locus_inversion 50 *)
 set (seed:1, timer:0)
 read (annotated:("FILENAME1"))
-transform (all, (annoated:(locus_inversion:50)))
+transform (all, (annotated:(locus_inversion:50)))
