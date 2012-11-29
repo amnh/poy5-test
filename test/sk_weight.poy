@@ -1,0 +1,6 @@
+(* Create sankoff character *)
+read ("2.fas")
+transform( all, (tcm:("g6ts1tv2")) )
+build (1)
+transform( all, (static_approx) )
+transform (weight:3)
