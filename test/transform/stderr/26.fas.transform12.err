@@ -1,39 +1,39 @@
 Information : Setting random seed value to 50
 Information : Reading file 26.fas of type input sequences
 
-Information :
-The file 26.fas contains sequences of 31 taxa, each sequence holding 1
-fragment.
+Information : The file 26.fas contains sequences of 31 taxa, each sequence
+              holding 1 fragment.
 
-Status : Wagner : 2 of 31 -- Wagner tree with cost 13.
-Status : Wagner : 3 of 31 -- Wagner tree with cost 30.
-Status : Wagner : 4 of 31 -- Wagner tree with cost 34.
-Status : Wagner : 5 of 31 -- Wagner tree with cost 54.
-Status : Wagner : 6 of 31 -- Wagner tree with cost 62.
-Status : Wagner : 7 of 31 -- Wagner tree with cost 77.
-Status : Wagner : 8 of 31 -- Wagner tree with cost 103.
-Status : Wagner : 9 of 31 -- Wagner tree with cost 113.
-Status : Wagner : 10 of 31 -- Wagner tree with cost 115.
-Status : Wagner : 11 of 31 -- Wagner tree with cost 126.
-Status : Wagner : 12 of 31 -- Wagner tree with cost 135.
-Status : Wagner : 13 of 31 -- Wagner tree with cost 152.
-Status : Wagner : 14 of 31 -- Wagner tree with cost 160.
-Status : Wagner : 15 of 31 -- Wagner tree with cost 160.
-Status : Wagner : 16 of 31 -- Wagner tree with cost 172.
-Status : Wagner : 17 of 31 -- Wagner tree with cost 178.
-Status : Wagner : 18 of 31 -- Wagner tree with cost 178.
-Status : Wagner : 19 of 31 -- Wagner tree with cost 179.
-Status : Wagner : 20 of 31 -- Wagner tree with cost 189.
-Status : Wagner : 21 of 31 -- Wagner tree with cost 189.
-Status : Wagner : 22 of 31 -- Wagner tree with cost 189.
-Status : Wagner : 23 of 31 -- Wagner tree with cost 202.
-Status : Wagner : 24 of 31 -- Wagner tree with cost 202.
-Status : Wagner : 25 of 31 -- Wagner tree with cost 214.
-Status : Wagner : 26 of 31 -- Wagner tree with cost 228.
-Status : Wagner : 27 of 31 -- Wagner tree with cost 228.
-Status : Wagner : 28 of 31 -- Wagner tree with cost 234.
-Status : Wagner : 29 of 31 -- Wagner tree with cost 236.
-Status : Wagner : 30 of 31 -- Wagner tree with cost 239.
+Status : Loading Trees Finished
+Status : Wagner : 2 of 31 -- Wagner tree with cost 18.
+Status : Wagner : 3 of 31 -- Wagner tree with cost 36.
+Status : Wagner : 4 of 31 -- Wagner tree with cost 48.
+Status : Wagner : 5 of 31 -- Wagner tree with cost 62.
+Status : Wagner : 6 of 31 -- Wagner tree with cost 74.
+Status : Wagner : 7 of 31 -- Wagner tree with cost 89.
+Status : Wagner : 8 of 31 -- Wagner tree with cost 98.
+Status : Wagner : 9 of 31 -- Wagner tree with cost 111.
+Status : Wagner : 10 of 31 -- Wagner tree with cost 116.
+Status : Wagner : 11 of 31 -- Wagner tree with cost 116.
+Status : Wagner : 12 of 31 -- Wagner tree with cost 118.
+Status : Wagner : 13 of 31 -- Wagner tree with cost 138.
+Status : Wagner : 14 of 31 -- Wagner tree with cost 143.
+Status : Wagner : 15 of 31 -- Wagner tree with cost 155.
+Status : Wagner : 16 of 31 -- Wagner tree with cost 155.
+Status : Wagner : 17 of 31 -- Wagner tree with cost 164.
+Status : Wagner : 18 of 31 -- Wagner tree with cost 164.
+Status : Wagner : 19 of 31 -- Wagner tree with cost 174.
+Status : Wagner : 20 of 31 -- Wagner tree with cost 180.
+Status : Wagner : 21 of 31 -- Wagner tree with cost 181.
+Status : Wagner : 22 of 31 -- Wagner tree with cost 185.
+Status : Wagner : 23 of 31 -- Wagner tree with cost 185.
+Status : Wagner : 24 of 31 -- Wagner tree with cost 185.
+Status : Wagner : 25 of 31 -- Wagner tree with cost 193.
+Status : Wagner : 26 of 31 -- Wagner tree with cost 193.
+Status : Wagner : 27 of 31 -- Wagner tree with cost 193.
+Status : Wagner : 28 of 31 -- Wagner tree with cost 193.
+Status : Wagner : 29 of 31 -- Wagner tree with cost 200.
+Status : Wagner : 30 of 31 -- Wagner tree with cost 209.
 Status : Wagner Finished
 Status : Building Wagner Tree Finished
 Status : Running Pipeline : 1 of 1 -- Estimated finish in 0 s
@@ -109,60 +109,60 @@ Status : Loading Characters : 6 of 31 -- Storing the character specifications
 Status : Loading Characters : 7 of 31 -- Storing the character specifications
 Status : Loading Characters : 8 of 31 -- Storing the character specifications
 Status : Loading Characters : 9 of 31 -- Storing the character specifications
-Status :
-Loading Characters : 10 of 31 -- Storing the character specifications
-Status :
-Loading Characters : 11 of 31 -- Storing the character specifications
-Status :
-Loading Characters : 12 of 31 -- Storing the character specifications
-Status :
-Loading Characters : 13 of 31 -- Storing the character specifications
-Status :
-Loading Characters : 14 of 31 -- Storing the character specifications
-Status :
-Loading Characters : 15 of 31 -- Storing the character specifications
-Status :
-Loading Characters : 16 of 31 -- Storing the character specifications
-Status :
-Loading Characters : 17 of 31 -- Storing the character specifications
-Status :
-Loading Characters : 18 of 31 -- Storing the character specifications
-Status :
-Loading Characters : 19 of 31 -- Storing the character specifications
-Status :
-Loading Characters : 20 of 31 -- Storing the character specifications
-Status :
-Loading Characters : 21 of 31 -- Storing the character specifications
-Status :
-Loading Characters : 22 of 31 -- Storing the character specifications
-Status :
-Loading Characters : 23 of 31 -- Storing the character specifications
-Status :
-Loading Characters : 24 of 31 -- Storing the character specifications
-Status :
-Loading Characters : 25 of 31 -- Storing the character specifications
-Status :
-Loading Characters : 26 of 31 -- Storing the character specifications
-Status :
-Loading Characters : 27 of 31 -- Storing the character specifications
-Status :
-Loading Characters : 28 of 31 -- Storing the character specifications
-Status :
-Loading Characters : 29 of 31 -- Storing the character specifications
-Status :
-Loading Characters : 30 of 31 -- Storing the character specifications
-Status :
-Loading Characters : 31 of 31 -- Storing the character specifications
+Status : Loading Characters :
+         10 of 31 -- Storing the character specifications
+Status : Loading Characters :
+         11 of 31 -- Storing the character specifications
+Status : Loading Characters :
+         12 of 31 -- Storing the character specifications
+Status : Loading Characters :
+         13 of 31 -- Storing the character specifications
+Status : Loading Characters :
+         14 of 31 -- Storing the character specifications
+Status : Loading Characters :
+         15 of 31 -- Storing the character specifications
+Status : Loading Characters :
+         16 of 31 -- Storing the character specifications
+Status : Loading Characters :
+         17 of 31 -- Storing the character specifications
+Status : Loading Characters :
+         18 of 31 -- Storing the character specifications
+Status : Loading Characters :
+         19 of 31 -- Storing the character specifications
+Status : Loading Characters :
+         20 of 31 -- Storing the character specifications
+Status : Loading Characters :
+         21 of 31 -- Storing the character specifications
+Status : Loading Characters :
+         22 of 31 -- Storing the character specifications
+Status : Loading Characters :
+         23 of 31 -- Storing the character specifications
+Status : Loading Characters :
+         24 of 31 -- Storing the character specifications
+Status : Loading Characters :
+         25 of 31 -- Storing the character specifications
+Status : Loading Characters :
+         26 of 31 -- Storing the character specifications
+Status : Loading Characters :
+         27 of 31 -- Storing the character specifications
+Status : Loading Characters :
+         28 of 31 -- Storing the character specifications
+Status : Loading Characters :
+         29 of 31 -- Storing the character specifications
+Status : Loading Characters :
+         30 of 31 -- Storing the character specifications
+Status : Loading Characters :
+         31 of 31 -- Storing the character specifications
 Status : Loading Characters Finished
-Status : Transforming : 1 of 1 --  of transformations applied
+Status : Transforming : 1 of 1 --  transformations applied
+Status : Transforming : 81 of 1 --  characters transformed
 Status : Transforming Finished
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
 Status : Diagnosis : 1 of 1 -- Recalculating trees
 Status : Diagnosis Finished
-Information :
-
-  Trees:
-    Storing 1 tree with cost 233. 
-  Cost Mode: Normal Direct Optimization
+Information : 
+                Trees:
+                  Storing 1 tree with cost 206. 
+                Cost Mode: Normal Direct Optimization
 PASSED

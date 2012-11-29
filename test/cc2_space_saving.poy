@@ -1,0 +1,5 @@
+(* cost test2 with tcm=(2,1) gap_opening=1 *)
+read ("FILENAME1")
+set(space_saving_alignment)
+transform (tcm:(2,1), gap_opening:1)
+read ("../test/FILENAME1.2.tree")

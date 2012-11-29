@@ -1,8 +1,7 @@
 Information : Setting random seed value to 1
 Information : Reading file 2.fas.1.tree of type Tree List
 
-Error :
-input tree 1 of file 2.fas.1.tree has the terminal Chanbria and there is no
-data loaded for it
+Error : input tree 1 of file 2.fas.1.tree has the terminal Chanbria and there
+        is no data loaded for it
 FAILED
 Fatal error: exception Failure("Data not found")
