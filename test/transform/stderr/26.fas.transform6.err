@@ -29,7 +29,7 @@ Status : Diagnosis : 2 of 2 -- Recalculating trees
 Status : Diagnosis Finished
 Information : 
                 Trees:
-                  Storing 2 trees with costs 35.000000 to 35.000000
+                  Storing 2 trees with costs 35. to 35.
                   Best cost in 2 trees 
                 Cost Mode: Normal Direct Optimization
 PASSED
