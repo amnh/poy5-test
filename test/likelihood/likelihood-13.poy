@@ -1,0 +1,9 @@
+(* prealigned [e]Likelihood w/ gamma; w/ 4 arguments *)
+set (seed:1, timer:0)
+read(prealigned:("FILENAME1", tcm:(1,1)))
+
+build(1,random)
+set(opt:no_opt)
+transform(FILENAME2:(FILENAME3,FILENAME4,gap:(FILENAME5),rates:(theta:(4))))
+report(all_roots)
+report(lkmodel)
