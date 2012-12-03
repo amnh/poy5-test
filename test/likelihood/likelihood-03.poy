@@ -1,12 +1,7 @@
-(* test transforming a bunch of models combining 4 arguments *)
+(* test prealigned [e]likelihood with odd tcm *)
 set (seed:1)
-read(FILENAME1)
-set( opt:no_opt )
-
+read(prealigned:("FILENAME1", tcm:(1,0)))
 build(1)
-transform(likelihood:(FILENAME4,FILENAME3))
-transform(likelihood:(FILENAME5,FILENAME2))
-transform(likelihood:(FILENAME4,FILENAME3))
-
+transform(FILENAME2:(FILENAME3,FILENAME4,gap:(FILENAME5))
 report(all_roots)
 report(lkmodel)

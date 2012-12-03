@@ -1,9 +1,9 @@
-(* Likelihood Test; w/ 4 arguments *)
+(* Likelihood pre-aligned Test (tcm:(1,1)); w/ 1 file 2 arguments *)
 set (seed:1, timer:0)
-read(FILENAME1)
+read(prealigned:("FILENAME1", tcm:(1,1)))
 
 build(1,random)
 set(opt:no_opt)
-transform(likelihood:(FILENAME2,FILENAME3,FILENAME4,FILENAME5))
+transform(FILENAME2:(FILENAME3,FILENAME4,gap:(FILENAME5)))
 report(all_roots)
 report(lkmodel)
