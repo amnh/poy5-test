@@ -1,4 +1,4 @@
-(* Build 3 trees and report graphsupports for bremer on screen * )
+(* Build 3 trees and report graphsupports for bremer on screen *)
 set(seed:50, timer:0)
 read ("1.fas", "30.ss")
 build (3)
