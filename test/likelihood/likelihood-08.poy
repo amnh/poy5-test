@@ -1,16 +1,12 @@
 (* Static NCM Test; w/ 2 argument *)
 set (seed:1, timer:0)
-read("FILENAME1", "FILENAME2")
+read(prealigned:("FILENAME1",tcm:(1,1)), "FILENAME2")
 
-build(1,random)
+build(3)
 
 transform( (names:("FILENAME1"), (likelihood:(ncm))) )
 transform( (names:("FILENAME2"), (likelihood:(gtr))) )
 
-swap(all)
-
 report( lkmodel )
-
 report( all_roots )
-
 transform(parsimony)
