@@ -1,0 +1,1604 @@
+Information : Setting random seed value to 50
+Information : Reading file 1.fas of type input sequences
+
+Information : The file 1.fas contains sequences of 49 taxa, each sequence
+              holding 5 fragments.
+Status : Loading Trees Finished
+Information : Reading file 30.ss of type hennig86/Nona
+
+Information : The file 30.ss defines 144 static homology characters,
+              0 unaligned sequences, and 0 trees, containing 49 taxa.
+Status : Loading Characters : 0 of 49 -- Storing the character specifications
+Status : Loading Characters : 1 of 49 -- Storing the character specifications
+Status : Loading Characters : 2 of 49 -- Storing the character specifications
+Status : Loading Characters : 3 of 49 -- Storing the character specifications
+Status : Loading Characters : 4 of 49 -- Storing the character specifications
+Status : Loading Characters : 5 of 49 -- Storing the character specifications
+Status : Loading Characters : 6 of 49 -- Storing the character specifications
+Status : Loading Characters : 7 of 49 -- Storing the character specifications
+Status : Loading Characters : 8 of 49 -- Storing the character specifications
+Status : Loading Characters : 9 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         10 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         11 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         12 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         13 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         14 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         15 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         16 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         17 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         18 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         19 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         20 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         21 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         22 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         23 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         24 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         25 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         26 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         27 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         28 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         29 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         30 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         31 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         32 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         33 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         34 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         35 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         36 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         37 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         38 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         39 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         40 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         41 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         42 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         43 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         44 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         45 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         46 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         47 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         48 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         49 of 49 -- Storing the character specifications
+Status : Loading Characters Finished
+Information : Vectorized:113 of 113 characters.
+Status : Loading Trees Finished
+Status : Wagner : 2 of 49 -- Wagner tree with cost 127.
+Status : Wagner : 3 of 49 -- Wagner tree with cost 177.
+Status : Wagner : 4 of 49 -- Wagner tree with cost 226.
+Status : Wagner : 5 of 49 -- Wagner tree with cost 317.
+Status : Wagner : 6 of 49 -- Wagner tree with cost 330.
+Status : Wagner : 7 of 49 -- Wagner tree with cost 365.
+Status : Wagner : 8 of 49 -- Wagner tree with cost 393.
+Status : Wagner : 9 of 49 -- Wagner tree with cost 430.
+Status : Wagner : 10 of 49 -- Wagner tree with cost 469.
+Status : Wagner : 11 of 49 -- Wagner tree with cost 496.
+Status : Wagner : 12 of 49 -- Wagner tree with cost 518.
+Status : Wagner : 13 of 49 -- Wagner tree with cost 564.
+Status : Wagner : 14 of 49 -- Wagner tree with cost 652.
+Status : Wagner : 15 of 49 -- Wagner tree with cost 678.
+Status : Wagner : 16 of 49 -- Wagner tree with cost 702.
+Status : Wagner : 17 of 49 -- Wagner tree with cost 734.
+Status : Wagner : 18 of 49 -- Wagner tree with cost 763.
+Status : Wagner : 19 of 49 -- Wagner tree with cost 779.
+Status : Wagner : 20 of 49 -- Wagner tree with cost 838.
+Status : Wagner : 21 of 49 -- Wagner tree with cost 872.
+Status : Wagner : 22 of 49 -- Wagner tree with cost 916.
+Status : Wagner : 23 of 49 -- Wagner tree with cost 929.
+Status : Wagner : 24 of 49 -- Wagner tree with cost 941.
+Status : Wagner : 25 of 49 -- Wagner tree with cost 948.
+Status : Wagner : 26 of 49 -- Wagner tree with cost 962.
+Status : Wagner : 27 of 49 -- Wagner tree with cost 987.
+Status : Wagner : 28 of 49 -- Wagner tree with cost 1030.
+Status : Wagner : 29 of 49 -- Wagner tree with cost 1106.
+Status : Wagner : 30 of 49 -- Wagner tree with cost 1121.
+Status : Wagner : 31 of 49 -- Wagner tree with cost 1132.
+Status : Wagner : 32 of 49 -- Wagner tree with cost 1205.
+Status : Wagner : 33 of 49 -- Wagner tree with cost 1218.
+Status : Wagner : 34 of 49 -- Wagner tree with cost 1301.
+Status : Wagner : 35 of 49 -- Wagner tree with cost 1321.
+Status : Wagner : 36 of 49 -- Wagner tree with cost 1349.
+Status : Wagner : 37 of 49 -- Wagner tree with cost 1362.
+Status : Wagner : 38 of 49 -- Wagner tree with cost 1400.
+Status : Wagner : 39 of 49 -- Wagner tree with cost 1406.
+Status : Wagner : 40 of 49 -- Wagner tree with cost 1423.
+Status : Wagner : 41 of 49 -- Wagner tree with cost 1426.
+Status : Wagner : 42 of 49 -- Wagner tree with cost 1458.
+Status : Wagner : 43 of 49 -- Wagner tree with cost 1506.
+Status : Wagner : 44 of 49 -- Wagner tree with cost 1553.
+Status : Wagner : 45 of 49 -- Wagner tree with cost 1703.
+Status : Wagner : 46 of 49 -- Wagner tree with cost 1743.
+Status : Wagner : 47 of 49 -- Wagner tree with cost 1797.
+Status : Wagner : 48 of 49 -- Wagner tree with cost 1806.
+Status : Wagner Finished
+Status : Building Wagner Tree Finished
+Status : Wagner : 2 of 49 -- Wagner tree with cost 17.
+Status : Wagner : 3 of 49 -- Wagner tree with cost 128.
+Status : Wagner : 4 of 49 -- Wagner tree with cost 159.
+Status : Wagner : 5 of 49 -- Wagner tree with cost 263.
+Status : Wagner : 6 of 49 -- Wagner tree with cost 314.
+Status : Wagner : 7 of 49 -- Wagner tree with cost 343.
+Status : Wagner : 8 of 49 -- Wagner tree with cost 387.
+Status : Wagner : 9 of 49 -- Wagner tree with cost 413.
+Status : Wagner : 10 of 49 -- Wagner tree with cost 466.
+Status : Wagner : 11 of 49 -- Wagner tree with cost 466.
+Status : Wagner : 12 of 49 -- Wagner tree with cost 510.
+Status : Wagner : 13 of 49 -- Wagner tree with cost 556.
+Status : Wagner : 14 of 49 -- Wagner tree with cost 570.
+Status : Wagner : 15 of 49 -- Wagner tree with cost 745.
+Status : Wagner : 16 of 49 -- Wagner tree with cost 825.
+Status : Wagner : 17 of 49 -- Wagner tree with cost 892.
+Status : Wagner : 18 of 49 -- Wagner tree with cost 939.
+Status : Wagner : 19 of 49 -- Wagner tree with cost 946.
+Status : Wagner : 20 of 49 -- Wagner tree with cost 985.
+Status : Wagner : 21 of 49 -- Wagner tree with cost 1023.
+Status : Wagner : 22 of 49 -- Wagner tree with cost 1032.
+Status : Wagner : 23 of 49 -- Wagner tree with cost 1080.
+Status : Wagner : 24 of 49 -- Wagner tree with cost 1117.
+Status : Wagner : 25 of 49 -- Wagner tree with cost 1139.
+Status : Wagner : 26 of 49 -- Wagner tree with cost 1147.
+Status : Wagner : 27 of 49 -- Wagner tree with cost 1188.
+Status : Wagner : 28 of 49 -- Wagner tree with cost 1234.
+Status : Wagner : 29 of 49 -- Wagner tree with cost 1273.
+Status : Wagner : 30 of 49 -- Wagner tree with cost 1352.
+Status : Wagner : 31 of 49 -- Wagner tree with cost 1359.
+Status : Wagner : 32 of 49 -- Wagner tree with cost 1382.
+Status : Wagner : 33 of 49 -- Wagner tree with cost 1390.
+Status : Wagner : 34 of 49 -- Wagner tree with cost 1468.
+Status : Wagner : 35 of 49 -- Wagner tree with cost 1491.
+Status : Wagner : 36 of 49 -- Wagner tree with cost 1506.
+Status : Wagner : 37 of 49 -- Wagner tree with cost 1543.
+Status : Wagner : 38 of 49 -- Wagner tree with cost 1554.
+Status : Wagner : 39 of 49 -- Wagner tree with cost 1565.
+Status : Wagner : 40 of 49 -- Wagner tree with cost 1579.
+Status : Wagner : 41 of 49 -- Wagner tree with cost 1592.
+Status : Wagner : 42 of 49 -- Wagner tree with cost 1602.
+Status : Wagner : 43 of 49 -- Wagner tree with cost 1642.
+Status : Wagner : 44 of 49 -- Wagner tree with cost 1654.
+Status : Wagner : 45 of 49 -- Wagner tree with cost 1688.
+Status : Wagner : 46 of 49 -- Wagner tree with cost 1704.
+Status : Wagner : 47 of 49 -- Wagner tree with cost 1720.
+Status : Wagner : 48 of 49 -- Wagner tree with cost 1795.
+Status : Wagner Finished
+Status : Building Wagner Tree Finished
+Status : Wagner : 2 of 49 -- Wagner tree with cost 124.
+Status : Wagner : 3 of 49 -- Wagner tree with cost 159.
+Status : Wagner : 4 of 49 -- Wagner tree with cost 206.
+Status : Wagner : 5 of 49 -- Wagner tree with cost 243.
+Status : Wagner : 6 of 49 -- Wagner tree with cost 281.
+Status : Wagner : 7 of 49 -- Wagner tree with cost 330.
+Status : Wagner : 8 of 49 -- Wagner tree with cost 370.
+Status : Wagner : 9 of 49 -- Wagner tree with cost 416.
+Status : Wagner : 10 of 49 -- Wagner tree with cost 449.
+Status : Wagner : 11 of 49 -- Wagner tree with cost 473.
+Status : Wagner : 12 of 49 -- Wagner tree with cost 583.
+Status : Wagner : 13 of 49 -- Wagner tree with cost 606.
+Status : Wagner : 14 of 49 -- Wagner tree with cost 652.
+Status : Wagner : 15 of 49 -- Wagner tree with cost 677.
+Status : Wagner : 16 of 49 -- Wagner tree with cost 829.
+Status : Wagner : 17 of 49 -- Wagner tree with cost 917.
+Status : Wagner : 18 of 49 -- Wagner tree with cost 928.
+Status : Wagner : 19 of 49 -- Wagner tree with cost 976.
+Status : Wagner : 20 of 49 -- Wagner tree with cost 1019.
+Status : Wagner : 21 of 49 -- Wagner tree with cost 1030.
+Status : Wagner : 22 of 49 -- Wagner tree with cost 1041.
+Status : Wagner : 23 of 49 -- Wagner tree with cost 1072.
+Status : Wagner : 24 of 49 -- Wagner tree with cost 1100.
+Status : Wagner : 25 of 49 -- Wagner tree with cost 1157.
+Status : Wagner : 26 of 49 -- Wagner tree with cost 1161.
+Status : Wagner : 27 of 49 -- Wagner tree with cost 1239.
+Status : Wagner : 28 of 49 -- Wagner tree with cost 1325.
+Status : Wagner : 29 of 49 -- Wagner tree with cost 1370.
+Status : Wagner : 30 of 49 -- Wagner tree with cost 1384.
+Status : Wagner : 31 of 49 -- Wagner tree with cost 1399.
+Status : Wagner : 32 of 49 -- Wagner tree with cost 1419.
+Status : Wagner : 33 of 49 -- Wagner tree with cost 1487.
+Status : Wagner : 34 of 49 -- Wagner tree with cost 1503.
+Status : Wagner : 35 of 49 -- Wagner tree with cost 1508.
+Status : Wagner : 36 of 49 -- Wagner tree with cost 1518.
+Status : Wagner : 37 of 49 -- Wagner tree with cost 1539.
+Status : Wagner : 38 of 49 -- Wagner tree with cost 1559.
+Status : Wagner : 39 of 49 -- Wagner tree with cost 1597.
+Status : Wagner : 40 of 49 -- Wagner tree with cost 1607.
+Status : Wagner : 41 of 49 -- Wagner tree with cost 1617.
+Status : Wagner : 42 of 49 -- Wagner tree with cost 1627.
+Status : Wagner : 43 of 49 -- Wagner tree with cost 1651.
+Status : Wagner : 44 of 49 -- Wagner tree with cost 1727.
+Status : Wagner : 45 of 49 -- Wagner tree with cost 1781.
+Status : Wagner : 46 of 49 -- Wagner tree with cost 1814.
+Status : Wagner : 47 of 49 -- Wagner tree with cost 1836.
+Status : Wagner : 48 of 49 -- Wagner tree with cost 1851.
+Status : Wagner Finished
+Status : Building Wagner Tree Finished
+Status : Running Pipeline Finished
+Information : I will use the shortest tree to fix the sequence alignments.
+Warning : Data contains characters that do not support static approx. I will skip over these and do the best that I can.
+Status : Implied Alignments : 1 of 97 -- vertices calculated
+Status : Implied Alignments : 2 of 97 -- vertices calculated
+Status : Implied Alignments : 3 of 97 -- vertices calculated
+Status : Implied Alignments : 4 of 97 -- vertices calculated
+Status : Implied Alignments : 5 of 97 -- vertices calculated
+Status : Implied Alignments : 6 of 97 -- vertices calculated
+Status : Implied Alignments : 7 of 97 -- vertices calculated
+Status : Implied Alignments : 8 of 97 -- vertices calculated
+Status : Implied Alignments : 9 of 97 -- vertices calculated
+Status : Implied Alignments : 10 of 97 -- vertices calculated
+Status : Implied Alignments : 11 of 97 -- vertices calculated
+Status : Implied Alignments : 12 of 97 -- vertices calculated
+Status : Implied Alignments : 13 of 97 -- vertices calculated
+Status : Implied Alignments : 14 of 97 -- vertices calculated
+Status : Implied Alignments : 15 of 97 -- vertices calculated
+Status : Implied Alignments : 16 of 97 -- vertices calculated
+Status : Implied Alignments : 17 of 97 -- vertices calculated
+Status : Implied Alignments : 18 of 97 -- vertices calculated
+Status : Implied Alignments : 19 of 97 -- vertices calculated
+Status : Implied Alignments : 20 of 97 -- vertices calculated
+Status : Implied Alignments : 21 of 97 -- vertices calculated
+Status : Implied Alignments : 22 of 97 -- vertices calculated
+Status : Implied Alignments : 23 of 97 -- vertices calculated
+Status : Implied Alignments : 24 of 97 -- vertices calculated
+Status : Implied Alignments : 25 of 97 -- vertices calculated
+Status : Implied Alignments : 26 of 97 -- vertices calculated
+Status : Implied Alignments : 27 of 97 -- vertices calculated
+Status : Implied Alignments : 28 of 97 -- vertices calculated
+Status : Implied Alignments : 29 of 97 -- vertices calculated
+Status : Implied Alignments : 30 of 97 -- vertices calculated
+Status : Implied Alignments : 31 of 97 -- vertices calculated
+Status : Implied Alignments : 32 of 97 -- vertices calculated
+Status : Implied Alignments : 33 of 97 -- vertices calculated
+Status : Implied Alignments : 34 of 97 -- vertices calculated
+Status : Implied Alignments : 35 of 97 -- vertices calculated
+Status : Implied Alignments : 36 of 97 -- vertices calculated
+Status : Implied Alignments : 37 of 97 -- vertices calculated
+Status : Implied Alignments : 38 of 97 -- vertices calculated
+Status : Implied Alignments : 39 of 97 -- vertices calculated
+Status : Implied Alignments : 40 of 97 -- vertices calculated
+Status : Implied Alignments : 41 of 97 -- vertices calculated
+Status : Implied Alignments : 42 of 97 -- vertices calculated
+Status : Implied Alignments : 43 of 97 -- vertices calculated
+Status : Implied Alignments : 44 of 97 -- vertices calculated
+Status : Implied Alignments : 45 of 97 -- vertices calculated
+Status : Implied Alignments : 46 of 97 -- vertices calculated
+Status : Implied Alignments : 47 of 97 -- vertices calculated
+Status : Implied Alignments : 48 of 97 -- vertices calculated
+Status : Implied Alignments : 49 of 97 -- vertices calculated
+Status : Implied Alignments : 50 of 97 -- vertices calculated
+Status : Implied Alignments : 51 of 97 -- vertices calculated
+Status : Implied Alignments : 52 of 97 -- vertices calculated
+Status : Implied Alignments : 53 of 97 -- vertices calculated
+Status : Implied Alignments : 54 of 97 -- vertices calculated
+Status : Implied Alignments : 55 of 97 -- vertices calculated
+Status : Implied Alignments : 56 of 97 -- vertices calculated
+Status : Implied Alignments : 57 of 97 -- vertices calculated
+Status : Implied Alignments : 58 of 97 -- vertices calculated
+Status : Implied Alignments : 59 of 97 -- vertices calculated
+Status : Implied Alignments : 60 of 97 -- vertices calculated
+Status : Implied Alignments : 61 of 97 -- vertices calculated
+Status : Implied Alignments : 62 of 97 -- vertices calculated
+Status : Implied Alignments : 63 of 97 -- vertices calculated
+Status : Implied Alignments : 64 of 97 -- vertices calculated
+Status : Implied Alignments : 65 of 97 -- vertices calculated
+Status : Implied Alignments : 66 of 97 -- vertices calculated
+Status : Implied Alignments : 67 of 97 -- vertices calculated
+Status : Implied Alignments : 68 of 97 -- vertices calculated
+Status : Implied Alignments : 69 of 97 -- vertices calculated
+Status : Implied Alignments : 70 of 97 -- vertices calculated
+Status : Implied Alignments : 71 of 97 -- vertices calculated
+Status : Implied Alignments : 72 of 97 -- vertices calculated
+Status : Implied Alignments : 73 of 97 -- vertices calculated
+Status : Implied Alignments : 74 of 97 -- vertices calculated
+Status : Implied Alignments : 75 of 97 -- vertices calculated
+Status : Implied Alignments : 76 of 97 -- vertices calculated
+Status : Implied Alignments : 77 of 97 -- vertices calculated
+Status : Implied Alignments : 78 of 97 -- vertices calculated
+Status : Implied Alignments : 79 of 97 -- vertices calculated
+Status : Implied Alignments : 80 of 97 -- vertices calculated
+Status : Implied Alignments : 81 of 97 -- vertices calculated
+Status : Implied Alignments : 82 of 97 -- vertices calculated
+Status : Implied Alignments : 83 of 97 -- vertices calculated
+Status : Implied Alignments : 84 of 97 -- vertices calculated
+Status : Implied Alignments : 85 of 97 -- vertices calculated
+Status : Implied Alignments : 86 of 97 -- vertices calculated
+Status : Implied Alignments : 87 of 97 -- vertices calculated
+Status : Implied Alignments : 88 of 97 -- vertices calculated
+Status : Implied Alignments : 89 of 97 -- vertices calculated
+Status : Implied Alignments : 90 of 97 -- vertices calculated
+Status : Implied Alignments : 91 of 97 -- vertices calculated
+Status : Implied Alignments : 92 of 97 -- vertices calculated
+Status : Implied Alignments : 93 of 97 -- vertices calculated
+Status : Implied Alignments : 94 of 97 -- vertices calculated
+Status : Implied Alignments : 95 of 97 -- vertices calculated
+Status : Implied Alignments Finished
+Status : Static Approximation Finished
+Status : Implied Alignments : 1 of 97 -- vertices calculated
+Status : Implied Alignments : 2 of 97 -- vertices calculated
+Status : Implied Alignments : 3 of 97 -- vertices calculated
+Status : Implied Alignments : 4 of 97 -- vertices calculated
+Status : Implied Alignments : 5 of 97 -- vertices calculated
+Status : Implied Alignments : 6 of 97 -- vertices calculated
+Status : Implied Alignments : 7 of 97 -- vertices calculated
+Status : Implied Alignments : 8 of 97 -- vertices calculated
+Status : Implied Alignments : 9 of 97 -- vertices calculated
+Status : Implied Alignments : 10 of 97 -- vertices calculated
+Status : Implied Alignments : 11 of 97 -- vertices calculated
+Status : Implied Alignments : 12 of 97 -- vertices calculated
+Status : Implied Alignments : 13 of 97 -- vertices calculated
+Status : Implied Alignments : 14 of 97 -- vertices calculated
+Status : Implied Alignments : 15 of 97 -- vertices calculated
+Status : Implied Alignments : 16 of 97 -- vertices calculated
+Status : Implied Alignments : 17 of 97 -- vertices calculated
+Status : Implied Alignments : 18 of 97 -- vertices calculated
+Status : Implied Alignments : 19 of 97 -- vertices calculated
+Status : Implied Alignments : 20 of 97 -- vertices calculated
+Status : Implied Alignments : 21 of 97 -- vertices calculated
+Status : Implied Alignments : 22 of 97 -- vertices calculated
+Status : Implied Alignments : 23 of 97 -- vertices calculated
+Status : Implied Alignments : 24 of 97 -- vertices calculated
+Status : Implied Alignments : 25 of 97 -- vertices calculated
+Status : Implied Alignments : 26 of 97 -- vertices calculated
+Status : Implied Alignments : 27 of 97 -- vertices calculated
+Status : Implied Alignments : 28 of 97 -- vertices calculated
+Status : Implied Alignments : 29 of 97 -- vertices calculated
+Status : Implied Alignments : 30 of 97 -- vertices calculated
+Status : Implied Alignments : 31 of 97 -- vertices calculated
+Status : Implied Alignments : 32 of 97 -- vertices calculated
+Status : Implied Alignments : 33 of 97 -- vertices calculated
+Status : Implied Alignments : 34 of 97 -- vertices calculated
+Status : Implied Alignments : 35 of 97 -- vertices calculated
+Status : Implied Alignments : 36 of 97 -- vertices calculated
+Status : Implied Alignments : 37 of 97 -- vertices calculated
+Status : Implied Alignments : 38 of 97 -- vertices calculated
+Status : Implied Alignments : 39 of 97 -- vertices calculated
+Status : Implied Alignments : 40 of 97 -- vertices calculated
+Status : Implied Alignments : 41 of 97 -- vertices calculated
+Status : Implied Alignments : 42 of 97 -- vertices calculated
+Status : Implied Alignments : 43 of 97 -- vertices calculated
+Status : Implied Alignments : 44 of 97 -- vertices calculated
+Status : Implied Alignments : 45 of 97 -- vertices calculated
+Status : Implied Alignments : 46 of 97 -- vertices calculated
+Status : Implied Alignments : 47 of 97 -- vertices calculated
+Status : Implied Alignments : 48 of 97 -- vertices calculated
+Status : Implied Alignments : 49 of 97 -- vertices calculated
+Status : Implied Alignments : 50 of 97 -- vertices calculated
+Status : Implied Alignments : 51 of 97 -- vertices calculated
+Status : Implied Alignments : 52 of 97 -- vertices calculated
+Status : Implied Alignments : 53 of 97 -- vertices calculated
+Status : Implied Alignments : 54 of 97 -- vertices calculated
+Status : Implied Alignments : 55 of 97 -- vertices calculated
+Status : Implied Alignments : 56 of 97 -- vertices calculated
+Status : Implied Alignments : 57 of 97 -- vertices calculated
+Status : Implied Alignments : 58 of 97 -- vertices calculated
+Status : Implied Alignments : 59 of 97 -- vertices calculated
+Status : Implied Alignments : 60 of 97 -- vertices calculated
+Status : Implied Alignments : 61 of 97 -- vertices calculated
+Status : Implied Alignments : 62 of 97 -- vertices calculated
+Status : Implied Alignments : 63 of 97 -- vertices calculated
+Status : Implied Alignments : 64 of 97 -- vertices calculated
+Status : Implied Alignments : 65 of 97 -- vertices calculated
+Status : Implied Alignments : 66 of 97 -- vertices calculated
+Status : Implied Alignments : 67 of 97 -- vertices calculated
+Status : Implied Alignments : 68 of 97 -- vertices calculated
+Status : Implied Alignments : 69 of 97 -- vertices calculated
+Status : Implied Alignments : 70 of 97 -- vertices calculated
+Status : Implied Alignments : 71 of 97 -- vertices calculated
+Status : Implied Alignments : 72 of 97 -- vertices calculated
+Status : Implied Alignments : 73 of 97 -- vertices calculated
+Status : Implied Alignments : 74 of 97 -- vertices calculated
+Status : Implied Alignments : 75 of 97 -- vertices calculated
+Status : Implied Alignments : 76 of 97 -- vertices calculated
+Status : Implied Alignments : 77 of 97 -- vertices calculated
+Status : Implied Alignments : 78 of 97 -- vertices calculated
+Status : Implied Alignments : 79 of 97 -- vertices calculated
+Status : Implied Alignments : 80 of 97 -- vertices calculated
+Status : Implied Alignments : 81 of 97 -- vertices calculated
+Status : Implied Alignments : 82 of 97 -- vertices calculated
+Status : Implied Alignments : 83 of 97 -- vertices calculated
+Status : Implied Alignments : 84 of 97 -- vertices calculated
+Status : Implied Alignments : 85 of 97 -- vertices calculated
+Status : Implied Alignments : 86 of 97 -- vertices calculated
+Status : Implied Alignments : 87 of 97 -- vertices calculated
+Status : Implied Alignments : 88 of 97 -- vertices calculated
+Status : Implied Alignments : 89 of 97 -- vertices calculated
+Status : Implied Alignments : 90 of 97 -- vertices calculated
+Status : Implied Alignments : 91 of 97 -- vertices calculated
+Status : Implied Alignments : 92 of 97 -- vertices calculated
+Status : Implied Alignments : 93 of 97 -- vertices calculated
+Status : Implied Alignments : 94 of 97 -- vertices calculated
+Status : Implied Alignments : 95 of 97 -- vertices calculated
+Status : Implied Alignments Finished
+Status : Static Approximation Finished
+Status : Implied Alignments : 1 of 97 -- vertices calculated
+Status : Implied Alignments : 2 of 97 -- vertices calculated
+Status : Implied Alignments : 3 of 97 -- vertices calculated
+Status : Implied Alignments : 4 of 97 -- vertices calculated
+Status : Implied Alignments : 5 of 97 -- vertices calculated
+Status : Implied Alignments : 6 of 97 -- vertices calculated
+Status : Implied Alignments : 7 of 97 -- vertices calculated
+Status : Implied Alignments : 8 of 97 -- vertices calculated
+Status : Implied Alignments : 9 of 97 -- vertices calculated
+Status : Implied Alignments : 10 of 97 -- vertices calculated
+Status : Implied Alignments : 11 of 97 -- vertices calculated
+Status : Implied Alignments : 12 of 97 -- vertices calculated
+Status : Implied Alignments : 13 of 97 -- vertices calculated
+Status : Implied Alignments : 14 of 97 -- vertices calculated
+Status : Implied Alignments : 15 of 97 -- vertices calculated
+Status : Implied Alignments : 16 of 97 -- vertices calculated
+Status : Implied Alignments : 17 of 97 -- vertices calculated
+Status : Implied Alignments : 18 of 97 -- vertices calculated
+Status : Implied Alignments : 19 of 97 -- vertices calculated
+Status : Implied Alignments : 20 of 97 -- vertices calculated
+Status : Implied Alignments : 21 of 97 -- vertices calculated
+Status : Implied Alignments : 22 of 97 -- vertices calculated
+Status : Implied Alignments : 23 of 97 -- vertices calculated
+Status : Implied Alignments : 24 of 97 -- vertices calculated
+Status : Implied Alignments : 25 of 97 -- vertices calculated
+Status : Implied Alignments : 26 of 97 -- vertices calculated
+Status : Implied Alignments : 27 of 97 -- vertices calculated
+Status : Implied Alignments : 28 of 97 -- vertices calculated
+Status : Implied Alignments : 29 of 97 -- vertices calculated
+Status : Implied Alignments : 30 of 97 -- vertices calculated
+Status : Implied Alignments : 31 of 97 -- vertices calculated
+Status : Implied Alignments : 32 of 97 -- vertices calculated
+Status : Implied Alignments : 33 of 97 -- vertices calculated
+Status : Implied Alignments : 34 of 97 -- vertices calculated
+Status : Implied Alignments : 35 of 97 -- vertices calculated
+Status : Implied Alignments : 36 of 97 -- vertices calculated
+Status : Implied Alignments : 37 of 97 -- vertices calculated
+Status : Implied Alignments : 38 of 97 -- vertices calculated
+Status : Implied Alignments : 39 of 97 -- vertices calculated
+Status : Implied Alignments : 40 of 97 -- vertices calculated
+Status : Implied Alignments : 41 of 97 -- vertices calculated
+Status : Implied Alignments : 42 of 97 -- vertices calculated
+Status : Implied Alignments : 43 of 97 -- vertices calculated
+Status : Implied Alignments : 44 of 97 -- vertices calculated
+Status : Implied Alignments : 45 of 97 -- vertices calculated
+Status : Implied Alignments : 46 of 97 -- vertices calculated
+Status : Implied Alignments : 47 of 97 -- vertices calculated
+Status : Implied Alignments : 48 of 97 -- vertices calculated
+Status : Implied Alignments : 49 of 97 -- vertices calculated
+Status : Implied Alignments : 50 of 97 -- vertices calculated
+Status : Implied Alignments : 51 of 97 -- vertices calculated
+Status : Implied Alignments : 52 of 97 -- vertices calculated
+Status : Implied Alignments : 53 of 97 -- vertices calculated
+Status : Implied Alignments : 54 of 97 -- vertices calculated
+Status : Implied Alignments : 55 of 97 -- vertices calculated
+Status : Implied Alignments : 56 of 97 -- vertices calculated
+Status : Implied Alignments : 57 of 97 -- vertices calculated
+Status : Implied Alignments : 58 of 97 -- vertices calculated
+Status : Implied Alignments : 59 of 97 -- vertices calculated
+Status : Implied Alignments : 60 of 97 -- vertices calculated
+Status : Implied Alignments : 61 of 97 -- vertices calculated
+Status : Implied Alignments : 62 of 97 -- vertices calculated
+Status : Implied Alignments : 63 of 97 -- vertices calculated
+Status : Implied Alignments : 64 of 97 -- vertices calculated
+Status : Implied Alignments : 65 of 97 -- vertices calculated
+Status : Implied Alignments : 66 of 97 -- vertices calculated
+Status : Implied Alignments : 67 of 97 -- vertices calculated
+Status : Implied Alignments : 68 of 97 -- vertices calculated
+Status : Implied Alignments : 69 of 97 -- vertices calculated
+Status : Implied Alignments : 70 of 97 -- vertices calculated
+Status : Implied Alignments : 71 of 97 -- vertices calculated
+Status : Implied Alignments : 72 of 97 -- vertices calculated
+Status : Implied Alignments : 73 of 97 -- vertices calculated
+Status : Implied Alignments : 74 of 97 -- vertices calculated
+Status : Implied Alignments : 75 of 97 -- vertices calculated
+Status : Implied Alignments : 76 of 97 -- vertices calculated
+Status : Implied Alignments : 77 of 97 -- vertices calculated
+Status : Implied Alignments : 78 of 97 -- vertices calculated
+Status : Implied Alignments : 79 of 97 -- vertices calculated
+Status : Implied Alignments : 80 of 97 -- vertices calculated
+Status : Implied Alignments : 81 of 97 -- vertices calculated
+Status : Implied Alignments : 82 of 97 -- vertices calculated
+Status : Implied Alignments : 83 of 97 -- vertices calculated
+Status : Implied Alignments : 84 of 97 -- vertices calculated
+Status : Implied Alignments : 85 of 97 -- vertices calculated
+Status : Implied Alignments : 86 of 97 -- vertices calculated
+Status : Implied Alignments : 87 of 97 -- vertices calculated
+Status : Implied Alignments : 88 of 97 -- vertices calculated
+Status : Implied Alignments : 89 of 97 -- vertices calculated
+Status : Implied Alignments : 90 of 97 -- vertices calculated
+Status : Implied Alignments : 91 of 97 -- vertices calculated
+Status : Implied Alignments : 92 of 97 -- vertices calculated
+Status : Implied Alignments : 93 of 97 -- vertices calculated
+Status : Implied Alignments : 94 of 97 -- vertices calculated
+Status : Implied Alignments : 95 of 97 -- vertices calculated
+Status : Implied Alignments Finished
+Status : Static Approximation Finished
+Status : Implied Alignments : 1 of 97 -- vertices calculated
+Status : Implied Alignments : 2 of 97 -- vertices calculated
+Status : Implied Alignments : 3 of 97 -- vertices calculated
+Status : Implied Alignments : 4 of 97 -- vertices calculated
+Status : Implied Alignments : 5 of 97 -- vertices calculated
+Status : Implied Alignments : 6 of 97 -- vertices calculated
+Status : Implied Alignments : 7 of 97 -- vertices calculated
+Status : Implied Alignments : 8 of 97 -- vertices calculated
+Status : Implied Alignments : 9 of 97 -- vertices calculated
+Status : Implied Alignments : 10 of 97 -- vertices calculated
+Status : Implied Alignments : 11 of 97 -- vertices calculated
+Status : Implied Alignments : 12 of 97 -- vertices calculated
+Status : Implied Alignments : 13 of 97 -- vertices calculated
+Status : Implied Alignments : 14 of 97 -- vertices calculated
+Status : Implied Alignments : 15 of 97 -- vertices calculated
+Status : Implied Alignments : 16 of 97 -- vertices calculated
+Status : Implied Alignments : 17 of 97 -- vertices calculated
+Status : Implied Alignments : 18 of 97 -- vertices calculated
+Status : Implied Alignments : 19 of 97 -- vertices calculated
+Status : Implied Alignments : 20 of 97 -- vertices calculated
+Status : Implied Alignments : 21 of 97 -- vertices calculated
+Status : Implied Alignments : 22 of 97 -- vertices calculated
+Status : Implied Alignments : 23 of 97 -- vertices calculated
+Status : Implied Alignments : 24 of 97 -- vertices calculated
+Status : Implied Alignments : 25 of 97 -- vertices calculated
+Status : Implied Alignments : 26 of 97 -- vertices calculated
+Status : Implied Alignments : 27 of 97 -- vertices calculated
+Status : Implied Alignments : 28 of 97 -- vertices calculated
+Status : Implied Alignments : 29 of 97 -- vertices calculated
+Status : Implied Alignments : 30 of 97 -- vertices calculated
+Status : Implied Alignments : 31 of 97 -- vertices calculated
+Status : Implied Alignments : 32 of 97 -- vertices calculated
+Status : Implied Alignments : 33 of 97 -- vertices calculated
+Status : Implied Alignments : 34 of 97 -- vertices calculated
+Status : Implied Alignments : 35 of 97 -- vertices calculated
+Status : Implied Alignments : 36 of 97 -- vertices calculated
+Status : Implied Alignments : 37 of 97 -- vertices calculated
+Status : Implied Alignments : 38 of 97 -- vertices calculated
+Status : Implied Alignments : 39 of 97 -- vertices calculated
+Status : Implied Alignments : 40 of 97 -- vertices calculated
+Status : Implied Alignments : 41 of 97 -- vertices calculated
+Status : Implied Alignments : 42 of 97 -- vertices calculated
+Status : Implied Alignments : 43 of 97 -- vertices calculated
+Status : Implied Alignments : 44 of 97 -- vertices calculated
+Status : Implied Alignments : 45 of 97 -- vertices calculated
+Status : Implied Alignments : 46 of 97 -- vertices calculated
+Status : Implied Alignments : 47 of 97 -- vertices calculated
+Status : Implied Alignments : 48 of 97 -- vertices calculated
+Status : Implied Alignments : 49 of 97 -- vertices calculated
+Status : Implied Alignments : 50 of 97 -- vertices calculated
+Status : Implied Alignments : 51 of 97 -- vertices calculated
+Status : Implied Alignments : 52 of 97 -- vertices calculated
+Status : Implied Alignments : 53 of 97 -- vertices calculated
+Status : Implied Alignments : 54 of 97 -- vertices calculated
+Status : Implied Alignments : 55 of 97 -- vertices calculated
+Status : Implied Alignments : 56 of 97 -- vertices calculated
+Status : Implied Alignments : 57 of 97 -- vertices calculated
+Status : Implied Alignments : 58 of 97 -- vertices calculated
+Status : Implied Alignments : 59 of 97 -- vertices calculated
+Status : Implied Alignments : 60 of 97 -- vertices calculated
+Status : Implied Alignments : 61 of 97 -- vertices calculated
+Status : Implied Alignments : 62 of 97 -- vertices calculated
+Status : Implied Alignments : 63 of 97 -- vertices calculated
+Status : Implied Alignments : 64 of 97 -- vertices calculated
+Status : Implied Alignments : 65 of 97 -- vertices calculated
+Status : Implied Alignments : 66 of 97 -- vertices calculated
+Status : Implied Alignments : 67 of 97 -- vertices calculated
+Status : Implied Alignments : 68 of 97 -- vertices calculated
+Status : Implied Alignments : 69 of 97 -- vertices calculated
+Status : Implied Alignments : 70 of 97 -- vertices calculated
+Status : Implied Alignments : 71 of 97 -- vertices calculated
+Status : Implied Alignments : 72 of 97 -- vertices calculated
+Status : Implied Alignments : 73 of 97 -- vertices calculated
+Status : Implied Alignments : 74 of 97 -- vertices calculated
+Status : Implied Alignments : 75 of 97 -- vertices calculated
+Status : Implied Alignments : 76 of 97 -- vertices calculated
+Status : Implied Alignments : 77 of 97 -- vertices calculated
+Status : Implied Alignments : 78 of 97 -- vertices calculated
+Status : Implied Alignments : 79 of 97 -- vertices calculated
+Status : Implied Alignments : 80 of 97 -- vertices calculated
+Status : Implied Alignments : 81 of 97 -- vertices calculated
+Status : Implied Alignments : 82 of 97 -- vertices calculated
+Status : Implied Alignments : 83 of 97 -- vertices calculated
+Status : Implied Alignments : 84 of 97 -- vertices calculated
+Status : Implied Alignments : 85 of 97 -- vertices calculated
+Status : Implied Alignments : 86 of 97 -- vertices calculated
+Status : Implied Alignments : 87 of 97 -- vertices calculated
+Status : Implied Alignments : 88 of 97 -- vertices calculated
+Status : Implied Alignments : 89 of 97 -- vertices calculated
+Status : Implied Alignments : 90 of 97 -- vertices calculated
+Status : Implied Alignments : 91 of 97 -- vertices calculated
+Status : Implied Alignments : 92 of 97 -- vertices calculated
+Status : Implied Alignments : 93 of 97 -- vertices calculated
+Status : Implied Alignments : 94 of 97 -- vertices calculated
+Status : Implied Alignments : 95 of 97 -- vertices calculated
+Status : Implied Alignments Finished
+Status : Static Approximation Finished
+Status : Implied Alignments : 1 of 97 -- vertices calculated
+Status : Implied Alignments : 2 of 97 -- vertices calculated
+Status : Implied Alignments : 3 of 97 -- vertices calculated
+Status : Implied Alignments : 4 of 97 -- vertices calculated
+Status : Implied Alignments : 5 of 97 -- vertices calculated
+Status : Implied Alignments : 6 of 97 -- vertices calculated
+Status : Implied Alignments : 7 of 97 -- vertices calculated
+Status : Implied Alignments : 8 of 97 -- vertices calculated
+Status : Implied Alignments : 9 of 97 -- vertices calculated
+Status : Implied Alignments : 10 of 97 -- vertices calculated
+Status : Implied Alignments : 11 of 97 -- vertices calculated
+Status : Implied Alignments : 12 of 97 -- vertices calculated
+Status : Implied Alignments : 13 of 97 -- vertices calculated
+Status : Implied Alignments : 14 of 97 -- vertices calculated
+Status : Implied Alignments : 15 of 97 -- vertices calculated
+Status : Implied Alignments : 16 of 97 -- vertices calculated
+Status : Implied Alignments : 17 of 97 -- vertices calculated
+Status : Implied Alignments : 18 of 97 -- vertices calculated
+Status : Implied Alignments : 19 of 97 -- vertices calculated
+Status : Implied Alignments : 20 of 97 -- vertices calculated
+Status : Implied Alignments : 21 of 97 -- vertices calculated
+Status : Implied Alignments : 22 of 97 -- vertices calculated
+Status : Implied Alignments : 23 of 97 -- vertices calculated
+Status : Implied Alignments : 24 of 97 -- vertices calculated
+Status : Implied Alignments : 25 of 97 -- vertices calculated
+Status : Implied Alignments : 26 of 97 -- vertices calculated
+Status : Implied Alignments : 27 of 97 -- vertices calculated
+Status : Implied Alignments : 28 of 97 -- vertices calculated
+Status : Implied Alignments : 29 of 97 -- vertices calculated
+Status : Implied Alignments : 30 of 97 -- vertices calculated
+Status : Implied Alignments : 31 of 97 -- vertices calculated
+Status : Implied Alignments : 32 of 97 -- vertices calculated
+Status : Implied Alignments : 33 of 97 -- vertices calculated
+Status : Implied Alignments : 34 of 97 -- vertices calculated
+Status : Implied Alignments : 35 of 97 -- vertices calculated
+Status : Implied Alignments : 36 of 97 -- vertices calculated
+Status : Implied Alignments : 37 of 97 -- vertices calculated
+Status : Implied Alignments : 38 of 97 -- vertices calculated
+Status : Implied Alignments : 39 of 97 -- vertices calculated
+Status : Implied Alignments : 40 of 97 -- vertices calculated
+Status : Implied Alignments : 41 of 97 -- vertices calculated
+Status : Implied Alignments : 42 of 97 -- vertices calculated
+Status : Implied Alignments : 43 of 97 -- vertices calculated
+Status : Implied Alignments : 44 of 97 -- vertices calculated
+Status : Implied Alignments : 45 of 97 -- vertices calculated
+Status : Implied Alignments : 46 of 97 -- vertices calculated
+Status : Implied Alignments : 47 of 97 -- vertices calculated
+Status : Implied Alignments : 48 of 97 -- vertices calculated
+Status : Implied Alignments : 49 of 97 -- vertices calculated
+Status : Implied Alignments : 50 of 97 -- vertices calculated
+Status : Implied Alignments : 51 of 97 -- vertices calculated
+Status : Implied Alignments : 52 of 97 -- vertices calculated
+Status : Implied Alignments : 53 of 97 -- vertices calculated
+Status : Implied Alignments : 54 of 97 -- vertices calculated
+Status : Implied Alignments : 55 of 97 -- vertices calculated
+Status : Implied Alignments : 56 of 97 -- vertices calculated
+Status : Implied Alignments : 57 of 97 -- vertices calculated
+Status : Implied Alignments : 58 of 97 -- vertices calculated
+Status : Implied Alignments : 59 of 97 -- vertices calculated
+Status : Implied Alignments : 60 of 97 -- vertices calculated
+Status : Implied Alignments : 61 of 97 -- vertices calculated
+Status : Implied Alignments : 62 of 97 -- vertices calculated
+Status : Implied Alignments : 63 of 97 -- vertices calculated
+Status : Implied Alignments : 64 of 97 -- vertices calculated
+Status : Implied Alignments : 65 of 97 -- vertices calculated
+Status : Implied Alignments : 66 of 97 -- vertices calculated
+Status : Implied Alignments : 67 of 97 -- vertices calculated
+Status : Implied Alignments : 68 of 97 -- vertices calculated
+Status : Implied Alignments : 69 of 97 -- vertices calculated
+Status : Implied Alignments : 70 of 97 -- vertices calculated
+Status : Implied Alignments : 71 of 97 -- vertices calculated
+Status : Implied Alignments : 72 of 97 -- vertices calculated
+Status : Implied Alignments : 73 of 97 -- vertices calculated
+Status : Implied Alignments : 74 of 97 -- vertices calculated
+Status : Implied Alignments : 75 of 97 -- vertices calculated
+Status : Implied Alignments : 76 of 97 -- vertices calculated
+Status : Implied Alignments : 77 of 97 -- vertices calculated
+Status : Implied Alignments : 78 of 97 -- vertices calculated
+Status : Implied Alignments : 79 of 97 -- vertices calculated
+Status : Implied Alignments : 80 of 97 -- vertices calculated
+Status : Implied Alignments : 81 of 97 -- vertices calculated
+Status : Implied Alignments : 82 of 97 -- vertices calculated
+Status : Implied Alignments : 83 of 97 -- vertices calculated
+Status : Implied Alignments : 84 of 97 -- vertices calculated
+Status : Implied Alignments : 85 of 97 -- vertices calculated
+Status : Implied Alignments : 86 of 97 -- vertices calculated
+Status : Implied Alignments : 87 of 97 -- vertices calculated
+Status : Implied Alignments : 88 of 97 -- vertices calculated
+Status : Implied Alignments : 89 of 97 -- vertices calculated
+Status : Implied Alignments : 90 of 97 -- vertices calculated
+Status : Implied Alignments : 91 of 97 -- vertices calculated
+Status : Implied Alignments : 92 of 97 -- vertices calculated
+Status : Implied Alignments : 93 of 97 -- vertices calculated
+Status : Implied Alignments : 94 of 97 -- vertices calculated
+Status : Implied Alignments : 95 of 97 -- vertices calculated
+Status : Implied Alignments Finished
+Status : Static Approximation Finished
+Status : Loading Characters : 0 of 49 -- Storing the character specifications
+Status : Loading Characters : 1 of 49 -- Storing the character specifications
+Status : Loading Characters : 2 of 49 -- Storing the character specifications
+Status : Loading Characters : 3 of 49 -- Storing the character specifications
+Status : Loading Characters : 4 of 49 -- Storing the character specifications
+Status : Loading Characters : 5 of 49 -- Storing the character specifications
+Status : Loading Characters : 6 of 49 -- Storing the character specifications
+Status : Loading Characters : 7 of 49 -- Storing the character specifications
+Status : Loading Characters : 8 of 49 -- Storing the character specifications
+Status : Loading Characters : 9 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         10 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         11 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         12 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         13 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         14 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         15 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         16 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         17 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         18 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         19 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         20 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         21 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         22 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         23 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         24 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         25 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         26 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         27 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         28 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         29 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         30 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         31 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         32 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         33 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         34 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         35 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         36 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         37 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         38 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         39 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         40 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         41 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         42 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         43 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         44 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         45 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         46 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         47 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         48 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         49 of 49 -- Storing the character specifications
+Status : Loading Characters Finished
+Status : Loading Characters : 0 of 49 -- Storing the character specifications
+Status : Loading Characters : 1 of 49 -- Storing the character specifications
+Status : Loading Characters : 2 of 49 -- Storing the character specifications
+Status : Loading Characters : 3 of 49 -- Storing the character specifications
+Status : Loading Characters : 4 of 49 -- Storing the character specifications
+Status : Loading Characters : 5 of 49 -- Storing the character specifications
+Status : Loading Characters : 6 of 49 -- Storing the character specifications
+Status : Loading Characters : 7 of 49 -- Storing the character specifications
+Status : Loading Characters : 8 of 49 -- Storing the character specifications
+Status : Loading Characters : 9 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         10 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         11 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         12 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         13 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         14 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         15 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         16 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         17 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         18 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         19 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         20 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         21 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         22 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         23 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         24 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         25 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         26 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         27 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         28 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         29 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         30 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         31 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         32 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         33 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         34 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         35 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         36 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         37 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         38 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         39 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         40 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         41 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         42 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         43 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         44 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         45 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         46 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         47 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         48 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         49 of 49 -- Storing the character specifications
+Status : Loading Characters Finished
+Status : Loading Characters : 0 of 49 -- Storing the character specifications
+Status : Loading Characters : 1 of 49 -- Storing the character specifications
+Status : Loading Characters : 2 of 49 -- Storing the character specifications
+Status : Loading Characters : 3 of 49 -- Storing the character specifications
+Status : Loading Characters : 4 of 49 -- Storing the character specifications
+Status : Loading Characters : 5 of 49 -- Storing the character specifications
+Status : Loading Characters : 6 of 49 -- Storing the character specifications
+Status : Loading Characters : 7 of 49 -- Storing the character specifications
+Status : Loading Characters : 8 of 49 -- Storing the character specifications
+Status : Loading Characters : 9 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         10 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         11 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         12 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         13 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         14 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         15 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         16 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         17 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         18 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         19 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         20 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         21 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         22 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         23 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         24 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         25 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         26 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         27 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         28 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         29 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         30 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         31 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         32 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         33 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         34 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         35 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         36 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         37 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         38 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         39 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         40 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         41 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         42 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         43 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         44 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         45 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         46 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         47 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         48 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         49 of 49 -- Storing the character specifications
+Status : Loading Characters Finished
+Status : Loading Characters : 0 of 49 -- Storing the character specifications
+Status : Loading Characters : 1 of 49 -- Storing the character specifications
+Status : Loading Characters : 2 of 49 -- Storing the character specifications
+Status : Loading Characters : 3 of 49 -- Storing the character specifications
+Status : Loading Characters : 4 of 49 -- Storing the character specifications
+Status : Loading Characters : 5 of 49 -- Storing the character specifications
+Status : Loading Characters : 6 of 49 -- Storing the character specifications
+Status : Loading Characters : 7 of 49 -- Storing the character specifications
+Status : Loading Characters : 8 of 49 -- Storing the character specifications
+Status : Loading Characters : 9 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         10 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         11 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         12 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         13 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         14 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         15 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         16 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         17 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         18 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         19 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         20 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         21 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         22 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         23 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         24 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         25 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         26 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         27 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         28 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         29 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         30 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         31 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         32 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         33 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         34 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         35 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         36 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         37 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         38 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         39 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         40 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         41 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         42 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         43 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         44 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         45 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         46 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         47 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         48 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         49 of 49 -- Storing the character specifications
+Status : Loading Characters Finished
+Status : Loading Characters : 0 of 49 -- Storing the character specifications
+Status : Loading Characters : 1 of 49 -- Storing the character specifications
+Status : Loading Characters : 2 of 49 -- Storing the character specifications
+Status : Loading Characters : 3 of 49 -- Storing the character specifications
+Status : Loading Characters : 4 of 49 -- Storing the character specifications
+Status : Loading Characters : 5 of 49 -- Storing the character specifications
+Status : Loading Characters : 6 of 49 -- Storing the character specifications
+Status : Loading Characters : 7 of 49 -- Storing the character specifications
+Status : Loading Characters : 8 of 49 -- Storing the character specifications
+Status : Loading Characters : 9 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         10 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         11 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         12 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         13 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         14 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         15 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         16 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         17 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         18 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         19 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         20 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         21 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         22 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         23 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         24 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         25 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         26 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         27 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         28 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         29 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         30 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         31 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         32 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         33 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         34 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         35 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         36 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         37 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         38 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         39 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         40 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         41 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         42 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         43 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         44 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         45 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         46 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         47 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         48 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         49 of 49 -- Storing the character specifications
+Status : Loading Characters Finished
+Information : Vectorized:113 of 113 characters.
+Status : Transforming : 1 of 1 --  transformations applied
+Status : Transforming : 1110 of 149 --  characters transformed
+Status : Transforming Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 3 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 2 of 3 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 3 of 3 -- Recalculating trees
+Status : Diagnosis Finished
+Information : Vectorized:113 of 113 characters.
+Status : Calculating Support : 1 of 5 -- Iterations
+Information : Vectorized:108 of 108 characters.
+Status : Wagner : 2 of 49 -- Wagner tree with cost 91.
+Status : Wagner : 3 of 49 -- Wagner tree with cost 177.
+Status : Wagner : 4 of 49 -- Wagner tree with cost 237.
+Status : Wagner : 5 of 49 -- Wagner tree with cost 289.
+Status : Wagner : 6 of 49 -- Wagner tree with cost 393.
+Status : Wagner : 7 of 49 -- Wagner tree with cost 519.
+Status : Wagner : 8 of 49 -- Wagner tree with cost 558.
+Status : Wagner : 9 of 49 -- Wagner tree with cost 692.
+Status : Wagner : 10 of 49 -- Wagner tree with cost 699.
+Status : Wagner : 11 of 49 -- Wagner tree with cost 731.
+Status : Wagner : 12 of 49 -- Wagner tree with cost 758.
+Status : Wagner : 13 of 49 -- Wagner tree with cost 762.
+Status : Wagner : 14 of 49 -- Wagner tree with cost 775.
+Status : Wagner : 15 of 49 -- Wagner tree with cost 799.
+Status : Wagner : 16 of 49 -- Wagner tree with cost 866.
+Status : Wagner : 17 of 49 -- Wagner tree with cost 883.
+Status : Wagner : 18 of 49 -- Wagner tree with cost 932.
+Status : Wagner : 19 of 49 -- Wagner tree with cost 964.
+Status : Wagner : 20 of 49 -- Wagner tree with cost 1024.
+Status : Wagner : 21 of 49 -- Wagner tree with cost 1069.
+Status : Wagner : 22 of 49 -- Wagner tree with cost 1093.
+Status : Wagner : 23 of 49 -- Wagner tree with cost 1125.
+Status : Wagner : 24 of 49 -- Wagner tree with cost 1133.
+Status : Wagner : 25 of 49 -- Wagner tree with cost 1169.
+Status : Wagner : 26 of 49 -- Wagner tree with cost 1205.
+Status : Wagner : 27 of 49 -- Wagner tree with cost 1258.
+Status : Wagner : 28 of 49 -- Wagner tree with cost 1259.
+Status : Wagner : 29 of 49 -- Wagner tree with cost 1287.
+Status : Wagner : 30 of 49 -- Wagner tree with cost 1295.
+Status : Wagner : 31 of 49 -- Wagner tree with cost 1295.
+Status : Wagner : 32 of 49 -- Wagner tree with cost 1354.
+Status : Wagner : 33 of 49 -- Wagner tree with cost 1402.
+Status : Wagner : 34 of 49 -- Wagner tree with cost 1416.
+Status : Wagner : 35 of 49 -- Wagner tree with cost 1504.
+Status : Wagner : 36 of 49 -- Wagner tree with cost 1533.
+Status : Wagner : 37 of 49 -- Wagner tree with cost 1538.
+Status : Wagner : 38 of 49 -- Wagner tree with cost 1555.
+Status : Wagner : 39 of 49 -- Wagner tree with cost 1603.
+Status : Wagner : 40 of 49 -- Wagner tree with cost 1609.
+Status : Wagner : 41 of 49 -- Wagner tree with cost 1636.
+Status : Wagner : 42 of 49 -- Wagner tree with cost 1727.
+Status : Wagner : 43 of 49 -- Wagner tree with cost 1734.
+Status : Wagner : 44 of 49 -- Wagner tree with cost 1747.
+Status : Wagner : 45 of 49 -- Wagner tree with cost 1765.
+Status : Wagner : 46 of 49 -- Wagner tree with cost 1772.
+Status : Wagner : 47 of 49 -- Wagner tree with cost 1787.
+Status : Wagner : 48 of 49 -- Wagner tree with cost 1812.
+Status : Wagner Finished
+Status : Building Wagner Tree Finished
+Status : Alternate : 0 Beginning search
+Status : Alternate : 0 SPR search
+Status : SPR : 1848 1848.
+Status : SPR : 1847 1847.
+Status : SPR : 1845 1845.
+Status : SPR : 1837 1837.
+Status : SPR : 1835 1835.
+Status : SPR : 1834 1834.
+Status : SPR : 1832 1832.
+Status : SPR : 1829 1829.
+Status : SPR : 1828 1828.
+Status : SPR : 1826 1826.
+Status : SPR : 1825 1825.
+Status : SPR : 1821 1821.
+Status : SPR : 1819 1819.
+Status : SPR : 1811 1811.
+Status : SPR Finished
+Status : Alternate : 0 Performing TBR swapping
+Status : Single TBR Finished
+Status : Alternate : 0 SPR search
+Status : SPR : 1811 1811.
+Status : SPR Finished
+Status : Alternate : 0 Performing TBR swapping
+Status : Single TBR Finished
+Status : Alternate Finished
+Status : Calculating Support : 2 of 5 -- Iterations
+Information : Vectorized:108 of 108 characters.
+Status : Wagner : 2 of 49 -- Wagner tree with cost 117.
+Status : Wagner : 3 of 49 -- Wagner tree with cost 146.
+Status : Wagner : 4 of 49 -- Wagner tree with cost 197.
+Status : Wagner : 5 of 49 -- Wagner tree with cost 251.
+Status : Wagner : 6 of 49 -- Wagner tree with cost 265.
+Status : Wagner : 7 of 49 -- Wagner tree with cost 327.
+Status : Wagner : 8 of 49 -- Wagner tree with cost 363.
+Status : Wagner : 9 of 49 -- Wagner tree with cost 439.
+Status : Wagner : 10 of 49 -- Wagner tree with cost 464.
+Status : Wagner : 11 of 49 -- Wagner tree with cost 488.
+Status : Wagner : 12 of 49 -- Wagner tree with cost 504.
+Status : Wagner : 13 of 49 -- Wagner tree with cost 530.
+Status : Wagner : 14 of 49 -- Wagner tree with cost 540.
+Status : Wagner : 15 of 49 -- Wagner tree with cost 594.
+Status : Wagner : 16 of 49 -- Wagner tree with cost 608.
+Status : Wagner : 17 of 49 -- Wagner tree with cost 619.
+Status : Wagner : 18 of 49 -- Wagner tree with cost 641.
+Status : Wagner : 19 of 49 -- Wagner tree with cost 708.
+Status : Wagner : 20 of 49 -- Wagner tree with cost 751.
+Status : Wagner : 21 of 49 -- Wagner tree with cost 762.
+Status : Wagner : 22 of 49 -- Wagner tree with cost 941.
+Status : Wagner : 23 of 49 -- Wagner tree with cost 988.
+Status : Wagner : 24 of 49 -- Wagner tree with cost 1046.
+Status : Wagner : 25 of 49 -- Wagner tree with cost 1106.
+Status : Wagner : 26 of 49 -- Wagner tree with cost 1147.
+Status : Wagner : 27 of 49 -- Wagner tree with cost 1164.
+Status : Wagner : 28 of 49 -- Wagner tree with cost 1174.
+Status : Wagner : 29 of 49 -- Wagner tree with cost 1200.
+Status : Wagner : 30 of 49 -- Wagner tree with cost 1213.
+Status : Wagner : 31 of 49 -- Wagner tree with cost 1222.
+Status : Wagner : 32 of 49 -- Wagner tree with cost 1222.
+Status : Wagner : 33 of 49 -- Wagner tree with cost 1264.
+Status : Wagner : 34 of 49 -- Wagner tree with cost 1281.
+Status : Wagner : 35 of 49 -- Wagner tree with cost 1298.
+Status : Wagner : 36 of 49 -- Wagner tree with cost 1306.
+Status : Wagner : 37 of 49 -- Wagner tree with cost 1315.
+Status : Wagner : 38 of 49 -- Wagner tree with cost 1338.
+Status : Wagner : 39 of 49 -- Wagner tree with cost 1367.
+Status : Wagner : 40 of 49 -- Wagner tree with cost 1428.
+Status : Wagner : 41 of 49 -- Wagner tree with cost 1444.
+Status : Wagner : 42 of 49 -- Wagner tree with cost 1466.
+Status : Wagner : 43 of 49 -- Wagner tree with cost 1470.
+Status : Wagner : 44 of 49 -- Wagner tree with cost 1546.
+Status : Wagner : 45 of 49 -- Wagner tree with cost 1591.
+Status : Wagner : 46 of 49 -- Wagner tree with cost 1625.
+Status : Wagner : 47 of 49 -- Wagner tree with cost 1630.
+Status : Wagner : 48 of 49 -- Wagner tree with cost 1641.
+Status : Wagner Finished
+Status : Building Wagner Tree Finished
+Status : Alternate : 0 Beginning search
+Status : Alternate : 0 SPR search
+Status : SPR : 1657 1657.
+Status : SPR : 1655 1655.
+Status : SPR : 1654 1654.
+Status : SPR : 1650 1650.
+Status : SPR : 1648 1648.
+Status : SPR : 1646 1646.
+Status : SPR : 1644 1644.
+Status : SPR : 1642 1642.
+Status : SPR : 1641 1641.
+Status : SPR : 1640 1640.
+Status : SPR : 1634 1634.
+Status : SPR : 1633 1633.
+Status : SPR : 1632 1632.
+Status : SPR : 1627 1627.
+Status : SPR : 1626 1626.
+Status : SPR : 1625 1625.
+Status : SPR : 1621 1621.
+Status : SPR : 1620 1620.
+Status : SPR : 1619 1619.
+Status : SPR Finished
+Status : Alternate : 0 Performing TBR swapping
+Status : Single TBR Finished
+Status : Alternate : 0 SPR search
+Status : SPR : 1619 1619.
+Status : SPR Finished
+Status : Alternate : 0 Performing TBR swapping
+Status : Single TBR Finished
+Status : Alternate Finished
+Status : Calculating Support : 3 of 5 -- Iterations
+Information : Vectorized:108 of 108 characters.
+Status : Wagner : 2 of 49 -- Wagner tree with cost 81.
+Status : Wagner : 3 of 49 -- Wagner tree with cost 99.
+Status : Wagner : 4 of 49 -- Wagner tree with cost 120.
+Status : Wagner : 5 of 49 -- Wagner tree with cost 198.
+Status : Wagner : 6 of 49 -- Wagner tree with cost 246.
+Status : Wagner : 7 of 49 -- Wagner tree with cost 320.
+Status : Wagner : 8 of 49 -- Wagner tree with cost 412.
+Status : Wagner : 9 of 49 -- Wagner tree with cost 449.
+Status : Wagner : 10 of 49 -- Wagner tree with cost 660.
+Status : Wagner : 11 of 49 -- Wagner tree with cost 721.
+Status : Wagner : 12 of 49 -- Wagner tree with cost 758.
+Status : Wagner : 13 of 49 -- Wagner tree with cost 775.
+Status : Wagner : 14 of 49 -- Wagner tree with cost 809.
+Status : Wagner : 15 of 49 -- Wagner tree with cost 848.
+Status : Wagner : 16 of 49 -- Wagner tree with cost 862.
+Status : Wagner : 17 of 49 -- Wagner tree with cost 907.
+Status : Wagner : 18 of 49 -- Wagner tree with cost 951.
+Status : Wagner : 19 of 49 -- Wagner tree with cost 985.
+Status : Wagner : 20 of 49 -- Wagner tree with cost 991.
+Status : Wagner : 21 of 49 -- Wagner tree with cost 997.
+Status : Wagner : 22 of 49 -- Wagner tree with cost 1013.
+Status : Wagner : 23 of 49 -- Wagner tree with cost 1021.
+Status : Wagner : 24 of 49 -- Wagner tree with cost 1104.
+Status : Wagner : 25 of 49 -- Wagner tree with cost 1200.
+Status : Wagner : 26 of 49 -- Wagner tree with cost 1230.
+Status : Wagner : 27 of 49 -- Wagner tree with cost 1246.
+Status : Wagner : 28 of 49 -- Wagner tree with cost 1294.
+Status : Wagner : 29 of 49 -- Wagner tree with cost 1313.
+Status : Wagner : 30 of 49 -- Wagner tree with cost 1327.
+Status : Wagner : 31 of 49 -- Wagner tree with cost 1336.
+Status : Wagner : 32 of 49 -- Wagner tree with cost 1405.
+Status : Wagner : 33 of 49 -- Wagner tree with cost 1407.
+Status : Wagner : 34 of 49 -- Wagner tree with cost 1415.
+Status : Wagner : 35 of 49 -- Wagner tree with cost 1445.
+Status : Wagner : 36 of 49 -- Wagner tree with cost 1445.
+Status : Wagner : 37 of 49 -- Wagner tree with cost 1480.
+Status : Wagner : 38 of 49 -- Wagner tree with cost 1508.
+Status : Wagner : 39 of 49 -- Wagner tree with cost 1564.
+Status : Wagner : 40 of 49 -- Wagner tree with cost 1606.
+Status : Wagner : 41 of 49 -- Wagner tree with cost 1623.
+Status : Wagner : 42 of 49 -- Wagner tree with cost 1665.
+Status : Wagner : 43 of 49 -- Wagner tree with cost 1698.
+Status : Wagner : 44 of 49 -- Wagner tree with cost 1741.
+Status : Wagner : 45 of 49 -- Wagner tree with cost 1754.
+Status : Wagner : 46 of 49 -- Wagner tree with cost 1762.
+Status : Wagner : 47 of 49 -- Wagner tree with cost 1769.
+Status : Wagner : 48 of 49 -- Wagner tree with cost 1786.
+Status : Wagner Finished
+Status : Building Wagner Tree Finished
+Status : Alternate : 0 Beginning search
+Status : Alternate : 0 SPR search
+Status : SPR : 1804 1804.
+Status : SPR : 1803 1803.
+Status : SPR : 1802 1802.
+Status : SPR : 1800 1800.
+Status : SPR : 1799 1799.
+Status : SPR : 1797 1797.
+Status : SPR : 1795 1795.
+Status : SPR : 1794 1794.
+Status : SPR Finished
+Status : Alternate : 0 Performing TBR swapping
+Status : Single TBR Finished
+Status : Alternate : 0 SPR search
+Status : SPR : 1794 1794.
+Status : SPR Finished
+Status : Alternate : 0 Performing TBR swapping
+Status : Single TBR Finished
+Status : Alternate Finished
+Status : Calculating Support : 4 of 5 -- Iterations
+Information : Vectorized:108 of 108 characters.
+Status : Wagner : 2 of 49 -- Wagner tree with cost 126.
+Status : Wagner : 3 of 49 -- Wagner tree with cost 172.
+Status : Wagner : 4 of 49 -- Wagner tree with cost 231.
+Status : Wagner : 5 of 49 -- Wagner tree with cost 248.
+Status : Wagner : 6 of 49 -- Wagner tree with cost 304.
+Status : Wagner : 7 of 49 -- Wagner tree with cost 344.
+Status : Wagner : 8 of 49 -- Wagner tree with cost 377.
+Status : Wagner : 9 of 49 -- Wagner tree with cost 450.
+Status : Wagner : 10 of 49 -- Wagner tree with cost 463.
+Status : Wagner : 11 of 49 -- Wagner tree with cost 521.
+Status : Wagner : 12 of 49 -- Wagner tree with cost 606.
+Status : Wagner : 13 of 49 -- Wagner tree with cost 626.
+Status : Wagner : 14 of 49 -- Wagner tree with cost 727.
+Status : Wagner : 15 of 49 -- Wagner tree with cost 733.
+Status : Wagner : 16 of 49 -- Wagner tree with cost 738.
+Status : Wagner : 17 of 49 -- Wagner tree with cost 777.
+Status : Wagner : 18 of 49 -- Wagner tree with cost 806.
+Status : Wagner : 19 of 49 -- Wagner tree with cost 840.
+Status : Wagner : 20 of 49 -- Wagner tree with cost 868.
+Status : Wagner : 21 of 49 -- Wagner tree with cost 1023.
+Status : Wagner : 22 of 49 -- Wagner tree with cost 1023.
+Status : Wagner : 23 of 49 -- Wagner tree with cost 1074.
+Status : Wagner : 24 of 49 -- Wagner tree with cost 1125.
+Status : Wagner : 25 of 49 -- Wagner tree with cost 1174.
+Status : Wagner : 26 of 49 -- Wagner tree with cost 1215.
+Status : Wagner : 27 of 49 -- Wagner tree with cost 1249.
+Status : Wagner : 28 of 49 -- Wagner tree with cost 1278.
+Status : Wagner : 29 of 49 -- Wagner tree with cost 1295.
+Status : Wagner : 30 of 49 -- Wagner tree with cost 1337.
+Status : Wagner : 31 of 49 -- Wagner tree with cost 1346.
+Status : Wagner : 32 of 49 -- Wagner tree with cost 1415.
+Status : Wagner : 33 of 49 -- Wagner tree with cost 1418.
+Status : Wagner : 34 of 49 -- Wagner tree with cost 1436.
+Status : Wagner : 35 of 49 -- Wagner tree with cost 1440.
+Status : Wagner : 36 of 49 -- Wagner tree with cost 1502.
+Status : Wagner : 37 of 49 -- Wagner tree with cost 1587.
+Status : Wagner : 38 of 49 -- Wagner tree with cost 1614.
+Status : Wagner : 39 of 49 -- Wagner tree with cost 1639.
+Status : Wagner : 40 of 49 -- Wagner tree with cost 1682.
+Status : Wagner : 41 of 49 -- Wagner tree with cost 1696.
+Status : Wagner : 42 of 49 -- Wagner tree with cost 1765.
+Status : Wagner : 43 of 49 -- Wagner tree with cost 1776.
+Status : Wagner : 44 of 49 -- Wagner tree with cost 1788.
+Status : Wagner : 45 of 49 -- Wagner tree with cost 1804.
+Status : Wagner : 46 of 49 -- Wagner tree with cost 1829.
+Status : Wagner : 47 of 49 -- Wagner tree with cost 1860.
+Status : Wagner : 48 of 49 -- Wagner tree with cost 1879.
+Status : Wagner Finished
+Status : Building Wagner Tree Finished
+Status : Alternate : 0 Beginning search
+Status : Alternate : 0 SPR search
+Status : SPR : 1893 1893.
+Status : SPR : 1892 1892.
+Status : SPR : 1890 1890.
+Status : SPR : 1883 1883.
+Status : SPR : 1881 1881.
+Status : SPR : 1879 1879.
+Status : SPR : 1875 1875.
+Status : SPR : 1873 1873.
+Status : SPR : 1871 1871.
+Status : SPR : 1867 1867.
+Status : SPR : 1864 1864.
+Status : SPR : 1862 1862.
+Status : SPR : 1859 1859.
+Status : SPR : 1858 1858.
+Status : SPR : 1852 1852.
+Status : SPR : 1844 1844.
+Status : SPR : 1842 1842.
+Status : SPR : 1841 1841.
+Status : SPR : 1839 1839.
+Status : SPR : 1837 1837.
+Status : SPR : 1835 1835.
+Status : SPR : 1832 1832.
+Status : SPR : 1830 1830.
+Status : SPR : 1829 1829.
+Status : SPR Finished
+Status : Alternate : 0 Performing TBR swapping
+Status : Single TBR Finished
+Status : Alternate Finished
+Status : Calculating Support : 5 of 5 -- Iterations
+Information : Vectorized:108 of 108 characters.
+Status : Wagner : 2 of 49 -- Wagner tree with cost 118.
+Status : Wagner : 3 of 49 -- Wagner tree with cost 201.
+Status : Wagner : 4 of 49 -- Wagner tree with cost 265.
+Status : Wagner : 5 of 49 -- Wagner tree with cost 309.
+Status : Wagner : 6 of 49 -- Wagner tree with cost 365.
+Status : Wagner : 7 of 49 -- Wagner tree with cost 408.
+Status : Wagner : 8 of 49 -- Wagner tree with cost 480.
+Status : Wagner : 9 of 49 -- Wagner tree with cost 583.
+Status : Wagner : 10 of 49 -- Wagner tree with cost 654.
+Status : Wagner : 11 of 49 -- Wagner tree with cost 689.
+Status : Wagner : 12 of 49 -- Wagner tree with cost 690.
+Status : Wagner : 13 of 49 -- Wagner tree with cost 729.
+Status : Wagner : 14 of 49 -- Wagner tree with cost 742.
+Status : Wagner : 15 of 49 -- Wagner tree with cost 755.
+Status : Wagner : 16 of 49 -- Wagner tree with cost 771.
+Status : Wagner : 17 of 49 -- Wagner tree with cost 783.
+Status : Wagner : 18 of 49 -- Wagner tree with cost 880.
+Status : Wagner : 19 of 49 -- Wagner tree with cost 904.
+Status : Wagner : 20 of 49 -- Wagner tree with cost 913.
+Status : Wagner : 21 of 49 -- Wagner tree with cost 927.
+Status : Wagner : 22 of 49 -- Wagner tree with cost 934.
+Status : Wagner : 23 of 49 -- Wagner tree with cost 965.
+Status : Wagner : 24 of 49 -- Wagner tree with cost 1006.
+Status : Wagner : 25 of 49 -- Wagner tree with cost 1053.
+Status : Wagner : 26 of 49 -- Wagner tree with cost 1104.
+Status : Wagner : 27 of 49 -- Wagner tree with cost 1120.
+Status : Wagner : 28 of 49 -- Wagner tree with cost 1150.
+Status : Wagner : 29 of 49 -- Wagner tree with cost 1163.
+Status : Wagner : 30 of 49 -- Wagner tree with cost 1248.
+Status : Wagner : 31 of 49 -- Wagner tree with cost 1333.
+Status : Wagner : 32 of 49 -- Wagner tree with cost 1361.
+Status : Wagner : 33 of 49 -- Wagner tree with cost 1390.
+Status : Wagner : 34 of 49 -- Wagner tree with cost 1408.
+Status : Wagner : 35 of 49 -- Wagner tree with cost 1465.
+Status : Wagner : 36 of 49 -- Wagner tree with cost 1540.
+Status : Wagner : 37 of 49 -- Wagner tree with cost 1560.
+Status : Wagner : 38 of 49 -- Wagner tree with cost 1580.
+Status : Wagner : 39 of 49 -- Wagner tree with cost 1590.
+Status : Wagner : 40 of 49 -- Wagner tree with cost 1621.
+Status : Wagner : 41 of 49 -- Wagner tree with cost 1660.
+Status : Wagner : 42 of 49 -- Wagner tree with cost 1674.
+Status : Wagner : 43 of 49 -- Wagner tree with cost 1719.
+Status : Wagner : 44 of 49 -- Wagner tree with cost 1735.
+Status : Wagner : 45 of 49 -- Wagner tree with cost 1742.
+Status : Wagner : 46 of 49 -- Wagner tree with cost 1758.
+Status : Wagner : 47 of 49 -- Wagner tree with cost 1800.
+Status : Wagner : 48 of 49 -- Wagner tree with cost 1808.
+Status : Wagner Finished
+Status : Building Wagner Tree Finished
+Status : Alternate : 0 Beginning search
+Status : Alternate : 0 SPR search
+Status : SPR : 1944 1944.
+Status : SPR : 1932 1932.
+Status : SPR : 1927 1927.
+Status : SPR : 1925 1925.
+Status : SPR : 1922 1922.
+Status : SPR : 1915 1915.
+Status : SPR : 1914 1914.
+Status : SPR : 1910 1910.
+Status : SPR : 1909 1909.
+Status : SPR : 1902 1902.
+Status : SPR : 1901 1901.
+Status : SPR : 1900 1900.
+Status : SPR : 1899 1899.
+Status : SPR : 1896 1896.
+Status : SPR : 1876 1876.
+Status : SPR : 1875 1875.
+Status : SPR : 1874 1874.
+Status : SPR : 1873 1873.
+Status : SPR Finished
+Status : Alternate : 0 Performing TBR swapping
+Status : Single TBR Finished
+Status : Alternate : 0 SPR search
+Status : SPR : 1873 1873.
+Status : SPR Finished
+Status : Alternate : 0 Performing TBR swapping
+Status : Single TBR Finished
+Status : Alternate Finished
+Status : Calculating Support : 6 of 5 -- Iterations
+Status : Calculating Support Finished
+Information : 
+                Trees:
+                  Storing 3 trees with costs 1822. to 1934.
+                  Best cost in 1 tree 
+                Cost Mode: Normal Direct Optimization
+PASSED
