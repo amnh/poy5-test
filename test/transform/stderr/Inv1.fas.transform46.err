@@ -1,2 +1,27 @@
-FAILED
-Fatal error: exception Loc.Exc_located(_, _)
+Information : Setting random seed value to 1
+Information : Reading file Inv1.fas of type input sequences
+
+Information : The file Inv1.fas contains sequences of 4 taxa, each sequence
+              holding 7 fragments.
+Status : Loading Trees Finished
+Status : Random Trees build : 0 of 1 -- 
+Status : Random Trees build Finished
+Status : Running Pipeline : 1 of 1 -- Estimated finish in 0 s
+Status : Running Pipeline Finished
+Status : Tranform Finished
+Status : Transforming : 1 of 1 --  transformations applied
+Status : Transforming : 1 of 1 --  characters transformed
+Status : Transforming Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 1 -- Recalculating trees
+Status : Diagnosis Finished
+Status : Random Trees build : 0 of 1 -- 
+Status : Random Trees build Finished
+Status : Running Pipeline : 1 of 1 -- Estimated finish in 0 s
+Status : Running Pipeline Finished
+Information : 
+                Trees:
+                  Storing 1 tree with cost 200. 
+                Cost Mode: Normal Direct Optimization
+PASSED
