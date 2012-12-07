@@ -1,7 +1,8 @@
 (* Static NCM Test; w/ 2 argument *)
 set (seed:1, timer:0)
-read(prealigned:("FILENAME1",tcm:(1,1)), "FILENAME2")
+set(opt:coarse)
 
+read(prealigned:("FILENAME1",tcm:(1,1)), "FILENAME2")
 build(3)
 
 transform( (names:("FILENAME1"), (likelihood:(ncm))) )
