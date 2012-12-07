@@ -1,0 +1,794 @@
+Data
+    
+
+
+Taxa
+    
+    Total 49
+                                    
+ Name         Code          
+t1           1            {}
+t10          10           {}
+t11          11           {}
+t12          12           {}
+t13          13           {}
+t14          14           {}
+t15          15           {}
+t16          16           {}
+t17          17           {}
+t18          18           {}
+t19          19           {}
+t2           2            {}
+t20          20           {}
+t21          21           {}
+t22          22           {}
+t23          23           {}
+t24          24           {}
+t25          25           {}
+t26          26           {}
+t27          27           {}
+t28          28           {}
+t29          29           {}
+t3           3            {}
+t30          30           {}
+t31          31           {}
+t32          32           {}
+t33          33           {}
+t34          34           {}
+t35          35           {}
+t36          36           {}
+t37          37           {}
+t38          38           {}
+t39          39           {}
+t4           4            {}
+t40          40           {}
+t41          41           {}
+t42          42           {}
+t43          43           {}
+t44          44           {}
+t45          45           {}
+t46          46           {}
+t47          47           {}
+t48          48           {}
+t49          49           {}
+t5           5            {}
+t6           6            {}
+t7           7            {}
+t8           8            {}
+t9           9            {}
+
+Synonyms
+    
+
+
+
+
+Ignored taxa
+    
+Characters
+    Non Additive
+    
+    Total 0
+
+
+
+Additive
+    
+    Total 516
+                                                                                                                                                                        
+ File Source         Name         Weight         Missing Symbol         Match Symbol         Gap Symbol         Ignore         Case Sentive         Range
+31.ss               31.ss:0      1.             ?                                           -                  false          true                 {1, 2, 3, 4, }
+31.ss               31.ss:1      1.             ?                                           -                  false          true                 {1, 2, 3, 4, }
+31.ss               31.ss:2      1.             ?                                           -                  false          true                 {1, 2, 4, }
+31.ss               31.ss:3      1.             ?                                           -                  false          true                 {1, 2, }
+31.ss               31.ss:4      1.             ?                                           -                  false          true                 {1, 3, }
+31.ss               31.ss:5      1.             ?                                           -                  false          true                 {3, 4, }
+31.ss               31.ss:6      1.             ?                                           -                  false          true                 {2, 4, }
+31.ss               31.ss:7      1.             ?                                           -                  false          true                 {1, 2, }
+31.ss               31.ss:8      1.             ?                                           -                  false          true                 {1, 2, 3, 4, }
+31.ss               31.ss:9      1.             ?                                           -                  false          true                 {1, 2, }
+31.ss               31.ss:10     1.             ?                                           -                  false          true                 {1, 2, 3, 4, }
+31.ss               31.ss:11     1.             ?                                           -                  false          true                 {1, 2, }
+31.ss               31.ss:12     1.             ?                                           -                  false          true                 {1, 2, 3, 4, }
+31.ss               31.ss:13     1.             ?                                           -                  false          true                 {1, 2, }
+31.ss               31.ss:14     1.             ?                                           -                  false          true                 {1, 2, 3, 4, }
+31.ss               31.ss:15     1.             ?                                           -                  false          true                 {1, 2, }
+31.ss               31.ss:16     1.             ?                                           -                  false          true                 {1, 2, 3, 4, }
+31.ss               31.ss:17     1.             ?                                           -                  false          true                 {1, 2, 3, 4, }
+31.ss               31.ss:18     1.             ?                                           -                  false          true                 {1, 2, }
+31.ss               31.ss:19     1.             ?                                           -                  false          true                 {1, 2, 3, 4, }
+31.ss               31.ss:20     1.             ?                                           -                  false          true                 {1, 2, }
+31.ss               31.ss:21     1.             ?                                           -                  false          true                 {1, 2, 3, 4, }
+31.ss               31.ss:22     1.             ?                                           -                  false          true                 {1, 2, }
+31.ss               31.ss:23     1.             ?                                           -                  false          true                 {1, 2, 3, 4, }
+31.ss               31.ss:24     1.             ?                                           -                  false          true                 {1, 2, }
+31.ss               31.ss:25     1.             ?                                           -                  false          true                 {1, 2, 3, 4, }
+31.ss               31.ss:26     1.             ?                                           -                  false          true                 {1, 2, }
+31.ss               31.ss:27     1.             ?                                           -                  false          true                 {1, 2, 3, 4, }
+31.ss               31.ss:28     1.             ?                                           -                  false          true                 {1, 2, }
+31.ss               31.ss:29     1.             ?                                           -                  false          true                 {1, 2, 3, 4, }
+31.ss               31.ss:30     1.             ?                                           -                  false          true                 {1, 2, }
+31.ss               31.ss:31     1.             ?                                           -                  false          true                 {1, 2, 3, 4, }
+31.ss               31.ss:32     1.             ?                                           -                  false          true                 {1, 2, }
+31.ss               31.ss:33     1.             ?                                           -                  false          true                 {1, 2, 3, 4, }
+31.ss               31.ss:34     1.             ?                                           -                  false          true                 {1, 2, }
+31.ss               31.ss:35     1.             ?                                           -                  false          true                 {1, 2, 3, 4, }
+31.ss               31.ss:36     1.             ?                                           -                  false          true                 {1, 2, }
+31.ss               31.ss:37     1.             ?                                           -                  false          true                 {1, 2, 3, 4, }
+31.ss               31.ss:38     1.             ?                                           -                  false          true                 {1, 2, 3, 4, }
+31.ss               31.ss:39     1.             ?                                           -                  false          true                 {1, 2, 3, 4, }
+31.ss               31.ss:40     1.             ?                                           -                  false          true                 {1, 2, }
+31.ss               31.ss:41     1.             ?                                           -                  false          true                 {1, 2, 3, }
+31.ss               31.ss:42     1.             ?                                           -                  false          true                 {2, 3, 4, }
+31.ss               31.ss:43     1.             ?                                           -                  false          true                 {1, 2, 3, 4, }
+31.ss               31.ss:44     1.             ?                                           -                  false          true                 {1, 2, }
+31.ss               31.ss:45     1.             ?                                           -                  false          true                 {1, 2, }
+31.ss               31.ss:46     1.             ?                                           -                  false          true                 {1, 2, 3, 4, }
+31.ss               31.ss:47     1.             ?                                           -                  false          true                 {1, 2, 3, 4, }
+31.ss               31.ss:48     1.             ?                                           -                  false          true                 {1, 2, 3, 4, }
+31.ss               31.ss:49     1.             ?                                           -                  false          true                 {1, 2, 3, 4, }
+31.ss               31.ss:50     1.             ?                                           -                  false          true                 {1, 2, }
+31.ss               31.ss:51     1.             ?                                           -                  false          true                 {1, 2, 3, 4, }
+31.ss               31.ss:52     1.             ?                                           -                  false          true                 {1, 2, 3, 4, }
+31.ss               31.ss:53     1.             ?                                           -                  false          true                 {2, 3, 4, }
+31.ss               31.ss:54     1.             ?                                           -                  false          true                 {1, 2, 3, 4, }
+31.ss               31.ss:55     1.             ?                                           -                  false          true                 {1, 2, }
+31.ss               31.ss:56     1.             ?                                           -                  false          true                 {1, 3, }
+31.ss               31.ss:57     1.             ?                                           -                  false          true                 {1, 3, }
+31.ss               31.ss:58     1.             ?                                           -                  false          true                 {1, 2, 3, 4, }
+31.ss               31.ss:59     1.             ?                                           -                  false          true                 {1, 2, }
+31.ss               31.ss:60     1.             ?                                           -                  false          true                 {2, 4, }
+31.ss               31.ss:61     1.             ?                                           -                  false          true                 {1, 2, 3, 4, }
+31.ss               31.ss:62     1.             ?                                           -                  false          true                 {2, 3, 4, }
+31.ss               31.ss:63     1.             ?                                           -                  false          true                 {1, 2, 3, 4, }
+31.ss               31.ss:64     1.             ?                                           -                  false          true                 {1, 2, }
+31.ss               31.ss:65     1.             ?                                           -                  false          true                 {1, 2, 4, }
+31.ss               31.ss:66     1.             ?                                           -                  false          true                 {1, 2, 3, 4, }
+31.ss               31.ss:67     1.             ?                                           -                  false          true                 {1, 2, 3, 4, }
+31.ss               31.ss:68     1.             ?                                           -                  false          true                 {1, 3, }
+31.ss               31.ss:69     1.             ?                                           -                  false          true                 {1, 2, 3, 4, }
+31.ss               31.ss:70     1.             ?                                           -                  false          true                 {1, 2, 3, 4, }
+31.ss               31.ss:71     1.             ?                                           -                  false          true                 {1, 2, }
+31.ss               31.ss:72     1.             ?                                           -                  false          true                 {2, 3, 4, }
+31.ss               31.ss:73     1.             ?                                           -                  false          true                 {1, 2, }
+31.ss               31.ss:74     1.             ?                                           -                  false          true                 {2, 3, 4, }
+31.ss               31.ss:75     1.             ?                                           -                  false          true                 {1, 2, 3, 4, }
+31.ss               31.ss:76     1.             ?                                           -                  false          true                 {1, 2, }
+31.ss               31.ss:77     1.             ?                                           -                  false          true                 {1, 2, 3, 4, }
+31.ss               31.ss:78     1.             ?                                           -                  false          true                 {1, 2, }
+31.ss               31.ss:79     1.             ?                                           -                  false          true                 {1, 2, 3, 4, }
+31.ss               31.ss:80     1.             ?                                           -                  false          true                 {1, 2, }
+31.ss               31.ss:81     1.             ?                                           -                  false          true                 {1, 2, 3, 4, }
+31.ss               31.ss:82     1.             ?                                           -                  false          true                 {1, 2, }
+31.ss               31.ss:83     1.             ?                                           -                  false          true                 {1, 2, 3, 4, }
+31.ss               31.ss:84     1.             ?                                           -                  false          true                 {1, 2, 3, 4, }
+31.ss               31.ss:85     1.             ?                                           -                  false          true                 {1, 2, 3, 4, }
+31.ss               31.ss:86     1.             ?                                           -                  false          true                 {1, 2, }
+31.ss               31.ss:87     1.             ?                                           -                  false          true                 {1, 2, 3, 4, }
+31.ss               31.ss:88     1.             ?                                           -                  false          true                 {1, 2, }
+31.ss               31.ss:89     1.             ?                                           -                  false          true                 {1, 2, 3, 4, }
+31.ss               31.ss:90     1.             ?                                           -                  false          true                 {1, 2, }
+31.ss               31.ss:91     1.             ?                                           -                  false          true                 {1, 2, 3, 4, }
+31.ss               31.ss:92     1.             ?                                           -                  false          true                 {1, 2, }
+31.ss               31.ss:93     1.             ?                                           -                  false          true                 {1, 2, 3, 4, }
+31.ss               31.ss:94     1.             ?                                           -                  false          true                 {1, 2, }
+31.ss               31.ss:95     1.             ?                                           -                  false          true                 {1, 2, }
+31.ss               31.ss:96     1.             ?                                           -                  false          true                 {1, 2, 3, 4, }
+31.ss               31.ss:97     1.             ?                                           -                  false          true                 {1, 2, }
+31.ss               31.ss:98     1.             ?                                           -                  false          true                 {1, 2, 3, 4, }
+31.ss               31.ss:99     1.             ?                                           -                  false          true                 {1, 2, }
+31.ss               31.ss:100    1.             ?                                           -                  false          true                 {1, 2, 3, 4, }
+31.ss               31.ss:101    1.             ?                                           -                  false          true                 {1, 2, }
+31.ss               31.ss:102    1.             ?                                           -                  false          true                 {1, 2, 3, 4, }
+31.ss               31.ss:103    1.             ?                                           -                  false          true                 {1, 2, }
+31.ss               31.ss:104    1.             ?                                           -                  false          true                 {1, 2, 3, 4, }
+31.ss               31.ss:105    1.             ?                                           -                  false          true                 {1, 2, }
+31.ss               31.ss:106    1.             ?                                           -                  false          true                 {1, 2, 3, 4, }
+31.ss               31.ss:107    1.             ?                                           -                  false          true                 {1, 2, 3, 4, }
+31.ss               31.ss:108    1.             ?                                           -                  false          true                 {1, 2, }
+31.ss               31.ss:109    1.             ?                                           -                  false          true                 {1, 2, 3, 4, }
+31.ss               31.ss:110    1.             ?                                           -                  false          true                 {1, 2, }
+31.ss               31.ss:111    1.             ?                                           -                  false          true                 {1, 2, 3, 4, }
+31.ss               31.ss:112    1.             ?                                           -                  false          true                 {1, 2, 3, 4, }
+31.ss               31.ss:113    1.             ?                                           -                  false          true                 {1, 2, }
+31.ss               31.ss:114    1.             ?                                           -                  false          true                 {1, 2, }
+31.ss               31.ss:115    1.             ?                                           -                  false          true                 {1, 2, 3, 4, }
+31.ss               31.ss:116    1.             ?                                           -                  false          true                 {1, 2, }
+31.ss               31.ss:117    1.             ?                                           -                  false          true                 {1, 2, 3, 4, }
+31.ss               31.ss:118    1.             ?                                           -                  false          true                 {1, 2, }
+31.ss               31.ss:119    1.             ?                                           -                  false          true                 {1, 2, 3, 4, }
+31.ss               31.ss:120    1.             ?                                           -                  false          true                 {1, 2, }
+31.ss               31.ss:121    1.             ?                                           -                  false          true                 {1, 2, 3, 4, }
+31.ss               31.ss:122    1.             ?                                           -                  false          true                 {1, 2, }
+31.ss               31.ss:123    1.             ?                                           -                  false          true                 {1, 2, 3, 4, }
+31.ss               31.ss:124    1.             ?                                           -                  false          true                 {1, 2, 3, 4, }
+31.ss               31.ss:125    1.             ?                                           -                  false          true                 {1, 2, 3, 4, }
+31.ss               31.ss:126    1.             ?                                           -                  false          true                 {1, 2, }
+31.ss               31.ss:127    1.             ?                                           -                  false          true                 {1, 2, 3, 4, }
+31.ss               31.ss:128    1.             ?                                           -                  false          true                 {1, 2, }
+31.ss               31.ss:129    1.             ?                                           -                  false          true                 {1, 2, 3, 4, }
+31.ss               31.ss:130    1.             ?                                           -                  false          true                 {1, 2, }
+31.ss               31.ss:131    1.             ?                                           -                  false          true                 {1, 2, 3, 4, }
+31.ss               31.ss:132    1.             ?                                           -                  false          true                 {1, 2, 3, 4, }
+31.ss               31.ss:133    1.             ?                                           -                  false          true                 {1, 2, }
+31.ss               31.ss:134    1.             ?                                           -                  false          true                 {1, 2, 3, 4, }
+31.ss               31.ss:135    1.             ?                                           -                  false          true                 {1, 2, }
+31.ss               31.ss:136    1.             ?                                           -                  false          true                 {1, 2, 3, 4, }
+31.ss               31.ss:137    1.             ?                                           -                  false          true                 {1, 2, }
+31.ss               31.ss:138    1.             ?                                           -                  false          true                 {1, 2, 3, 4, }
+31.ss               31.ss:139    1.             ?                                           -                  false          true                 {1, 2, }
+31.ss               31.ss:140    1.             ?                                           -                  false          true                 {1, 2, 3, 4, }
+31.ss               31.ss:141    1.             ?                                           -                  false          true                 {1, 2, 3, 4, }
+31.ss               31.ss:142    1.             ?                                           -                  false          true                 {1, 2, }
+31.ss               31.ss:143    1.             ?                                           -                  false          true                 {2, 4, }
+31.ss               31.ss:144    1.             ?                                           -                  false          true                 {1, 2, 3, 4, }
+31.ss               31.ss:145    1.             ?                                           -                  false          true                 {1, 2, }
+31.ss               31.ss:146    1.             ?                                           -                  false          true                 {1, 2, 3, }
+31.ss               31.ss:147    1.             ?                                           -                  false          true                 {1, 2, 4, }
+31.ss               31.ss:148    1.             ?                                           -                  false          true                 {1, 2, 3, 4, }
+31.ss               31.ss:149    1.             ?                                           -                  false          true                 {1, 2, 3, 4, }
+31.ss               31.ss:150    1.             ?                                           -                  false          true                 {1, 2, 3, 4, }
+31.ss               31.ss:151    1.             ?                                           -                  false          true                 {1, 2, 3, 4, }
+31.ss               31.ss:152    1.             ?                                           -                  false          true                 {1, 3, }
+31.ss               31.ss:153    1.             ?                                           -                  false          true                 {2, 4, }
+31.ss               31.ss:154    1.             ?                                           -                  false          true                 {2, 4, }
+31.ss               31.ss:155    1.             ?                                           -                  false          true                 {1, 2, 3, }
+31.ss               31.ss:156    1.             ?                                           -                  false          true                 {1, 2, 3, 4, }
+31.ss               31.ss:157    1.             ?                                           -                  false          true                 {1, 3, 4, }
+31.ss               31.ss:158    1.             ?                                           -                  false          true                 {1, 2, 3, 4, }
+31.ss               31.ss:159    1.             ?                                           -                  false          true                 {1, 2, }
+31.ss               31.ss:160    1.             ?                                           -                  false          true                 {1, 2, }
+31.ss               31.ss:161    1.             ?                                           -                  false          true                 {1, 2, 3, 4, }
+31.ss               31.ss:162    1.             ?                                           -                  false          true                 {1, 2, }
+31.ss               31.ss:163    1.             ?                                           -                  false          true                 {2, 4, }
+31.ss               31.ss:164    1.             ?                                           -                  false          true                 {2, 4, }
+31.ss               31.ss:165    1.             ?                                           -                  false          true                 {1, 3, 4, }
+31.ss               31.ss:166    1.             ?                                           -                  false          true                 {1, 2, }
+32.ss               32.ss:0      1.             ?                                           -                  false          true                 {1, 2, 3, 4, }
+32.ss               32.ss:1      1.             ?                                           -                  false          true                 {1, 3, 4, }
+32.ss               32.ss:2      1.             ?                                           -                  false          true                 {2, 3, 4, }
+32.ss               32.ss:3      1.             ?                                           -                  false          true                 {1, 2, 3, 4, }
+32.ss               32.ss:4      1.             ?                                           -                  false          true                 {2, 4, }
+32.ss               32.ss:5      1.             ?                                           -                  false          true                 {2, 3, }
+32.ss               32.ss:6      1.             ?                                           -                  false          true                 {1, 3, }
+32.ss               32.ss:7      1.             ?                                           -                  false          true                 {1, 2, 3, 4, }
+32.ss               32.ss:8      1.             ?                                           -                  false          true                 {1, 2, 3, 4, }
+32.ss               32.ss:9      1.             ?                                           -                  false          true                 {1, 2, }
+32.ss               32.ss:10     1.             ?                                           -                  false          true                 {3, 4, }
+32.ss               32.ss:11     1.             ?                                           -                  false          true                 {1, 3, 4, }
+32.ss               32.ss:12     1.             ?                                           -                  false          true                 {2, 4, }
+32.ss               32.ss:13     1.             ?                                           -                  false          true                 {1, 2, 3, 4, }
+32.ss               32.ss:14     1.             ?                                           -                  false          true                 {1, 2, }
+32.ss               32.ss:15     1.             ?                                           -                  false          true                 {2, 3, }
+32.ss               32.ss:16     1.             ?                                           -                  false          true                 {1, 2, 4, }
+32.ss               32.ss:17     1.             ?                                           -                  false          true                 {2, 4, }
+32.ss               32.ss:18     1.             ?                                           -                  false          true                 {2, 4, }
+32.ss               32.ss:19     1.             ?                                           -                  false          true                 {1, 2, }
+32.ss               32.ss:20     1.             ?                                           -                  false          true                 {2, 4, }
+32.ss               32.ss:21     1.             ?                                           -                  false          true                 {2, 4, }
+32.ss               32.ss:22     1.             ?                                           -                  false          true                 {2, 4, }
+32.ss               32.ss:23     1.             ?                                           -                  false          true                 {1, 2, 3, 4, }
+32.ss               32.ss:24     1.             ?                                           -                  false          true                 {1, 2, }
+32.ss               32.ss:25     1.             ?                                           -                  false          true                 {1, 4, }
+32.ss               32.ss:26     1.             ?                                           -                  false          true                 {2, 3, }
+32.ss               32.ss:27     1.             ?                                           -                  false          true                 {1, 2, 4, }
+32.ss               32.ss:28     1.             ?                                           -                  false          true                 {1, 2, }
+32.ss               32.ss:29     1.             ?                                           -                  false          true                 {2, 4, }
+32.ss               32.ss:30     1.             ?                                           -                  false          true                 {1, 2, 3, 4, }
+32.ss               32.ss:31     1.             ?                                           -                  false          true                 {1, 2, }
+32.ss               32.ss:32     1.             ?                                           -                  false          true                 {1, 3, }
+32.ss               32.ss:33     1.             ?                                           -                  false          true                 {1, 2, 4, }
+32.ss               32.ss:34     1.             ?                                           -                  false          true                 {1, 3, 4, }
+32.ss               32.ss:35     1.             ?                                           -                  false          true                 {1, 4, }
+32.ss               32.ss:36     1.             ?                                           -                  false          true                 {2, 4, }
+32.ss               32.ss:37     1.             ?                                           -                  false          true                 {2, 4, }
+32.ss               32.ss:38     1.             ?                                           -                  false          true                 {1, 2, 4, }
+32.ss               32.ss:39     1.             ?                                           -                  false          true                 {1, 2, }
+32.ss               32.ss:40     1.             ?                                           -                  false          true                 {1, 2, 3, 4, }
+32.ss               32.ss:41     1.             ?                                           -                  false          true                 {1, 3, 4, }
+32.ss               32.ss:42     1.             ?                                           -                  false          true                 {1, 2, 4, }
+32.ss               32.ss:43     1.             ?                                           -                  false          true                 {1, 2, 4, }
+32.ss               32.ss:44     1.             ?                                           -                  false          true                 {2, 3, 4, }
+32.ss               32.ss:45     1.             ?                                           -                  false          true                 {1, 3, }
+32.ss               32.ss:46     1.             ?                                           -                  false          true                 {2, 4, }
+32.ss               32.ss:47     1.             ?                                           -                  false          true                 {2, 3, 4, }
+32.ss               32.ss:48     1.             ?                                           -                  false          true                 {2, 4, }
+32.ss               32.ss:49     1.             ?                                           -                  false          true                 {2, 3, 4, }
+32.ss               32.ss:50     1.             ?                                           -                  false          true                 {1, 3, 4, }
+32.ss               32.ss:51     1.             ?                                           -                  false          true                 {1, 2, 4, }
+32.ss               32.ss:52     1.             ?                                           -                  false          true                 {2, 3, 4, }
+32.ss               32.ss:53     1.             ?                                           -                  false          true                 {1, 3, }
+32.ss               32.ss:54     1.             ?                                           -                  false          true                 {1, 2, 4, }
+32.ss               32.ss:55     1.             ?                                           -                  false          true                 {1, 2, 3, 4, }
+32.ss               32.ss:56     1.             ?                                           -                  false          true                 {1, 2, }
+32.ss               32.ss:57     1.             ?                                           -                  false          true                 {1, 2, 4, }
+32.ss               32.ss:58     1.             ?                                           -                  false          true                 {1, 3, }
+32.ss               32.ss:59     1.             ?                                           -                  false          true                 {1, 3, }
+32.ss               32.ss:60     1.             ?                                           -                  false          true                 {1, 2, }
+32.ss               32.ss:61     1.             ?                                           -                  false          true                 {2, 4, }
+32.ss               32.ss:62     1.             ?                                           -                  false          true                 {2, 4, }
+32.ss               32.ss:63     1.             ?                                           -                  false          true                 {1, 2, 4, }
+32.ss               32.ss:64     1.             ?                                           -                  false          true                 {2, 3, }
+32.ss               32.ss:65     1.             ?                                           -                  false          true                 {2, 3, }
+32.ss               32.ss:66     1.             ?                                           -                  false          true                 {2, 4, }
+32.ss               32.ss:67     1.             ?                                           -                  false          true                 {2, 4, }
+32.ss               32.ss:68     1.             ?                                           -                  false          true                 {3, 4, }
+32.ss               32.ss:69     1.             ?                                           -                  false          true                 {2, 4, }
+32.ss               32.ss:70     1.             ?                                           -                  false          true                 {2, 4, }
+32.ss               32.ss:71     1.             ?                                           -                  false          true                 {1, 2, 3, 4, }
+32.ss               32.ss:72     1.             ?                                           -                  false          true                 {1, 2, }
+32.ss               32.ss:73     1.             ?                                           -                  false          true                 {1, 3, 4, }
+32.ss               32.ss:74     1.             ?                                           -                  false          true                 {1, 2, 3, 4, }
+32.ss               32.ss:75     1.             ?                                           -                  false          true                 {1, 2, }
+32.ss               32.ss:76     1.             ?                                           -                  false          true                 {1, 2, 4, }
+32.ss               32.ss:77     1.             ?                                           -                  false          true                 {1, 2, }
+32.ss               32.ss:78     1.             ?                                           -                  false          true                 {3, 4, }
+32.ss               32.ss:79     1.             ?                                           -                  false          true                 {1, 4, }
+32.ss               32.ss:80     1.             ?                                           -                  false          true                 {1, 3, }
+32.ss               32.ss:81     1.             ?                                           -                  false          true                 {2, 4, }
+32.ss               32.ss:82     1.             ?                                           -                  false          true                 {1, 2, 3, 4, }
+32.ss               32.ss:83     1.             ?                                           -                  false          true                 {1, 2, }
+32.ss               32.ss:84     1.             ?                                           -                  false          true                 {1, 3, }
+32.ss               32.ss:85     1.             ?                                           -                  false          true                 {1, 2, 3, 4, }
+32.ss               32.ss:86     1.             ?                                           -                  false          true                 {1, 2, }
+32.ss               32.ss:87     1.             ?                                           -                  false          true                 {2, 3, 4, }
+33.ss               33.ss:0      1.             ?                                           -                  false          true                 {0, 1, 2, }
+33.ss               33.ss:1      1.             ?                                           -                  false          true                 {0, 1, 2, }
+33.ss               33.ss:2      1.             ?                                           -                  false          true                 {0, 1, }
+33.ss               33.ss:3      1.             ?                                           -                  false          true                 {0, 1, 2, 3, }
+33.ss               33.ss:4      1.             ?                                           -                  false          true                 {0, 1, }
+33.ss               33.ss:5      1.             ?                                           -                  false          true                 {0, 1, }
+33.ss               33.ss:6      1.             ?                                           -                  false          true                 {0, 1, }
+33.ss               33.ss:7      1.             ?                                           -                  false          true                 {0, 1, }
+33.ss               33.ss:8      1.             ?                                           -                  false          true                 {0, 1, }
+33.ss               33.ss:9      1.             ?                                           -                  false          true                 {0, 1, }
+33.ss               33.ss:10     1.             ?                                           -                  false          true                 {0, 1, }
+33.ss               33.ss:11     1.             ?                                           -                  false          true                 {0, 1, }
+33.ss               33.ss:12     1.             ?                                           -                  false          true                 {0, 1, }
+33.ss               33.ss:13     1.             ?                                           -                  false          true                 {0, 1, }
+33.ss               33.ss:14     1.             ?                                           -                  false          true                 {0, 1, 2, 3, }
+33.ss               33.ss:15     1.             ?                                           -                  false          true                 {0, 1, }
+33.ss               33.ss:16     1.             ?                                           -                  false          true                 {0, 1, 2, }
+33.ss               33.ss:17     1.             ?                                           -                  false          true                 {0, 1, }
+33.ss               33.ss:18     1.             ?                                           -                  false          true                 {0, 1, 2, 3, 4, }
+33.ss               33.ss:19     1.             ?                                           -                  false          true                 {0, 1, }
+33.ss               33.ss:20     1.             ?                                           -                  false          true                 {0, }
+33.ss               33.ss:21     1.             ?                                           -                  false          true                 {0, 1, 2, }
+33.ss               33.ss:22     1.             ?                                           -                  false          true                 {0, 1, 2, }
+33.ss               33.ss:23     1.             ?                                           -                  false          true                 {0, 1, }
+33.ss               33.ss:24     1.             ?                                           -                  false          true                 {0, 1, }
+33.ss               33.ss:25     1.             ?                                           -                  false          true                 {0, 1, }
+33.ss               33.ss:26     1.             ?                                           -                  false          true                 {0, 1, }
+33.ss               33.ss:27     1.             ?                                           -                  false          true                 {0, 1, }
+33.ss               33.ss:28     1.             ?                                           -                  false          true                 {0, 1, 2, 3, 4, }
+33.ss               33.ss:29     1.             ?                                           -                  false          true                 {0, 1, }
+33.ss               33.ss:30     1.             ?                                           -                  false          true                 {0, 1, }
+33.ss               33.ss:31     1.             ?                                           -                  false          true                 {0, 1, }
+33.ss               33.ss:32     1.             ?                                           -                  false          true                 {0, 1, }
+33.ss               33.ss:33     1.             ?                                           -                  false          true                 {0, 1, 2, 3, }
+33.ss               33.ss:34     1.             ?                                           -                  false          true                 {0, 1, 2, }
+33.ss               33.ss:35     1.             ?                                           -                  false          true                 {0, 1, }
+33.ss               33.ss:36     1.             ?                                           -                  false          true                 {0, 1, 2, }
+33.ss               33.ss:37     1.             ?                                           -                  false          true                 {0, 1, 2, }
+33.ss               33.ss:38     1.             ?                                           -                  false          true                 {0, 1, }
+33.ss               33.ss:39     1.             ?                                           -                  false          true                 {0, 1, }
+33.ss               33.ss:40     1.             ?                                           -                  false          true                 {0, 1, }
+33.ss               33.ss:41     1.             ?                                           -                  false          true                 {0, 1, }
+33.ss               33.ss:42     1.             ?                                           -                  false          true                 {0, 1, 2, }
+33.ss               33.ss:43     1.             ?                                           -                  false          true                 {0, 1, }
+33.ss               33.ss:44     1.             ?                                           -                  false          true                 {0, 1, }
+33.ss               33.ss:45     1.             ?                                           -                  false          true                 {0, 1, }
+33.ss               33.ss:46     1.             ?                                           -                  false          true                 {0, 1, }
+33.ss               33.ss:47     1.             ?                                           -                  false          true                 {0, 1, 2, }
+33.ss               33.ss:48     1.             ?                                           -                  false          true                 {0, 1, 2, }
+33.ss               33.ss:49     1.             ?                                           -                  false          true                 {0, 1, }
+33.ss               33.ss:50     1.             ?                                           -                  false          true                 {0, 1, 2, 3, 4, 5, }
+33.ss               33.ss:51     1.             ?                                           -                  false          true                 {0, 1, }
+33.ss               33.ss:52     1.             ?                                           -                  false          true                 {0, 1, 2, 3, }
+33.ss               33.ss:53     1.             ?                                           -                  false          true                 {0, 1, 2, }
+33.ss               33.ss:54     1.             ?                                           -                  false          true                 {0, 1, 2, 3, 4, }
+33.ss               33.ss:55     1.             ?                                           -                  false          true                 {0, 1, 2, }
+33.ss               33.ss:56     1.             ?                                           -                  false          true                 {0, 1, }
+33.ss               33.ss:57     1.             ?                                           -                  false          true                 {0, 1, 2, }
+33.ss               33.ss:58     1.             ?                                           -                  false          true                 {0, }
+33.ss               33.ss:59     1.             ?                                           -                  false          true                 {0, 1, 2, }
+33.ss               33.ss:60     1.             ?                                           -                  false          true                 {0, 1, }
+33.ss               33.ss:61     1.             ?                                           -                  false          true                 {0, 1, }
+33.ss               33.ss:62     1.             ?                                           -                  false          true                 {0, 1, 2, }
+33.ss               33.ss:63     1.             ?                                           -                  false          true                 {0, 1, }
+33.ss               33.ss:64     1.             ?                                           -                  false          true                 {0, 1, }
+33.ss               33.ss:65     1.             ?                                           -                  false          true                 {0, 1, 2, 3, 4, 5, }
+33.ss               33.ss:66     1.             ?                                           -                  false          true                 {0, 1, }
+33.ss               33.ss:67     1.             ?                                           -                  false          true                 {0, 1, }
+33.ss               33.ss:68     1.             ?                                           -                  false          true                 {0, 1, }
+33.ss               33.ss:69     1.             ?                                           -                  false          true                 {0, 1, }
+33.ss               33.ss:70     1.             ?                                           -                  false          true                 {0, 1, }
+33.ss               33.ss:71     1.             ?                                           -                  false          true                 {0, 1, }
+33.ss               33.ss:72     1.             ?                                           -                  false          true                 {0, 1, }
+33.ss               33.ss:73     1.             ?                                           -                  false          true                 {0, 1, }
+33.ss               33.ss:74     1.             ?                                           -                  false          true                 {0, 1, }
+33.ss               33.ss:75     1.             ?                                           -                  false          true                 {0, 1, 2, 3, }
+33.ss               33.ss:76     1.             ?                                           -                  false          true                 {0, 1, }
+33.ss               33.ss:77     1.             ?                                           -                  false          true                 {0, 1, 2, 3, }
+33.ss               33.ss:78     1.             ?                                           -                  false          true                 {0, 1, }
+33.ss               33.ss:79     1.             ?                                           -                  false          true                 {0, 1, }
+33.ss               33.ss:80     1.             ?                                           -                  false          true                 {0, 1, }
+33.ss               33.ss:81     1.             ?                                           -                  false          true                 {0, }
+33.ss               33.ss:82     1.             ?                                           -                  false          true                 {0, 1, }
+33.ss               33.ss:83     1.             ?                                           -                  false          true                 {0, 1, 2, }
+33.ss               33.ss:84     1.             ?                                           -                  false          true                 {0, 1, }
+33.ss               33.ss:85     1.             ?                                           -                  false          true                 {0, 1, 2, 3, 4, }
+33.ss               33.ss:86     1.             ?                                           -                  false          true                 {0, 1, }
+33.ss               33.ss:87     1.             ?                                           -                  false          true                 {0, 1, }
+33.ss               33.ss:88     1.             ?                                           -                  false          true                 {0, 1, }
+33.ss               33.ss:89     1.             ?                                           -                  false          true                 {0, 1, }
+33.ss               33.ss:90     1.             ?                                           -                  false          true                 {0, 2, 3, }
+33.ss               33.ss:91     1.             ?                                           -                  false          true                 {0, 1, }
+33.ss               33.ss:92     1.             ?                                           -                  false          true                 {0, 1, }
+33.ss               33.ss:93     1.             ?                                           -                  false          true                 {0, 1, }
+33.ss               33.ss:94     1.             ?                                           -                  false          true                 {0, 1, }
+33.ss               33.ss:95     1.             ?                                           -                  false          true                 {0, 1, }
+33.ss               33.ss:96     1.             ?                                           -                  false          true                 {0, 1, }
+33.ss               33.ss:97     1.             ?                                           -                  false          true                 {0, 1, }
+33.ss               33.ss:98     1.             ?                                           -                  false          true                 {0, 1, }
+33.ss               33.ss:99     1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:0      1.             ?                                           -                  false          true                 {0, 1, 2, }
+34.ss               34.ss:1      1.             ?                                           -                  false          true                 {0, 1, 2, }
+34.ss               34.ss:2      1.             ?                                           -                  false          true                 {0, 1, 2, 3, 4, 5, }
+34.ss               34.ss:3      1.             ?                                           -                  false          true                 {0, 1, 2, }
+34.ss               34.ss:4      1.             ?                                           -                  false          true                 {0, 1, 2, }
+34.ss               34.ss:5      1.             ?                                           -                  false          true                 {0, 1, 2, }
+34.ss               34.ss:6      1.             ?                                           -                  false          true                 {0, 1, 2, 3, }
+34.ss               34.ss:7      1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:8      1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:9      1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:10     1.             ?                                           -                  false          true                 {0, 1, 2, }
+34.ss               34.ss:11     1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:12     1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:13     1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:14     1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:15     1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:16     1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:17     1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:18     1.             ?                                           -                  false          true                 {0, 1, 2, 3, }
+34.ss               34.ss:19     1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:20     1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:21     1.             ?                                           -                  false          true                 {0, 1, 2, }
+34.ss               34.ss:22     1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:23     1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:24     1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:25     1.             ?                                           -                  false          true                 {0, 1, 2, }
+34.ss               34.ss:26     1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:27     1.             ?                                           -                  false          true                 {0, 1, 2, }
+34.ss               34.ss:28     1.             ?                                           -                  false          true                 {0, 1, 2, }
+34.ss               34.ss:29     1.             ?                                           -                  false          true                 {0, 1, 2, }
+34.ss               34.ss:30     1.             ?                                           -                  false          true                 {0, 1, 2, 3, 4, }
+34.ss               34.ss:31     1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:32     1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:33     1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:34     1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:35     1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:36     1.             ?                                           -                  false          true                 {0, 1, 2, }
+34.ss               34.ss:37     1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:38     1.             ?                                           -                  false          true                 {0, 1, 2, }
+34.ss               34.ss:39     1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:40     1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:41     1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:42     1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:43     1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:44     1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:45     1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:46     1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:47     1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:48     1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:49     1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:50     1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:51     1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:52     1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:53     1.             ?                                           -                  false          true                 {0, 1, 2, }
+34.ss               34.ss:54     1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:55     1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:56     1.             ?                                           -                  false          true                 {0, 1, 2, 3, }
+34.ss               34.ss:57     1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:58     1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:59     1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:60     1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:61     1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:62     1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:63     1.             ?                                           -                  false          true                 {0, 1, 2, }
+34.ss               34.ss:64     1.             ?                                           -                  false          true                 {0, 1, 2, 3, }
+34.ss               34.ss:65     1.             ?                                           -                  false          true                 {0, 1, 2, 3, 4, }
+34.ss               34.ss:66     1.             ?                                           -                  false          true                 {0, 1, 2, }
+34.ss               34.ss:67     1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:68     1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:69     1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:70     1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:71     1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:72     1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:73     1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:74     1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:75     1.             ?                                           -                  false          true                 {0, 1, 2, }
+34.ss               34.ss:76     1.             ?                                           -                  false          true                 {0, 1, 2, }
+34.ss               34.ss:77     1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:78     1.             ?                                           -                  false          true                 {0, 1, 2, }
+34.ss               34.ss:79     1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:80     1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:81     1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:82     1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:83     1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:84     1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:85     1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:86     1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:87     1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:88     1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:89     1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:90     1.             ?                                           -                  false          true                 {0, 1, 2, }
+34.ss               34.ss:91     1.             ?                                           -                  false          true                 {0, 1, 2, }
+34.ss               34.ss:92     1.             ?                                           -                  false          true                 {0, 1, 2, }
+34.ss               34.ss:93     1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:94     1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:95     1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:96     1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:97     1.             ?                                           -                  false          true                 {0, 1, 2, 3, 4, 5, }
+34.ss               34.ss:98     1.             ?                                           -                  false          true                 {0, 1, 2, }
+34.ss               34.ss:99     1.             ?                                           -                  false          true                 {0, 1, 2, }
+34.ss               34.ss:100    1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:101    1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:102    1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:103    1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:104    1.             ?                                           -                  false          true                 {0, 1, 2, }
+34.ss               34.ss:105    1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:106    1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:107    1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:108    1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:109    1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:110    1.             ?                                           -                  false          true                 {0, 1, 2, }
+34.ss               34.ss:111    1.             ?                                           -                  false          true                 {0, 1, 2, }
+34.ss               34.ss:112    1.             ?                                           -                  false          true                 {0, 1, 2, 3, 4, }
+34.ss               34.ss:113    1.             ?                                           -                  false          true                 {0, 1, 2, 3, }
+34.ss               34.ss:114    1.             ?                                           -                  false          true                 {0, 1, 2, }
+34.ss               34.ss:115    1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:116    1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:117    1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:118    1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:119    1.             ?                                           -                  false          true                 {0, 1, 2, }
+34.ss               34.ss:120    1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:121    1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:122    1.             ?                                           -                  false          true                 {0, 1, 2, 3, }
+34.ss               34.ss:123    1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:124    1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:125    1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:126    1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:127    1.             ?                                           -                  false          true                 {0, 1, 2, }
+34.ss               34.ss:128    1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:129    1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:130    1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:131    1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:132    1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:133    1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:134    1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:135    1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:136    1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:137    1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:138    1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:139    1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:140    1.             ?                                           -                  false          true                 {0, 1, 2, 3, 4, }
+34.ss               34.ss:141    1.             ?                                           -                  false          true                 {0, 1, 2, }
+34.ss               34.ss:142    1.             ?                                           -                  false          true                 {0, 1, 2, 3, }
+34.ss               34.ss:143    1.             ?                                           -                  false          true                 {0, 1, 2, }
+34.ss               34.ss:144    1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:145    1.             ?                                           -                  false          true                 {0, 1, 2, }
+34.ss               34.ss:146    1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:147    1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:148    1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:149    1.             ?                                           -                  false          true                 {0, 1, 2, 3, }
+34.ss               34.ss:150    1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:151    1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:152    1.             ?                                           -                  false          true                 {0, 1, 2, }
+34.ss               34.ss:153    1.             ?                                           -                  false          true                 {0, 1, 2, 3, }
+34.ss               34.ss:154    1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:155    1.             ?                                           -                  false          true                 {0, 1, 2, }
+34.ss               34.ss:156    1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:157    1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:158    1.             ?                                           -                  false          true                 {0, 1, }
+34.ss               34.ss:159    1.             ?                                           -                  false          true                 {0, 1, 2, 3, }
+34.ss               34.ss:160    1.             ?                                           -                  false          true                 {0, 1, 2, }
+
+Sankoff
+    
+    Total 0
+
+
+
+Molecular
+    
+    Total 17
+                                                                                                                                      
+ Name         Initial Assignment         Transformation Cost Matrix         Gap Opening         Weight         class          
+14.fas:0     Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+16.fas:0     Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+16.fas:1     Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+16.fas:2     Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+16.fas:3     Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+16.fas:4     Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+16.fas:5     Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+26.fas:0     Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+27.fas:0     Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+27.fas:1     Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+27.fas:2     Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+27.fas:3     Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+27.fas:4     Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+27.fas:5     Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+40.aa:0      Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+41.aa:0      Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+6.fas:0      Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+
+Kolmogorov
+    
+    Total 0
+
+
+
+
+Ignored characters
+    
+Files
+    
+
+
+File
+    
+
+File Name : 41.aa
+
+File Contents 
+
+
+Characters
+
+
+
+File
+    
+
+File Name : 40.aa
+
+File Contents 
+
+
+Characters
+
+
+
+File
+    
+
+File Name : 34.ss
+
+File Contents 
+
+
+Characters
+
+File Contents 
+
+
+Trees
+
+
+
+File
+    
+
+File Name : 33.ss
+
+File Contents 
+
+
+Characters
+
+File Contents 
+
+
+Trees
+
+
+
+File
+    
+
+File Name : 32.ss
+
+File Contents 
+
+
+Characters
+
+File Contents 
+
+
+Trees
+
+
+
+File
+    
+
+File Name : 31.ss
+
+File Contents 
+
+
+Characters
+
+File Contents 
+
+
+Trees
+
+
+
+File
+    
+
+File Name : 27.fas
+
+File Contents 
+
+
+Characters
+
+
+
+File
+    
+
+File Name : 26.fas
+
+File Contents 
+
+
+Characters
+
+
+
+File
+    
+
+File Name : 16.fas
+
+File Contents 
+
+
+Characters
+
+
+
+File
+    
+
+File Name : 14.fas
+
+File Contents 
+
+
+Characters
+
+
+
+File
+    
+
+File Name : 6.fas
+
+File Contents 
+
+
+Characters
+
+
+
+
+
+
+
