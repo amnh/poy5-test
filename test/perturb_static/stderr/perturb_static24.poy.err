@@ -491,46 +491,46 @@ Status : Wagner : 5 of 49 -- Wagner tree with cost 654.
 Status : Wagner : 6 of 49 -- Wagner tree with cost 786.
 Status : Wagner : 7 of 49 -- Wagner tree with cost 923.
 Status : Wagner : 8 of 49 -- Wagner tree with cost 1000.
-Status : Wagner : 9 of 49 -- Wagner tree with cost 1136.
-Status : Wagner : 10 of 49 -- Wagner tree with cost 1204.
-Status : Wagner : 11 of 49 -- Wagner tree with cost 1368.
-Status : Wagner : 12 of 49 -- Wagner tree with cost 1515.
-Status : Wagner : 13 of 49 -- Wagner tree with cost 1687.
-Status : Wagner : 14 of 49 -- Wagner tree with cost 1768.
-Status : Wagner : 15 of 49 -- Wagner tree with cost 1801.
-Status : Wagner : 16 of 49 -- Wagner tree with cost 1867.
-Status : Wagner : 17 of 49 -- Wagner tree with cost 2037.
-Status : Wagner : 18 of 49 -- Wagner tree with cost 2072.
-Status : Wagner : 19 of 49 -- Wagner tree with cost 2113.
-Status : Wagner : 20 of 49 -- Wagner tree with cost 2234.
-Status : Wagner : 21 of 49 -- Wagner tree with cost 2274.
-Status : Wagner : 22 of 49 -- Wagner tree with cost 2319.
-Status : Wagner : 23 of 49 -- Wagner tree with cost 2412.
-Status : Wagner : 24 of 49 -- Wagner tree with cost 2521.
-Status : Wagner : 25 of 49 -- Wagner tree with cost 2571.
-Status : Wagner : 26 of 49 -- Wagner tree with cost 2714.
-Status : Wagner : 27 of 49 -- Wagner tree with cost 2816.
-Status : Wagner : 28 of 49 -- Wagner tree with cost 2875.
-Status : Wagner : 29 of 49 -- Wagner tree with cost 2908.
-Status : Wagner : 30 of 49 -- Wagner tree with cost 3019.
-Status : Wagner : 31 of 49 -- Wagner tree with cost 3062.
-Status : Wagner : 32 of 49 -- Wagner tree with cost 3122.
-Status : Wagner : 33 of 49 -- Wagner tree with cost 3215.
-Status : Wagner : 34 of 49 -- Wagner tree with cost 3289.
-Status : Wagner : 35 of 49 -- Wagner tree with cost 3371.
-Status : Wagner : 36 of 49 -- Wagner tree with cost 3498.
-Status : Wagner : 37 of 49 -- Wagner tree with cost 3607.
-Status : Wagner : 38 of 49 -- Wagner tree with cost 3665.
-Status : Wagner : 39 of 49 -- Wagner tree with cost 3769.
-Status : Wagner : 40 of 49 -- Wagner tree with cost 3850.
-Status : Wagner : 41 of 49 -- Wagner tree with cost 3940.
-Status : Wagner : 42 of 49 -- Wagner tree with cost 4061.
-Status : Wagner : 43 of 49 -- Wagner tree with cost 4121.
-Status : Wagner : 44 of 49 -- Wagner tree with cost 4188.
-Status : Wagner : 45 of 49 -- Wagner tree with cost 4282.
-Status : Wagner : 46 of 49 -- Wagner tree with cost 4302.
-Status : Wagner : 47 of 49 -- Wagner tree with cost 4376.
-Status : Wagner : 48 of 49 -- Wagner tree with cost 4462.
+Status : Wagner : 9 of 49 -- Wagner tree with cost 1121.
+Status : Wagner : 10 of 49 -- Wagner tree with cost 1184.
+Status : Wagner : 11 of 49 -- Wagner tree with cost 1358.
+Status : Wagner : 12 of 49 -- Wagner tree with cost 1504.
+Status : Wagner : 13 of 49 -- Wagner tree with cost 1676.
+Status : Wagner : 14 of 49 -- Wagner tree with cost 1736.
+Status : Wagner : 15 of 49 -- Wagner tree with cost 1770.
+Status : Wagner : 16 of 49 -- Wagner tree with cost 1832.
+Status : Wagner : 17 of 49 -- Wagner tree with cost 2006.
+Status : Wagner : 18 of 49 -- Wagner tree with cost 2041.
+Status : Wagner : 19 of 49 -- Wagner tree with cost 2084.
+Status : Wagner : 20 of 49 -- Wagner tree with cost 2203.
+Status : Wagner : 21 of 49 -- Wagner tree with cost 2244.
+Status : Wagner : 22 of 49 -- Wagner tree with cost 2292.
+Status : Wagner : 23 of 49 -- Wagner tree with cost 2379.
+Status : Wagner : 24 of 49 -- Wagner tree with cost 2485.
+Status : Wagner : 25 of 49 -- Wagner tree with cost 2534.
+Status : Wagner : 26 of 49 -- Wagner tree with cost 2670.
+Status : Wagner : 27 of 49 -- Wagner tree with cost 2781.
+Status : Wagner : 28 of 49 -- Wagner tree with cost 2840.
+Status : Wagner : 29 of 49 -- Wagner tree with cost 2874.
+Status : Wagner : 30 of 49 -- Wagner tree with cost 2988.
+Status : Wagner : 31 of 49 -- Wagner tree with cost 3031.
+Status : Wagner : 32 of 49 -- Wagner tree with cost 3097.
+Status : Wagner : 33 of 49 -- Wagner tree with cost 3169.
+Status : Wagner : 34 of 49 -- Wagner tree with cost 3242.
+Status : Wagner : 35 of 49 -- Wagner tree with cost 3327.
+Status : Wagner : 36 of 49 -- Wagner tree with cost 3452.
+Status : Wagner : 37 of 49 -- Wagner tree with cost 3555.
+Status : Wagner : 38 of 49 -- Wagner tree with cost 3619.
+Status : Wagner : 39 of 49 -- Wagner tree with cost 3724.
+Status : Wagner : 40 of 49 -- Wagner tree with cost 3800.
+Status : Wagner : 41 of 49 -- Wagner tree with cost 3882.
+Status : Wagner : 42 of 49 -- Wagner tree with cost 4017.
+Status : Wagner : 43 of 49 -- Wagner tree with cost 4078.
+Status : Wagner : 44 of 49 -- Wagner tree with cost 4145.
+Status : Wagner : 45 of 49 -- Wagner tree with cost 4239.
+Status : Wagner : 46 of 49 -- Wagner tree with cost 4258.
+Status : Wagner : 47 of 49 -- Wagner tree with cost 4331.
+Status : Wagner : 48 of 49 -- Wagner tree with cost 4416.
 Status : Wagner Finished
 Status : Building Wagner Tree Finished
 Status : Running Pipeline : 1 of 2 -- Estimated finish in 0 s
@@ -560,27 +560,27 @@ Status : Wagner : 24 of 49 -- Wagner tree with cost 2548.
 Status : Wagner : 25 of 49 -- Wagner tree with cost 2642.
 Status : Wagner : 26 of 49 -- Wagner tree with cost 2765.
 Status : Wagner : 27 of 49 -- Wagner tree with cost 2826.
-Status : Wagner : 28 of 49 -- Wagner tree with cost 2933.
-Status : Wagner : 29 of 49 -- Wagner tree with cost 3019.
-Status : Wagner : 30 of 49 -- Wagner tree with cost 3081.
-Status : Wagner : 31 of 49 -- Wagner tree with cost 3111.
-Status : Wagner : 32 of 49 -- Wagner tree with cost 3148.
-Status : Wagner : 33 of 49 -- Wagner tree with cost 3178.
-Status : Wagner : 34 of 49 -- Wagner tree with cost 3206.
-Status : Wagner : 35 of 49 -- Wagner tree with cost 3352.
-Status : Wagner : 36 of 49 -- Wagner tree with cost 3475.
-Status : Wagner : 37 of 49 -- Wagner tree with cost 3571.
-Status : Wagner : 38 of 49 -- Wagner tree with cost 3619.
-Status : Wagner : 39 of 49 -- Wagner tree with cost 3700.
-Status : Wagner : 40 of 49 -- Wagner tree with cost 3734.
-Status : Wagner : 41 of 49 -- Wagner tree with cost 3804.
-Status : Wagner : 42 of 49 -- Wagner tree with cost 3995.
-Status : Wagner : 43 of 49 -- Wagner tree with cost 4033.
-Status : Wagner : 44 of 49 -- Wagner tree with cost 4108.
-Status : Wagner : 45 of 49 -- Wagner tree with cost 4171.
-Status : Wagner : 46 of 49 -- Wagner tree with cost 4230.
-Status : Wagner : 47 of 49 -- Wagner tree with cost 4314.
-Status : Wagner : 48 of 49 -- Wagner tree with cost 4401.
+Status : Wagner : 28 of 49 -- Wagner tree with cost 2910.
+Status : Wagner : 29 of 49 -- Wagner tree with cost 2996.
+Status : Wagner : 30 of 49 -- Wagner tree with cost 3060.
+Status : Wagner : 31 of 49 -- Wagner tree with cost 3089.
+Status : Wagner : 32 of 49 -- Wagner tree with cost 3126.
+Status : Wagner : 33 of 49 -- Wagner tree with cost 3156.
+Status : Wagner : 34 of 49 -- Wagner tree with cost 3184.
+Status : Wagner : 35 of 49 -- Wagner tree with cost 3329.
+Status : Wagner : 36 of 49 -- Wagner tree with cost 3452.
+Status : Wagner : 37 of 49 -- Wagner tree with cost 3548.
+Status : Wagner : 38 of 49 -- Wagner tree with cost 3596.
+Status : Wagner : 39 of 49 -- Wagner tree with cost 3671.
+Status : Wagner : 40 of 49 -- Wagner tree with cost 3706.
+Status : Wagner : 41 of 49 -- Wagner tree with cost 3782.
+Status : Wagner : 42 of 49 -- Wagner tree with cost 3973.
+Status : Wagner : 43 of 49 -- Wagner tree with cost 4011.
+Status : Wagner : 44 of 49 -- Wagner tree with cost 4087.
+Status : Wagner : 45 of 49 -- Wagner tree with cost 4150.
+Status : Wagner : 46 of 49 -- Wagner tree with cost 4209.
+Status : Wagner : 47 of 49 -- Wagner tree with cost 4302.
+Status : Wagner : 48 of 49 -- Wagner tree with cost 4411.
 Status : Wagner Finished
 Status : Building Wagner Tree Finished
 Status : Running Pipeline : 2 of 2 -- Estimated finish in 0 s
@@ -594,138 +594,22 @@ Status : Diagnosis Finished
 Status : Resampling Characters : 1 of 1 -- trees in the current optimum
 Status : Alternate : 0 Beginning search
 Status : Alternate : 0 SPR search
-Status : SPR : 32 32.
-Status : SPR : 31 31.
-Status : SPR : 30 30.
-Status : SPR : 29 29.
-Status : SPR : 28 28.
-Status : SPR : 27 27.
-Status : SPR : 26 26.
-Status : SPR : 24 24.
-Status : SPR : 22 22.
-Status : SPR : 21 21.
-Status : SPR : 19 19.
-Status : SPR : 18 18.
-Status : SPR : 17 17.
-Status : SPR : 16 16.
-Status : SPR : 15 15.
-Status : SPR : 13 13.
-Status : SPR : 12 12.
-Status : SPR Finished
-Status : Alternate : 0 Performing TBR swapping
-Status : Single TBR Finished
-Status : Alternate Finished
-Information : Vectorized:626 of 626 characters.
-Status : Diagnosis : 0 Recalculating original tree
-Status : Diagnosis Finished
-Status : Resampling Characters Finished
-Status : Perturb Iteration Finished
-Status : Alternate : 0 Beginning search
-Status : Alternate : 0 SPR search
-Status : SPR : 4934 4934.
-Status : SPR : 4929 4929.
-Status : SPR : 4913 4913.
-Status : SPR : 4911 4911.
-Status : SPR : 4905 4905.
-Status : SPR : 4898 4898.
-Status : SPR : 4877 4877.
-Status : SPR : 4857 4857.
-Status : SPR : 4852 4852.
-Status : SPR : 4830 4830.
-Status : SPR : 4822 4822.
-Status : SPR : 4809 4809.
-Status : SPR : 4796 4796.
-Status : SPR : 4787 4787.
-Status : SPR : 4784 4784.
-Status : SPR : 4746 4746.
-Status : SPR : 4743 4743.
-Status : SPR : 4742 4742.
-Status : SPR : 4730 4730.
-Status : SPR : 4727 4727.
-Status : SPR : 4723 4723.
-Status : SPR : 4720 4720.
-Status : SPR : 4678 4678.
-Status : SPR : 4674 4674.
-Status : SPR : 4671 4671.
-Status : SPR : 4668 4668.
-Status : SPR : 4665 4665.
-Status : SPR : 4659 4659.
-Status : SPR : 4617 4617.
-Status : SPR : 4616 4616.
-Status : SPR : 4594 4594.
-Status : SPR : 4593 4593.
-Status : SPR : 4592 4592.
-Status : SPR : 4589 4589.
-Status : SPR : 4582 4582.
-Status : SPR : 4581 4581.
-Status : SPR : 4580 4580.
-Status : SPR : 4574 4574.
-Status : SPR : 4557 4557.
-Status : SPR : 4552 4552.
-Status : SPR : 4549 4549.
-Status : SPR : 4530 4530.
-Status : SPR : 4519 4519.
-Status : SPR : 4504 4504.
-Status : SPR : 4499 4499.
-Status : SPR : 4485 4485.
-Status : SPR : 4459 4459.
-Status : SPR : 4451 4451.
-Status : SPR : 4445 4445.
-Status : SPR : 4435 4435.
-Status : SPR : 4429 4429.
-Status : SPR : 4424 4424.
-Status : SPR : 4394 4394.
-Status : SPR : 4379 4379.
-Status : SPR : 4371 4371.
-Status : SPR : 4370 4370.
-Status : SPR : 4366 4366.
-Status : SPR : 4364 4364.
-Status : SPR : 4362 4362.
-Status : SPR : 4358 4358.
-Status : SPR : 4350 4350.
-Status : SPR : 4346 4346.
-Status : SPR : 4341 4341.
-Status : SPR : 4329 4329.
-Status : SPR : 4323 4323.
-Status : SPR : 4319 4319.
-Status : SPR : 4313 4313.
-Status : SPR : 4299 4299.
-Status : SPR Finished
-Status : Alternate : 0 Performing TBR swapping
-Status : Single TBR Finished
-Status : Alternate : 0 SPR search
-Status : SPR : 4299 4299.
-Status : SPR Finished
-Status : Alternate : 0 Performing TBR swapping
-Status : Single TBR Finished
-Status : Alternate Finished
-Status : Running pipeline on each tree : 2 of 2 -- Estimated finish in 10 s
-Status : Perturb Iteration : 1 of 1 -- 
-Status : Resampling Characters : 0 of 1 -- trees in the current optimum
-Information : Vectorized:626 of 626 characters.
-Status : Diagnosis : 0 Recalculating original tree
-Status : Diagnosis Finished
-Status : Resampling Characters : 1 of 1 -- trees in the current optimum
-Status : Alternate : 0 Beginning search
-Status : Alternate : 0 SPR search
-Status : SPR : 39 39.
-Status : SPR : 37 37.
-Status : SPR : 35 35.
 Status : SPR : 34 34.
+Status : SPR : 33 33.
 Status : SPR : 32 32.
 Status : SPR : 31 31.
 Status : SPR : 30 30.
-Status : SPR : 29 29.
 Status : SPR : 28 28.
-Status : SPR : 27 27.
 Status : SPR : 26 26.
-Status : SPR : 24 24.
+Status : SPR : 25 25.
+Status : SPR : 23 23.
 Status : SPR : 22 22.
 Status : SPR : 20 20.
-Status : SPR : 18 18.
+Status : SPR : 19 19.
 Status : SPR : 17 17.
 Status : SPR : 16 16.
-Status : SPR : 15 15.
+Status : SPR : 14 14.
+Status : SPR : 13 13.
 Status : SPR : 12 12.
 Status : SPR : 11 11.
 Status : SPR Finished
@@ -739,85 +623,201 @@ Status : Resampling Characters Finished
 Status : Perturb Iteration Finished
 Status : Alternate : 0 Beginning search
 Status : Alternate : 0 SPR search
-Status : SPR : 5489 5489.
-Status : SPR : 5485 5485.
-Status : SPR : 5375 5375.
-Status : SPR : 5371 5371.
-Status : SPR : 5328 5328.
-Status : SPR : 5319 5319.
-Status : SPR : 5290 5290.
-Status : SPR : 5285 5285.
-Status : SPR : 5254 5254.
-Status : SPR : 5237 5237.
-Status : SPR : 5233 5233.
-Status : SPR : 5218 5218.
-Status : SPR : 5209 5209.
-Status : SPR : 5187 5187.
-Status : SPR : 5165 5165.
-Status : SPR : 5161 5161.
-Status : SPR : 5154 5154.
-Status : SPR : 5146 5146.
-Status : SPR : 5119 5119.
-Status : SPR : 5118 5118.
-Status : SPR : 5074 5074.
-Status : SPR : 5063 5063.
-Status : SPR : 5046 5046.
-Status : SPR : 5026 5026.
-Status : SPR : 5021 5021.
-Status : SPR : 5005 5005.
-Status : SPR : 4982 4982.
-Status : SPR : 4979 4979.
-Status : SPR : 4970 4970.
-Status : SPR : 4965 4965.
-Status : SPR : 4941 4941.
+Status : SPR : 5081 5081.
+Status : SPR : 5071 5071.
+Status : SPR : 5034 5034.
+Status : SPR : 5025 5025.
+Status : SPR : 5000 5000.
+Status : SPR : 4983 4983.
+Status : SPR : 4944 4944.
+Status : SPR : 4911 4911.
+Status : SPR : 4899 4899.
 Status : SPR : 4877 4877.
 Status : SPR : 4874 4874.
-Status : SPR : 4853 4853.
-Status : SPR : 4842 4842.
-Status : SPR : 4841 4841.
-Status : SPR : 4833 4833.
+Status : SPR : 4870 4870.
+Status : SPR : 4835 4835.
 Status : SPR : 4831 4831.
-Status : SPR : 4830 4830.
 Status : SPR : 4827 4827.
-Status : SPR : 4821 4821.
-Status : SPR : 4814 4814.
-Status : SPR : 4791 4791.
-Status : SPR : 4784 4784.
-Status : SPR : 4767 4767.
-Status : SPR : 4765 4765.
-Status : SPR : 4746 4746.
-Status : SPR : 4738 4738.
-Status : SPR : 4690 4690.
-Status : SPR : 4659 4659.
+Status : SPR : 4826 4826.
+Status : SPR : 4816 4816.
+Status : SPR : 4788 4788.
+Status : SPR : 4786 4786.
+Status : SPR : 4780 4780.
+Status : SPR : 4764 4764.
+Status : SPR : 4756 4756.
+Status : SPR : 4729 4729.
+Status : SPR : 4701 4701.
+Status : SPR : 4689 4689.
+Status : SPR : 4665 4665.
+Status : SPR : 4657 4657.
+Status : SPR : 4652 4652.
+Status : SPR : 4650 4650.
+Status : SPR : 4631 4631.
 Status : SPR : 4626 4626.
-Status : SPR : 4607 4607.
-Status : SPR : 4600 4600.
-Status : SPR : 4596 4596.
-Status : SPR : 4569 4569.
+Status : SPR : 4582 4582.
 Status : SPR : 4565 4565.
-Status : SPR : 4563 4563.
-Status : SPR : 4547 4547.
-Status : SPR : 4517 4517.
-Status : SPR : 4492 4492.
-Status : SPR : 4491 4491.
-Status : SPR : 4473 4473.
-Status : SPR : 4466 4466.
-Status : SPR : 4436 4436.
+Status : SPR : 4560 4560.
+Status : SPR : 4552 4552.
+Status : SPR : 4542 4542.
+Status : SPR : 4496 4496.
+Status : SPR : 4489 4489.
+Status : SPR : 4474 4474.
+Status : SPR : 4472 4472.
+Status : SPR : 4464 4464.
+Status : SPR : 4454 4454.
+Status : SPR : 4435 4435.
+Status : SPR : 4432 4432.
 Status : SPR : 4431 4431.
-Status : SPR : 4426 4426.
-Status : SPR : 4422 4422.
-Status : SPR : 4414 4414.
-Status : SPR : 4411 4411.
-Status : SPR : 4373 4373.
-Status : SPR : 4370 4370.
-Status : SPR : 4357 4357.
-Status : SPR : 4348 4348.
-Status : SPR : 4340 4340.
+Status : SPR : 4424 4424.
+Status : SPR : 4409 4409.
+Status : SPR : 4377 4377.
+Status : SPR : 4375 4375.
+Status : SPR : 4360 4360.
+Status : SPR : 4355 4355.
 Status : SPR : 4338 4338.
-Status : SPR : 4327 4327.
-Status : SPR : 4322 4322.
+Status : SPR : 4331 4331.
+Status : SPR : 4319 4319.
 Status : SPR : 4315 4315.
-Status : SPR : 4311 4311.
+Status : SPR Finished
+Status : Alternate : 0 Performing TBR swapping
+Status : Single TBR Finished
+Status : Alternate : 0 SPR search
+Status : SPR : 4315 4315.
+Status : SPR Finished
+Status : Alternate : 0 Performing TBR swapping
+Status : Single TBR Finished
+Status : Alternate Finished
+Status : Running pipeline on each tree : 2 of 2 -- Estimated finish in 4 s
+Status : Perturb Iteration : 1 of 1 -- 
+Status : Resampling Characters : 0 of 1 -- trees in the current optimum
+Information : Vectorized:626 of 626 characters.
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Resampling Characters : 1 of 1 -- trees in the current optimum
+Status : Alternate : 0 Beginning search
+Status : Alternate : 0 SPR search
+Status : SPR : 37 37.
+Status : SPR : 35 35.
+Status : SPR : 34 34.
+Status : SPR : 32 32.
+Status : SPR : 31 31.
+Status : SPR : 30 30.
+Status : SPR : 29 29.
+Status : SPR : 28 28.
+Status : SPR : 27 27.
+Status : SPR : 26 26.
+Status : SPR : 25 25.
+Status : SPR : 24 24.
+Status : SPR : 22 22.
+Status : SPR : 20 20.
+Status : SPR : 19 19.
+Status : SPR : 16 16.
+Status : SPR : 15 15.
+Status : SPR : 14 14.
+Status : SPR : 13 13.
+Status : SPR Finished
+Status : Alternate : 0 Performing TBR swapping
+Status : Single TBR Finished
+Status : Alternate Finished
+Information : Vectorized:626 of 626 characters.
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Resampling Characters Finished
+Status : Perturb Iteration Finished
+Status : Alternate : 0 Beginning search
+Status : Alternate : 0 SPR search
+Status : SPR : 5299 5299.
+Status : SPR : 5296 5296.
+Status : SPR : 5263 5263.
+Status : SPR : 5255 5255.
+Status : SPR : 5251 5251.
+Status : SPR : 5226 5226.
+Status : SPR : 5198 5198.
+Status : SPR : 5193 5193.
+Status : SPR : 5188 5188.
+Status : SPR : 5185 5185.
+Status : SPR : 5175 5175.
+Status : SPR : 5158 5158.
+Status : SPR : 5155 5155.
+Status : SPR : 5147 5147.
+Status : SPR : 5141 5141.
+Status : SPR : 5135 5135.
+Status : SPR : 5129 5129.
+Status : SPR : 5122 5122.
+Status : SPR : 5085 5085.
+Status : SPR : 5064 5064.
+Status : SPR : 5053 5053.
+Status : SPR : 5041 5041.
+Status : SPR : 5038 5038.
+Status : SPR : 5033 5033.
+Status : SPR : 5017 5017.
+Status : SPR : 5010 5010.
+Status : SPR : 4991 4991.
+Status : SPR : 4981 4981.
+Status : SPR : 4956 4956.
+Status : SPR : 4949 4949.
+Status : SPR : 4912 4912.
+Status : SPR : 4904 4904.
+Status : SPR : 4899 4899.
+Status : SPR : 4893 4893.
+Status : SPR : 4891 4891.
+Status : SPR : 4875 4875.
+Status : SPR : 4858 4858.
+Status : SPR : 4851 4851.
+Status : SPR : 4847 4847.
+Status : SPR : 4828 4828.
+Status : SPR : 4821 4821.
+Status : SPR : 4806 4806.
+Status : SPR : 4788 4788.
+Status : SPR : 4774 4774.
+Status : SPR : 4758 4758.
+Status : SPR : 4745 4745.
+Status : SPR : 4735 4735.
+Status : SPR : 4730 4730.
+Status : SPR : 4708 4708.
+Status : SPR : 4694 4694.
+Status : SPR : 4688 4688.
+Status : SPR : 4669 4669.
+Status : SPR : 4645 4645.
+Status : SPR : 4631 4631.
+Status : SPR : 4627 4627.
+Status : SPR : 4621 4621.
+Status : SPR : 4585 4585.
+Status : SPR : 4582 4582.
+Status : SPR : 4578 4578.
+Status : SPR : 4568 4568.
+Status : SPR : 4565 4565.
+Status : SPR : 4542 4542.
+Status : SPR : 4538 4538.
+Status : SPR : 4511 4511.
+Status : SPR : 4497 4497.
+Status : SPR : 4488 4488.
+Status : SPR : 4477 4477.
+Status : SPR : 4460 4460.
+Status : SPR : 4450 4450.
+Status : SPR : 4440 4440.
+Status : SPR : 4431 4431.
+Status : SPR : 4413 4413.
+Status : SPR : 4404 4404.
+Status : SPR : 4386 4386.
+Status : SPR : 4381 4381.
+Status : SPR : 4375 4375.
+Status : SPR : 4373 4373.
+Status : SPR : 4366 4366.
+Status : SPR : 4342 4342.
+Status : SPR : 4337 4337.
+Status : SPR : 4336 4336.
+Status : SPR : 4335 4335.
+Status : SPR : 4332 4332.
+Status : SPR : 4331 4331.
+Status : SPR : 4326 4326.
+Status : SPR : 4323 4323.
+Status : SPR : 4316 4316.
+Status : SPR Finished
+Status : Alternate : 0 Performing TBR swapping
+Status : Single TBR Finished
+Status : Alternate : 0 SPR search
+Status : SPR : 4316 4316.
 Status : SPR Finished
 Status : Alternate : 0 Performing TBR swapping
 Status : Single TBR Finished
@@ -825,7 +825,7 @@ Status : Alternate Finished
 Status : Running pipeline on each tree Finished
 Information : 
                 Trees:
-                  Storing 2 trees with costs 4297. to 4311.
+                  Storing 2 trees with costs 4314. to 4315.
                   Best cost in 1 tree 
                 Cost Mode: Normal Direct Optimization
 PASSED

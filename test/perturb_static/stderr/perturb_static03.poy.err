@@ -521,28 +521,18 @@ Status : Wagner : 4 of 12 -- Wagner tree with cost 539.
 Status : Wagner : 5 of 12 -- Wagner tree with cost 647.
 Status : Wagner : 6 of 12 -- Wagner tree with cost 818.
 Status : Wagner : 7 of 12 -- Wagner tree with cost 863.
-Status : Wagner : 8 of 12 -- Wagner tree with cost 1013.
-Status : Wagner : 9 of 12 -- Wagner tree with cost 1127.
-Status : Wagner : 10 of 12 -- Wagner tree with cost 1263.
-Status : Wagner : 11 of 12 -- Wagner tree with cost 1381.
+Status : Wagner : 8 of 12 -- Wagner tree with cost 1012.
+Status : Wagner : 9 of 12 -- Wagner tree with cost 1125.
+Status : Wagner : 10 of 12 -- Wagner tree with cost 1245.
+Status : Wagner : 11 of 12 -- Wagner tree with cost 1358.
 Status : Wagner Finished
 Status : Building Wagner Tree Finished
 Status : Alternate : 0 Beginning search
 Status : Alternate : 0 SPR search
-Status : SPR : 1569 1569.
-Status : SPR : 1562 1562.
-Status : SPR : 1558 1558.
-Status : SPR : 1551 1551.
-Status : SPR : 1550 1550.
-Status : SPR : 1543 1543.
-Status : SPR : 1541 1541.
+Status : SPR : 1549 1549.
+Status : SPR : 1540 1540.
+Status : SPR : 1536 1536.
 Status : SPR : 1534 1534.
-Status : SPR : 1533 1533.
-Status : SPR Finished
-Status : Alternate : 0 Performing TBR swapping
-Status : Single TBR Finished
-Status : Alternate : 0 SPR search
-Status : SPR : 1533 1533.
 Status : SPR Finished
 Status : Alternate : 0 Performing TBR swapping
 Status : Single TBR Finished
@@ -577,7 +567,13 @@ Status : Diagnosis Finished
 Status : Ratcheting : 1 of 1 -- trees in the current optimum
 Status : Alternate : 0 Beginning search
 Status : Alternate : 0 SPR search
-Status : SPR : 1916 1916.
+Status : SPR : 1928 1928.
+Status : SPR : 1920 1920.
+Status : SPR Finished
+Status : Alternate : 0 Performing TBR swapping
+Status : Single TBR Finished
+Status : Alternate : 0 SPR search
+Status : SPR : 1920 1920.
 Status : SPR Finished
 Status : Alternate : 0 Performing TBR swapping
 Status : Single TBR Finished
@@ -587,10 +583,19 @@ Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
 Status : Ratcheting Finished
 Status : Perturb Iteration Finished
+Status : Alternate : 0 Beginning search
+Status : Alternate : 0 SPR search
+Status : SPR : 1535 1535.
+Status : SPR : 1534 1534.
+Status : SPR : 1533 1533.
+Status : SPR Finished
+Status : Alternate : 0 Performing TBR swapping
+Status : Single TBR Finished
+Status : Alternate Finished
 Status : Running pipeline on each tree Finished
 Information : 
                 Trees:
-                  Storing 2 trees with costs 1530. to 1530.
-                  Best cost in 2 trees 
+                  Storing 2 trees with costs 1530. to 1533.
+                  Best cost in 1 tree 
                 Cost Mode: Normal Direct Optimization
 PASSED
