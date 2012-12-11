@@ -30,7 +30,7 @@ Status : Loading Characters : 4 of 5 -- Storing the character specifications
 Status : Loading Characters : 5 of 5 -- Storing the character specifications
 Status : Loading Characters Finished
 Status : Transforming : 1 of 1 --  transformations applied
-Status : Transforming : 309 of 1 --  characters transformed
+Status : Transforming : 311 of 1 --  characters transformed
 Status : Transforming Finished
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
@@ -38,6 +38,6 @@ Status : Diagnosis : 1 of 1 -- Recalculating trees
 Status : Diagnosis Finished
 Information : 
                 Trees:
-                  Storing 1 tree with cost 105. 
+                  Storing 1 tree with cost 106. 
                 Cost Mode: Normal Direct Optimization
 PASSED
