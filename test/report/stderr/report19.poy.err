@@ -150,6 +150,7 @@ Status : Wagner : 47 of 49 -- Wagner tree with cost 1797.
 Status : Wagner : 48 of 49 -- Wagner tree with cost 1806.
 Status : Wagner Finished
 Status : Building Wagner Tree Finished
+Status : Running Pipeline : 1 of 3 -- Estimated finish in 10 s
 Status : Wagner : 2 of 49 -- Wagner tree with cost 17.
 Status : Wagner : 3 of 49 -- Wagner tree with cost 128.
 Status : Wagner : 4 of 49 -- Wagner tree with cost 159.
@@ -199,6 +200,7 @@ Status : Wagner : 47 of 49 -- Wagner tree with cost 1720.
 Status : Wagner : 48 of 49 -- Wagner tree with cost 1795.
 Status : Wagner Finished
 Status : Building Wagner Tree Finished
+Status : Running Pipeline : 2 of 3 -- Estimated finish in 5 s
 Status : Wagner : 2 of 49 -- Wagner tree with cost 124.
 Status : Wagner : 3 of 49 -- Wagner tree with cost 159.
 Status : Wagner : 4 of 49 -- Wagner tree with cost 206.
@@ -248,6 +250,7 @@ Status : Wagner : 47 of 49 -- Wagner tree with cost 1836.
 Status : Wagner : 48 of 49 -- Wagner tree with cost 1851.
 Status : Wagner Finished
 Status : Building Wagner Tree Finished
+Status : Running Pipeline : 3 of 3 -- Estimated finish in 0 s
 Status : Running Pipeline Finished
 Information : I will use the shortest tree to fix the sequence alignments.
 Warning : Data contains characters that do not support static approx. I will skip over these and do the best that I can.
