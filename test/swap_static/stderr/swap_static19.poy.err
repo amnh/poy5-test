@@ -523,23 +523,22 @@ Status : Wagner : 4 of 12 -- Wagner tree with cost 539.
 Status : Wagner : 5 of 12 -- Wagner tree with cost 647.
 Status : Wagner : 6 of 12 -- Wagner tree with cost 818.
 Status : Wagner : 7 of 12 -- Wagner tree with cost 863.
-Status : Wagner : 8 of 12 -- Wagner tree with cost 1012.
-Status : Wagner : 9 of 12 -- Wagner tree with cost 1125.
-Status : Wagner : 10 of 12 -- Wagner tree with cost 1245.
-Status : Wagner : 11 of 12 -- Wagner tree with cost 1358.
+Status : Wagner : 8 of 12 -- Wagner tree with cost 1013.
+Status : Wagner : 9 of 12 -- Wagner tree with cost 1127.
+Status : Wagner : 10 of 12 -- Wagner tree with cost 1263.
+Status : Wagner : 11 of 12 -- Wagner tree with cost 1381.
 Status : Wagner Finished
 Status : Building Wagner Tree Finished
 Status : Alternate : 0 Beginning search
 Status : Alternate : 0 SPR search
-Status : SPR : 1549 1549.
-Status : SPR : 1540 1540.
-Status : SPR : 1539 1539.
-Status : SPR : 1536 1536.
+Status : SPR : 1569 1569.
+Status : SPR : 1558 1558.
+Status : SPR : 1554 1554.
 Status : SPR Finished
 Status : Alternate : 0 Performing TBR swapping
 Status : Single TBR Finished
 Status : Alternate : 0 SPR search
-Status : SPR : 1536 1536.
+Status : SPR : 1554 1554.
 Status : SPR Finished
 Status : Alternate : 0 Performing TBR swapping
 Status : Single TBR Finished
@@ -548,7 +547,7 @@ Status : Running Pipeline : 2 of 2 -- Estimated finish in 0 s
 Status : Running Pipeline Finished
 Information : 
                 Trees:
-                  Storing 2 trees with costs 1530. to 1535.
+                  Storing 2 trees with costs 1530. to 1548.
                   Best cost in 1 tree 
                 Cost Mode: Normal Direct Optimization
 PASSED
