@@ -1,0 +1,78 @@
+beginning of the program
+change the random number generator's seed
+change the timer interval
+read an input file
+change the root
+store my state in a variable
+transform some characters
+in parallel:
+
+  build some trees from scratch
+  swap the trees in memory
+  
+  while keeping the following invariant:
+    eliminate repeated trees
+    select the optimal trees
+    
+eliminate repeated trees
+select the optimal trees
+
+I will calculate the following in separate processors (if available)
+
+processor group 1:
+
+  report in 111.tre the trees in memory
+  
+
+processor group 2:
+
+  report the consensus
+  
+
+processor group 3:
+
+  report the consensus
+  
+
+processor group 4:
+
+  use a stored state as my current state
+  transform some characters
+  in parallel:
+  
+    build some trees from scratch
+    swap the trees in memory
+    
+    while keeping the following invariant:
+      eliminate repeated trees
+      select the optimal trees
+      
+  eliminate repeated trees
+  select the optimal trees
+  
+  I will calculate the following in separate processors (if available)
+  
+  processor group 1:
+  
+    report in 112.tre the trees in memory
+    
+  
+  processor group 2:
+  
+    report the consensus
+    
+  
+  processor group 3:
+  
+    report the consensus
+    close POY
+    
+  
+  
+  
+  
+
+
+
+
+
