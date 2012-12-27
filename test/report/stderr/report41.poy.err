@@ -56,8 +56,7 @@ Status : Building Wagner Tree Finished
 Status : Running Pipeline : 1 of 1 -- Estimated finish in 0 s
 Status : Running Pipeline Finished
 Information : 
-
-  Trees:
-    Storing 1 tree with cost 600. 
-  Cost Mode: Normal Direct Optimization
+                Trees:
+                  Storing 1 tree with cost 600. 
+                Cost Mode: Normal Direct Optimization
 PASSED
