@@ -1,10 +1,11 @@
 (* load prealigned fasta file; under multiple TCM, convert to likelihood *)
 set (seed:1, timer:0)
+set (opt:coarse)
 
 read( prealigned:("FILENAME1", tcm:(1,0)) )
 read( prealigned:("FILENAME2", tcm:(1,1)) )
 
-build(random)
+build(2,random)
 
 transform( likelihood:(jc69) )
 report( lkmodel )

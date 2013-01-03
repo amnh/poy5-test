@@ -5,7 +5,6 @@ set( root:"Americhernus")
 build() 
 swap() 
 select()
-calculate_support(jackknife: (remove:0.50, resample:1000), 
-build(5), swap (tbr, trees:3)) 
+calculate_support(jackknife: (remove:0.50, resample:1000), build(5), swap (tbr, trees:3))
 report("jacktree", graphsupports) 
 exit() 

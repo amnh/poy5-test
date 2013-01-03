@@ -1,22 +1,14 @@
-Information : 
-                Trees:
-                  Storing 0 trees 
-Information : 
-                Trees:
-                  Storing 0 trees 
-Information : Reading file 6.fas of type input@ sequences
+Information : Setting random seed value to 1
+Information : Reading file 6.fas of type input sequences
 
-Information :
-The file 6.fas contains sequences of 49 taxa, each sequence holding 1
-fragment.
+Information : The file 6.fas contains sequences of 49 taxa, each sequence
+              holding 1 fragment.
 
-Status : Diagnosis Finished
-Information : 
-                Trees:
-                  Storing 0 trees 
+Status : Loading Trees Finished
 Information : Reading file 32.ss of type hennig86/Nona
 
-Information : The file 32.ss defines 88 characters in 49 taxa.
+Information : The file 32.ss defines 88 static homology characters,
+              0 unaligned sequences, and 0 trees, containing 49 taxa.
 Status : Loading Characters : 0 of 49 -- Storing the character specifications
 Status : Loading Characters : 1 of 49 -- Storing the character specifications
 Status : Loading Characters : 2 of 49 -- Storing the character specifications
@@ -27,236 +19,283 @@ Status : Loading Characters : 6 of 49 -- Storing the character specifications
 Status : Loading Characters : 7 of 49 -- Storing the character specifications
 Status : Loading Characters : 8 of 49 -- Storing the character specifications
 Status : Loading Characters : 9 of 49 -- Storing the character specifications
-Status :
-Loading Characters : 10 of 49 -- Storing the character specifications
-Status :
-Loading Characters : 11 of 49 -- Storing the character specifications
-Status :
-Loading Characters : 12 of 49 -- Storing the character specifications
-Status :
-Loading Characters : 13 of 49 -- Storing the character specifications
-Status :
-Loading Characters : 14 of 49 -- Storing the character specifications
-Status :
-Loading Characters : 15 of 49 -- Storing the character specifications
-Status :
-Loading Characters : 16 of 49 -- Storing the character specifications
-Status :
-Loading Characters : 17 of 49 -- Storing the character specifications
-Status :
-Loading Characters : 18 of 49 -- Storing the character specifications
-Status :
-Loading Characters : 19 of 49 -- Storing the character specifications
-Status :
-Loading Characters : 20 of 49 -- Storing the character specifications
-Status :
-Loading Characters : 21 of 49 -- Storing the character specifications
-Status :
-Loading Characters : 22 of 49 -- Storing the character specifications
-Status :
-Loading Characters : 23 of 49 -- Storing the character specifications
-Status :
-Loading Characters : 24 of 49 -- Storing the character specifications
-Status :
-Loading Characters : 25 of 49 -- Storing the character specifications
-Status :
-Loading Characters : 26 of 49 -- Storing the character specifications
-Status :
-Loading Characters : 27 of 49 -- Storing the character specifications
-Status :
-Loading Characters : 28 of 49 -- Storing the character specifications
-Status :
-Loading Characters : 29 of 49 -- Storing the character specifications
-Status :
-Loading Characters : 30 of 49 -- Storing the character specifications
-Status :
-Loading Characters : 31 of 49 -- Storing the character specifications
-Status :
-Loading Characters : 32 of 49 -- Storing the character specifications
-Status :
-Loading Characters : 33 of 49 -- Storing the character specifications
-Status :
-Loading Characters : 34 of 49 -- Storing the character specifications
-Status :
-Loading Characters : 35 of 49 -- Storing the character specifications
-Status :
-Loading Characters : 36 of 49 -- Storing the character specifications
-Status :
-Loading Characters : 37 of 49 -- Storing the character specifications
-Status :
-Loading Characters : 38 of 49 -- Storing the character specifications
-Status :
-Loading Characters : 39 of 49 -- Storing the character specifications
-Status :
-Loading Characters : 40 of 49 -- Storing the character specifications
-Status :
-Loading Characters : 41 of 49 -- Storing the character specifications
-Status :
-Loading Characters : 42 of 49 -- Storing the character specifications
-Status :
-Loading Characters : 43 of 49 -- Storing the character specifications
-Status :
-Loading Characters : 44 of 49 -- Storing the character specifications
-Status :
-Loading Characters : 45 of 49 -- Storing the character specifications
-Status :
-Loading Characters : 46 of 49 -- Storing the character specifications
-Status :
-Loading Characters : 47 of 49 -- Storing the character specifications
-Status :
-Loading Characters : 48 of 49 -- Storing the character specifications
-Status :
-Loading Characters : 49 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         10 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         11 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         12 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         13 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         14 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         15 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         16 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         17 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         18 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         19 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         20 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         21 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         22 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         23 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         24 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         25 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         26 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         27 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         28 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         29 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         30 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         31 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         32 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         33 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         34 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         35 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         36 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         37 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         38 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         39 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         40 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         41 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         42 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         43 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         44 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         45 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         46 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         47 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         48 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         49 of 49 -- Storing the character specifications
 Status : Loading Characters Finished
-Status : Diagnosis Finished
-Information : 
-                Trees:
-                  Storing 0 trees 
-Status : Calculating Three Dimansional Aminoacid Cost Matrix Finished
-Information :
-The file 41.aa contains sequences of 47 taxa, each sequence holding 1
-fragment.
+Information : Vectorized:88 of 88 characters.
+Status : Loading Trees Finished
+Status : Calculating Three Dimensional Aminoacid Cost Matrix Finished
+Information : The file 41.aa contains sequences of 47 taxa, each sequence
+              holding 1 fragment.
 
-Status : Diagnosis Finished
-Information : 
-                Trees:
-                  Storing 0 trees 
-Information : 
-                Trees:
-                  Storing 0 trees 
+Information : Vectorized:88 of 88 characters.
+Status : Loading Trees Finished
 Information : Selected Terminals:
               
 
 Information : 
 Information : Total included: 12
 Information : Total excluded: 37
-Information : 
-                Trees:
-                  Storing 0 trees 
-Information : 
-                Trees:
-                  Storing 0 trees 
-Information : 
-                Trees:
-                  Storing 0 trees 
-Information : Setting random seed value to 1
-Information : 
-                Trees:
-                  Storing 0 trees 
-Status : Diagnosis Finished
-Status : Wagner : 2 of 12 -- Wagner tree with cost 594.
-Status : Wagner : 3 of 12 -- Wagner tree with cost 1097.
-Status : Wagner : 4 of 12 -- Wagner tree with cost 1688.
-Status : Wagner : 5 of 12 -- Wagner tree with cost 2099.
-Status : Wagner : 6 of 12 -- Wagner tree with cost 4280.
-Status : Wagner : 7 of 12 -- Wagner tree with cost 4494.
-Status : Wagner : 8 of 12 -- Wagner tree with cost 5140.
-Status : Wagner : 9 of 12 -- Wagner tree with cost 5490.
-Status : Wagner : 10 of 12 -- Wagner tree with cost 6182.
-Status : Wagner : 11 of 12 -- Wagner tree with cost 6827.
+Information : Vectorized:88 of 88 characters.
+Status : Selected 12 of 49 terminals
+Status : Wagner : 2 of 12 -- Wagner tree with cost 1288.
+Status : Wagner : 3 of 12 -- Wagner tree with cost 1956.
+Status : Wagner : 4 of 12 -- Wagner tree with cost 2418.
+Status : Wagner : 5 of 12 -- Wagner tree with cost 2840.
+Status : Wagner : 6 of 12 -- Wagner tree with cost 3425.
+Status : Wagner : 7 of 12 -- Wagner tree with cost 3783.
+Status : Wagner : 8 of 12 -- Wagner tree with cost 4181.
+Status : Wagner : 9 of 12 -- Wagner tree with cost 4469.
+Status : Wagner : 10 of 12 -- Wagner tree with cost 4860.
+Status : Wagner : 11 of 12 -- Wagner tree with cost 5080.
 Status : Wagner Finished
 Status : Building Wagner Tree Finished
-Status : Running Pipeline : 1 of 2 -- times
-Status : Diagnosis Finished
-Status : Wagner : 2 of 12 -- Wagner tree with cost 1361.
-Status : Wagner : 3 of 12 -- Wagner tree with cost 2221.
-Status : Wagner : 4 of 12 -- Wagner tree with cost 2718.
-Status : Wagner : 5 of 12 -- Wagner tree with cost 3206.
-Status : Wagner : 6 of 12 -- Wagner tree with cost 3800.
-Status : Wagner : 7 of 12 -- Wagner tree with cost 4122.
-Status : Wagner : 8 of 12 -- Wagner tree with cost 4857.
-Status : Wagner : 9 of 12 -- Wagner tree with cost 5318.
-Status : Wagner : 10 of 12 -- Wagner tree with cost 5832.
-Status : Wagner : 11 of 12 -- Wagner tree with cost 7262.
+Status : Running Pipeline : 1 of 2 -- Estimated finish in 35 s
+Status : Wagner : 2 of 12 -- Wagner tree with cost 495.
+Status : Wagner : 3 of 12 -- Wagner tree with cost 1036.
+Status : Wagner : 4 of 12 -- Wagner tree with cost 1753.
+Status : Wagner : 5 of 12 -- Wagner tree with cost 2173.
+Status : Wagner : 6 of 12 -- Wagner tree with cost 2389.
+Status : Wagner : 7 of 12 -- Wagner tree with cost 2968.
+Status : Wagner : 8 of 12 -- Wagner tree with cost 3232.
+Status : Wagner : 9 of 12 -- Wagner tree with cost 4053.
+Status : Wagner : 10 of 12 -- Wagner tree with cost 4469.
+Status : Wagner : 11 of 12 -- Wagner tree with cost 4880.
 Status : Wagner Finished
 Status : Building Wagner Tree Finished
-Status : Running Pipeline : 2 of 2 -- times
+Status : Running Pipeline : 2 of 2 -- Estimated finish in 0 s
 Status : Running Pipeline Finished
-Status : Diagnosis : 0 Recalculating original tree
-Status : Diagnosis Finished
-Status : Diagnosis : 1 of 1 -- Recalculating trees
-Status : Diagnosis Finished
+Status : Running pipeline on each tree : 1 of 2 -- 
 Status : Perturb Iteration : 1 of 2 -- 
 Status : Ratcheting : 0 of 1 -- trees in the current optimum
+Information : Vectorized:88 of 88 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
 Status : Ratcheting : 1 of 1 -- trees in the current optimum
-Status : TBR : 7258 Searching
+Status : TBR : 5475 5475.
 Status : TBR Finished
-Status : Perburbing : 1 of 3 -- 
+Status : Perturbing : 1 of 3 -- 
+Information : Vectorized:88 of 88 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
+Status : Perturbing : 2 of 3 -- Estimated finish in 22 s
+Information : Vectorized:88 of 88 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
+Status : Perturbing : 3 of 3 -- Estimated finish in 11 s
+Information : Vectorized:88 of 88 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
-Status : Perburbing Finished
+Status : Perturbing Finished
 Status : Ratcheting Finished
 Status : Perturb Iteration : 2 of 2 -- 
-Status : Ratcheting : 0 of 1 -- trees in the current optimum
+Status : Ratcheting : 0 of 3 -- trees in the current optimum
+Information : Vectorized:88 of 88 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
-Status : Ratcheting : 1 of 1 -- trees in the current optimum
-Status : TBR : 8169 Searching
+Status : Ratcheting : 1 of 3 -- trees in the current optimum
+Information : Vectorized:88 of 88 characters.
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting : 2 of 3 -- trees in the current optimum
+Information : Vectorized:88 of 88 characters.
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting : 3 of 3 -- trees in the current optimum
+Status : TBR : 5900 5900.
+Status : TBR : 5894 5894.
 Status : TBR Finished
-Status : Perburbing : 1 of 4 -- 
+Status : TBR : 5467 5467.
+Status : TBR Finished
+Status : TBR : 10311 10311.
+Status : TBR Finished
+Status : Perturbing : 1 of 8 -- 
+Information : Vectorized:88 of 88 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
+Status : Perturbing : 2 of 8 -- Estimated finish in 1 m, 18 s
+Information : Vectorized:88 of 88 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
+Status : Perturbing : 3 of 8 -- Estimated finish in 1 m, 6 s
+Information : Vectorized:88 of 88 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
+Status : Perturbing : 4 of 8 -- Estimated finish in 56 s
+Information : Vectorized:88 of 88 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
-Status : Perburbing Finished
+Status : Perturbing : 5 of 8 -- Estimated finish in 45 s
+Information : Vectorized:88 of 88 characters.
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Perturbing : 6 of 8 -- Estimated finish in 33 s
+Information : Vectorized:88 of 88 characters.
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Perturbing : 7 of 8 -- Estimated finish in 22 s
+Information : Vectorized:88 of 88 characters.
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Perturbing : 8 of 8 -- Estimated finish in 11 s
+Information : Vectorized:88 of 88 characters.
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Perturbing Finished
 Status : Ratcheting Finished
 Status : Perturb Iteration Finished
-Status : TBR : 7258 Searching
+Status : TBR : 5448 5448.
+Status : TBR : 5439 5439.
+Status : TBR : 5428 5428.
+Status : TBR : 5425 5425.
 Status : TBR Finished
-Status : Diagnosis : 0 Recalculating original tree
-Status : Diagnosis Finished
-Status : Diagnosis : 1 of 1 -- Recalculating trees
-Status : Diagnosis Finished
+Status : Running pipeline on each tree :
+         2 of 2 -- Estimated finish in 28 m, 36 s
 Status : Perturb Iteration : 1 of 2 -- 
 Status : Ratcheting : 0 of 1 -- trees in the current optimum
+Information : Vectorized:88 of 88 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
 Status : Ratcheting : 1 of 1 -- trees in the current optimum
-Status : TBR : 13605 Searching
+Status : TBR : 5546 5546.
+Status : TBR : 5540 5540.
+Status : TBR : 5492 5492.
 Status : TBR Finished
-Status : Perburbing : 1 of 3 -- 
+Status : Perturbing : 1 of 2 -- 
+Information : Vectorized:88 of 88 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
+Status : Perturbing : 2 of 2 -- Estimated finish in 11 s
+Information : Vectorized:88 of 88 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
-Status : Diagnosis : 0 Recalculating original tree
-Status : Diagnosis Finished
-Status : Perburbing Finished
+Status : Perturbing Finished
 Status : Ratcheting Finished
 Status : Perturb Iteration : 2 of 2 -- 
-Status : Ratcheting : 0 of 1 -- trees in the current optimum
+Status : Ratcheting : 0 of 2 -- trees in the current optimum
+Information : Vectorized:88 of 88 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
-Status : Ratcheting : 1 of 1 -- trees in the current optimum
-Status : TBR : 8169 Searching
+Status : Ratcheting : 1 of 2 -- trees in the current optimum
+Information : Vectorized:88 of 88 characters.
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting : 2 of 2 -- trees in the current optimum
+Status : TBR : 5442 5442.
 Status : TBR Finished
-Status : Perburbing : 1 of 4 -- 
+Status : TBR : 10747 10747.
+Status : TBR Finished
+Status : Perturbing : 1 of 6 -- 
+Information : Vectorized:88 of 88 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
+Status : Perturbing : 2 of 6 -- Estimated finish in 56 s
+Information : Vectorized:88 of 88 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
+Status : Perturbing : 3 of 6 -- Estimated finish in 45 s
+Information : Vectorized:88 of 88 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
+Status : Perturbing : 4 of 6 -- Estimated finish in 34 s
+Information : Vectorized:88 of 88 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
-Status : Perburbing Finished
+Status : Perturbing : 5 of 6 -- Estimated finish in 23 s
+Information : Vectorized:88 of 88 characters.
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Perturbing : 6 of 6 -- Estimated finish in 11 s
+Information : Vectorized:88 of 88 characters.
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Perturbing Finished
 Status : Ratcheting Finished
 Status : Perturb Iteration Finished
-Status : TBR : 7258 Searching
+Status : TBR : 5417 5417.
 Status : TBR Finished
-Information :
-
-  Trees:
-    Storing 2 trees with costs 7258. to 7258.
-    Best cost was found 2 times 
+Status : Running pipeline on each tree Finished
+Information : 
+                Trees:
+                  Storing 2 trees with costs 5415. to 5417.
+                  Best cost in 1 tree 
+                Cost Mode: Normal Direct Optimization
 PASSED

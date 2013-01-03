@@ -258,7 +258,7 @@ Status : Tree Fusing :
 Status : Tree Fusing Finished
 Information : 
                 Trees:
-                  Storing 2 trees with costs 2192.000000 to 2196.000000
+                  Storing 2 trees with costs 2192. to 2196.
                   Best cost in 1 tree 
                 Cost Mode: Normal Direct Optimization
 PASSED

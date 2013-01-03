@@ -1,9 +1,8 @@
 Information : Setting random seed value to 1
 Information : Reading file 1.fas of type input sequences
 
-Information : 
-The file 1.fas contains sequences of 49 taxa, each sequence holding 5
-fragments.
+Information : The file 1.fas contains sequences of 49 taxa, each sequence
+              holding 5 fragments.
 Status : Loading Trees Finished
 Status : Wagner : 2 of 49 -- Wagner tree with cost 150.
 Status : Wagner : 3 of 49 -- Wagner tree with cost 233.
@@ -54,7 +53,7 @@ Status : Wagner : 47 of 49 -- Wagner tree with cost 597.
 Status : Wagner : 48 of 49 -- Wagner tree with cost 606.
 Status : Wagner Finished
 Status : Building Wagner Tree Finished
-Status : Running Pipeline : 1 of 3 -- Estimated finish in 9 s
+Status : Running Pipeline : 1 of 3 -- Estimated finish in 6 s
 Status : Wagner : 2 of 49 -- Wagner tree with cost 5.
 Status : Wagner : 3 of 49 -- Wagner tree with cost 5.
 Status : Wagner : 4 of 49 -- Wagner tree with cost 7.
@@ -104,7 +103,7 @@ Status : Wagner : 47 of 49 -- Wagner tree with cost 599.
 Status : Wagner : 48 of 49 -- Wagner tree with cost 606.
 Status : Wagner Finished
 Status : Building Wagner Tree Finished
-Status : Running Pipeline : 2 of 3 -- Estimated finish in 4 s
+Status : Running Pipeline : 2 of 3 -- Estimated finish in 3 s
 Status : Wagner : 2 of 49 -- Wagner tree with cost 11.
 Status : Wagner : 3 of 49 -- Wagner tree with cost 20.
 Status : Wagner : 4 of 49 -- Wagner tree with cost 22.
@@ -156,9 +155,9 @@ Status : Wagner Finished
 Status : Building Wagner Tree Finished
 Status : Running Pipeline : 3 of 3 -- Estimated finish in 0 s
 Status : Running Pipeline Finished
-Error : 
-You have requested a consensus with majority rule less than or equal to 50
-percent; I can not do that because that percentage is not a majority!. Either
-you made a typo or you should reconsider your parameter selection.
+Error : You have requested a consensus with majority rule less than or equal
+        to 50 percent; I can not do that because that percentage is not a
+        majority!. Either you made a typo or you should reconsider your
+        parameter selection.
 FAILED
 Fatal error: exception Failure("Illegal Consensus Parameter")

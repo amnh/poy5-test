@@ -1,0 +1,24 @@
+Information : Setting random seed value to 1
+Information : Reading file 2.fas of type input sequences
+
+Information : The file 2.fas contains sequences of 17 taxa, each sequence
+              holding 1 fragment.
+
+Status : Loading Trees Finished
+Status : Selected 2 of 17 terminals
+Status : Wagner Finished
+Status : Building Wagner Tree Finished
+Status : Alternate : 0 Beginning search
+Status : Alternate : 0 SPR search
+Status : SPR : 54 54.
+Status : SPR Finished
+Status : Alternate : 0 Performing TBR swapping
+Status : Single TBR Finished
+Status : Alternate Finished
+Status : Running Pipeline : 1 of 1 -- Estimated finish in 0 s
+Status : Running Pipeline Finished
+Information : 
+                Trees:
+                  Storing 1 tree with cost 54. 
+                Cost Mode: Normal Direct Optimization
+PASSED

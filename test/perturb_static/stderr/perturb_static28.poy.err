@@ -1,0 +1,735 @@
+Information : Setting random seed value to 1
+Information : Reading file 30.ss of type hennig86/Nona
+
+Information : The file 30.ss defines 144 static homology characters,
+              0 unaligned sequences, and 0 trees, containing 49 taxa.
+Status : Loading Characters : 0 of 49 -- Storing the character specifications
+Status : Loading Characters : 1 of 49 -- Storing the character specifications
+Status : Loading Characters : 2 of 49 -- Storing the character specifications
+Status : Loading Characters : 3 of 49 -- Storing the character specifications
+Status : Loading Characters : 4 of 49 -- Storing the character specifications
+Status : Loading Characters : 5 of 49 -- Storing the character specifications
+Status : Loading Characters : 6 of 49 -- Storing the character specifications
+Status : Loading Characters : 7 of 49 -- Storing the character specifications
+Status : Loading Characters : 8 of 49 -- Storing the character specifications
+Status : Loading Characters : 9 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         10 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         11 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         12 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         13 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         14 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         15 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         16 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         17 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         18 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         19 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         20 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         21 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         22 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         23 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         24 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         25 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         26 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         27 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         28 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         29 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         30 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         31 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         32 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         33 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         34 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         35 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         36 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         37 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         38 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         39 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         40 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         41 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         42 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         43 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         44 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         45 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         46 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         47 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         48 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         49 of 49 -- Storing the character specifications
+Status : Loading Characters Finished
+Information : Vectorized:113 of 113 characters.
+Status : Loading Trees Finished
+Information : Reading file 31.ss of type hennig86/Nona
+
+Information : The file 31.ss defines 167 static homology characters,
+              0 unaligned sequences, and 0 trees, containing 49 taxa.
+Status : Loading Characters : 0 of 49 -- Storing the character specifications
+Status : Loading Characters : 1 of 49 -- Storing the character specifications
+Status : Loading Characters : 2 of 49 -- Storing the character specifications
+Status : Loading Characters : 3 of 49 -- Storing the character specifications
+Status : Loading Characters : 4 of 49 -- Storing the character specifications
+Status : Loading Characters : 5 of 49 -- Storing the character specifications
+Status : Loading Characters : 6 of 49 -- Storing the character specifications
+Status : Loading Characters : 7 of 49 -- Storing the character specifications
+Status : Loading Characters : 8 of 49 -- Storing the character specifications
+Status : Loading Characters : 9 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         10 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         11 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         12 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         13 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         14 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         15 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         16 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         17 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         18 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         19 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         20 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         21 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         22 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         23 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         24 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         25 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         26 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         27 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         28 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         29 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         30 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         31 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         32 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         33 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         34 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         35 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         36 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         37 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         38 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         39 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         40 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         41 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         42 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         43 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         44 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         45 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         46 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         47 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         48 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         49 of 49 -- Storing the character specifications
+Status : Loading Characters Finished
+Information : Vectorized:280 of 280 characters.
+Status : Loading Trees Finished
+Information : Reading file 32.ss of type hennig86/Nona
+
+Information : The file 32.ss defines 88 static homology characters,
+              0 unaligned sequences, and 0 trees, containing 49 taxa.
+Status : Loading Characters : 0 of 49 -- Storing the character specifications
+Status : Loading Characters : 1 of 49 -- Storing the character specifications
+Status : Loading Characters : 2 of 49 -- Storing the character specifications
+Status : Loading Characters : 3 of 49 -- Storing the character specifications
+Status : Loading Characters : 4 of 49 -- Storing the character specifications
+Status : Loading Characters : 5 of 49 -- Storing the character specifications
+Status : Loading Characters : 6 of 49 -- Storing the character specifications
+Status : Loading Characters : 7 of 49 -- Storing the character specifications
+Status : Loading Characters : 8 of 49 -- Storing the character specifications
+Status : Loading Characters : 9 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         10 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         11 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         12 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         13 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         14 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         15 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         16 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         17 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         18 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         19 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         20 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         21 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         22 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         23 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         24 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         25 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         26 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         27 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         28 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         29 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         30 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         31 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         32 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         33 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         34 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         35 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         36 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         37 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         38 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         39 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         40 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         41 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         42 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         43 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         44 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         45 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         46 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         47 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         48 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         49 of 49 -- Storing the character specifications
+Status : Loading Characters Finished
+Information : Vectorized:368 of 368 characters.
+Status : Loading Trees Finished
+Information : Reading file 33.ss of type hennig86/Nona
+
+Information : The file 33.ss defines 100 static homology characters,
+              0 unaligned sequences, and 0 trees, containing 49 taxa.
+Status : Loading Characters : 0 of 49 -- Storing the character specifications
+Status : Loading Characters : 1 of 49 -- Storing the character specifications
+Status : Loading Characters : 2 of 49 -- Storing the character specifications
+Status : Loading Characters : 3 of 49 -- Storing the character specifications
+Status : Loading Characters : 4 of 49 -- Storing the character specifications
+Status : Loading Characters : 5 of 49 -- Storing the character specifications
+Status : Loading Characters : 6 of 49 -- Storing the character specifications
+Status : Loading Characters : 7 of 49 -- Storing the character specifications
+Status : Loading Characters : 8 of 49 -- Storing the character specifications
+Status : Loading Characters : 9 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         10 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         11 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         12 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         13 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         14 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         15 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         16 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         17 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         18 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         19 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         20 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         21 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         22 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         23 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         24 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         25 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         26 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         27 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         28 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         29 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         30 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         31 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         32 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         33 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         34 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         35 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         36 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         37 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         38 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         39 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         40 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         41 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         42 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         43 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         44 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         45 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         46 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         47 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         48 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         49 of 49 -- Storing the character specifications
+Status : Loading Characters Finished
+Information : Vectorized:465 of 465 characters.
+Status : Loading Trees Finished
+Information : Reading file 34.ss of type hennig86/Nona
+
+Information : The file 34.ss defines 161 static homology characters,
+              0 unaligned sequences, and 0 trees, containing 49 taxa.
+Status : Loading Characters : 0 of 49 -- Storing the character specifications
+Status : Loading Characters : 1 of 49 -- Storing the character specifications
+Status : Loading Characters : 2 of 49 -- Storing the character specifications
+Status : Loading Characters : 3 of 49 -- Storing the character specifications
+Status : Loading Characters : 4 of 49 -- Storing the character specifications
+Status : Loading Characters : 5 of 49 -- Storing the character specifications
+Status : Loading Characters : 6 of 49 -- Storing the character specifications
+Status : Loading Characters : 7 of 49 -- Storing the character specifications
+Status : Loading Characters : 8 of 49 -- Storing the character specifications
+Status : Loading Characters : 9 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         10 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         11 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         12 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         13 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         14 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         15 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         16 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         17 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         18 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         19 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         20 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         21 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         22 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         23 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         24 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         25 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         26 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         27 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         28 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         29 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         30 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         31 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         32 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         33 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         34 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         35 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         36 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         37 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         38 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         39 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         40 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         41 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         42 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         43 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         44 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         45 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         46 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         47 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         48 of 49 -- Storing the character specifications
+Status : Loading Characters :
+         49 of 49 -- Storing the character specifications
+Status : Loading Characters Finished
+Information : Vectorized:626 of 626 characters.
+Status : Loading Trees Finished
+Information : Selected Terminals:
+              
+
+Information : 
+Information : Total included: 12
+Information : Total excluded: 37
+Information : Vectorized:626 of 626 characters.
+Status : Selected 12 of 49 terminals
+Status : Wagner : 2 of 12 -- Wagner tree with cost 152.
+Status : Wagner : 3 of 12 -- Wagner tree with cost 347.
+Status : Wagner : 4 of 12 -- Wagner tree with cost 499.
+Status : Wagner : 5 of 12 -- Wagner tree with cost 692.
+Status : Wagner : 6 of 12 -- Wagner tree with cost 812.
+Status : Wagner : 7 of 12 -- Wagner tree with cost 940.
+Status : Wagner : 8 of 12 -- Wagner tree with cost 1060.
+Status : Wagner : 9 of 12 -- Wagner tree with cost 1184.
+Status : Wagner : 10 of 12 -- Wagner tree with cost 1399.
+Status : Wagner : 11 of 12 -- Wagner tree with cost 1444.
+Status : Wagner Finished
+Status : Building Wagner Tree Finished
+Status : Running Pipeline : 1 of 2 -- Estimated finish in 0 s
+Status : Wagner : 2 of 12 -- Wagner tree with cost 298.
+Status : Wagner : 3 of 12 -- Wagner tree with cost 411.
+Status : Wagner : 4 of 12 -- Wagner tree with cost 609.
+Status : Wagner : 5 of 12 -- Wagner tree with cost 740.
+Status : Wagner : 6 of 12 -- Wagner tree with cost 785.
+Status : Wagner : 7 of 12 -- Wagner tree with cost 931.
+Status : Wagner : 8 of 12 -- Wagner tree with cost 1075.
+Status : Wagner : 9 of 12 -- Wagner tree with cost 1168.
+Status : Wagner : 10 of 12 -- Wagner tree with cost 1363.
+Status : Wagner : 11 of 12 -- Wagner tree with cost 1534.
+Status : Wagner Finished
+Status : Building Wagner Tree Finished
+Status : Running Pipeline : 2 of 2 -- Estimated finish in 0 s
+Status : Running Pipeline Finished
+Status : Running pipeline on each tree : 1 of 2 -- 
+Status : Perturb Iteration : 1 of 1 -- 
+Status : Resampling Characters : 0 of 1 -- trees in the current optimum
+Information : Vectorized:626 of 626 characters.
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Resampling Characters : 1 of 1 -- trees in the current optimum
+Status : TBR : 19 19.
+Status : TBR : 18 18.
+Status : TBR : 16 16.
+Status : TBR : 15 15.
+Status : TBR : 14 14.
+Status : TBR : 13 13.
+Status : TBR : 11 11.
+Status : TBR : 10 10.
+Status : TBR Finished
+Status : Perturbing : 1 of 5 -- 
+Information : Vectorized:626 of 626 characters.
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Perturbing : 2 of 5 -- Estimated finish in 0 s
+Information : Vectorized:626 of 626 characters.
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Perturbing : 3 of 5 -- Estimated finish in 0 s
+Information : Vectorized:626 of 626 characters.
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Perturbing : 4 of 5 -- Estimated finish in 0 s
+Information : Vectorized:626 of 626 characters.
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Perturbing : 5 of 5 -- Estimated finish in 0 s
+Information : Vectorized:626 of 626 characters.
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Perturbing Finished
+Status : Resampling Characters Finished
+Status : Perturb Iteration Finished
+Status : Tree search : 1 of 5 -- 
+Status : TBR : 1777 1777.
+Status : TBR : 1766 1766.
+Status : TBR : 1744 1744.
+Status : TBR : 1737 1737.
+Status : TBR : 1736 1736.
+Status : TBR : 1735 1735.
+Status : TBR : 1570 1570.
+Status : TBR : 1565 1565.
+Status : TBR : 1561 1561.
+Status : TBR : 1538 1538.
+Status : TBR : 1536 1536.
+Status : TBR : 1528 1528.
+Status : TBR Finished
+Status : Tree search : 2 of 5 -- Estimated finish in 0 s
+Status : TBR : 1631 1631.
+Status : TBR : 1623 1623.
+Status : TBR : 1605 1605.
+Status : TBR : 1592 1592.
+Status : TBR : 1590 1590.
+Status : TBR : 1583 1583.
+Status : TBR : 1581 1581.
+Status : TBR : 1578 1578.
+Status : TBR : 1571 1571.
+Status : TBR : 1564 1564.
+Status : TBR : 1557 1557.
+Status : TBR : 1553 1553.
+Status : TBR : 1544 1544.
+Status : TBR : 1541 1541.
+Status : TBR : 1535 1535.
+Status : TBR : 1534 1534.
+Status : TBR : 1530 1530.
+Status : TBR Finished
+Status : Tree search : 3 of 5 -- Estimated finish in 0 s
+Status : TBR : 1784 1784.
+Status : TBR : 1780 1780.
+Status : TBR : 1745 1745.
+Status : TBR : 1742 1742.
+Status : TBR : 1727 1727.
+Status : TBR : 1699 1699.
+Status : TBR : 1585 1585.
+Status : TBR : 1580 1580.
+Status : TBR : 1574 1574.
+Status : TBR : 1555 1555.
+Status : TBR : 1553 1553.
+Status : TBR : 1546 1546.
+Status : TBR : 1535 1535.
+Status : TBR : 1533 1533.
+Status : TBR Finished
+Status : Tree search : 4 of 5 -- Estimated finish in 0 s
+Status : TBR : 1758 1758.
+Status : TBR : 1753 1753.
+Status : TBR : 1738 1738.
+Status : TBR : 1731 1731.
+Status : TBR : 1728 1728.
+Status : TBR : 1706 1706.
+Status : TBR : 1702 1702.
+Status : TBR : 1643 1643.
+Status : TBR : 1635 1635.
+Status : TBR : 1575 1575.
+Status : TBR : 1574 1574.
+Status : TBR : 1557 1557.
+Status : TBR : 1556 1556.
+Status : TBR : 1539 1539.
+Status : TBR : 1534 1534.
+Status : TBR : 1530 1530.
+Status : TBR Finished
+Status : Tree search : 5 of 5 -- Estimated finish in 0 s
+Status : TBR : 1783 1783.
+Status : TBR : 1775 1775.
+Status : TBR : 1761 1761.
+Status : TBR : 1758 1758.
+Status : TBR : 1685 1685.
+Status : TBR : 1619 1619.
+Status : TBR : 1613 1613.
+Status : TBR : 1586 1586.
+Status : TBR : 1581 1581.
+Status : TBR : 1553 1553.
+Status : TBR : 1552 1552.
+Status : TBR : 1546 1546.
+Status : TBR : 1544 1544.
+Status : TBR : 1538 1538.
+Status : TBR : 1534 1534.
+Status : TBR : 1533 1533.
+Status : TBR : 1526 1526.
+Status : TBR Finished
+Status : Tree search Finished
+Status : Running pipeline on each tree : 2 of 2 -- Estimated finish in 2 s
+Status : Perturb Iteration : 1 of 1 -- 
+Status : Resampling Characters : 0 of 1 -- trees in the current optimum
+Information : Vectorized:626 of 626 characters.
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Resampling Characters : 1 of 1 -- trees in the current optimum
+Status : TBR : 16 16.
+Status : TBR : 15 15.
+Status : TBR : 13 13.
+Status : TBR : 12 12.
+Status : TBR Finished
+Status : Perturbing : 1 of 5 -- 
+Information : Vectorized:626 of 626 characters.
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Perturbing : 2 of 5 -- Estimated finish in 0 s
+Information : Vectorized:626 of 626 characters.
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Perturbing : 3 of 5 -- Estimated finish in 0 s
+Information : Vectorized:626 of 626 characters.
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Perturbing : 4 of 5 -- Estimated finish in 0 s
+Information : Vectorized:626 of 626 characters.
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Perturbing : 5 of 5 -- Estimated finish in 0 s
+Information : Vectorized:626 of 626 characters.
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Perturbing Finished
+Status : Resampling Characters Finished
+Status : Perturb Iteration Finished
+Status : Tree search : 1 of 5 -- 
+Status : TBR : 1559 1559.
+Status : TBR : 1556 1556.
+Status : TBR : 1555 1555.
+Status : TBR : 1553 1553.
+Status : TBR : 1549 1549.
+Status : TBR : 1546 1546.
+Status : TBR : 1534 1534.
+Status : TBR : 1530 1530.
+Status : TBR : 1526 1526.
+Status : TBR Finished
+Status : Tree search : 2 of 5 -- Estimated finish in 0 s
+Status : TBR : 1569 1569.
+Status : TBR : 1568 1568.
+Status : TBR : 1562 1562.
+Status : TBR : 1548 1548.
+Status : TBR : 1543 1543.
+Status : TBR : 1539 1539.
+Status : TBR : 1536 1536.
+Status : TBR Finished
+Status : Tree search : 3 of 5 -- Estimated finish in 0 s
+Status : TBR : 1567 1567.
+Status : TBR : 1564 1564.
+Status : TBR : 1542 1542.
+Status : TBR : 1538 1538.
+Status : TBR : 1537 1537.
+Status : TBR : 1534 1534.
+Status : TBR : 1526 1526.
+Status : TBR Finished
+Status : Tree search : 4 of 5 -- Estimated finish in 0 s
+Status : TBR : 1563 1563.
+Status : TBR : 1553 1553.
+Status : TBR : 1547 1547.
+Status : TBR : 1545 1545.
+Status : TBR : 1541 1541.
+Status : TBR Finished
+Status : Tree search : 5 of 5 -- Estimated finish in 0 s
+Status : TBR : 1572 1572.
+Status : TBR : 1553 1553.
+Status : TBR : 1547 1547.
+Status : TBR : 1544 1544.
+Status : TBR : 1542 1542.
+Status : TBR : 1538 1538.
+Status : TBR : 1535 1535.
+Status : TBR Finished
+Status : Tree search Finished
+Status : Running pipeline on each tree Finished
+Information : 
+                Trees:
+                  Storing 2 trees with costs 1526. to 1526.
+                  Best cost in 2 trees 
+                Cost Mode: Normal Direct Optimization
+PASSED
