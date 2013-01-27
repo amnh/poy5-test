@@ -516,7 +516,6 @@ Status : SPR Finished
 Status : Alternate : 0 Performing TBR swapping
 Status : Single TBR Finished
 Status : Alternate Finished
-Status : Running Pipeline : 1 of 2 -- Estimated finish in 0 s
 Status : Wagner : 2 of 12 -- Wagner tree with cost 247.
 Status : Wagner : 3 of 12 -- Wagner tree with cost 385.
 Status : Wagner : 4 of 12 -- Wagner tree with cost 539.
@@ -543,7 +542,6 @@ Status : SPR Finished
 Status : Alternate : 0 Performing TBR swapping
 Status : Single TBR Finished
 Status : Alternate Finished
-Status : Running Pipeline : 2 of 2 -- Estimated finish in 0 s
 Status : Running Pipeline Finished
 Information : 
                 Trees:
