@@ -394,7 +394,7 @@ Status : Diagnosis : 1 of 1 -- Recalculating trees
 Status : Diagnosis Finished
 Status : Perturb Iteration : 1 of 2 -- 
 Status : Resampling Characters : 0 of 1 -- trees in the current optimum
-Information : Vectorized:167 of 167 characters.
+Information : Vectorized:5 of 5 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
 Status : Resampling Characters : 1 of 1 -- trees in the current optimum
@@ -425,23 +425,23 @@ Status : Perturbing Finished
 Status : Resampling Characters Finished
 Status : Perturb Iteration : 2 of 2 -- 
 Status : Resampling Characters : 0 of 5 -- trees in the current optimum
-Information : Vectorized:167 of 167 characters.
+Information : Vectorized:7 of 7 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
 Status : Resampling Characters : 1 of 5 -- trees in the current optimum
-Information : Vectorized:167 of 167 characters.
+Information : Vectorized:7 of 7 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
 Status : Resampling Characters : 2 of 5 -- trees in the current optimum
-Information : Vectorized:167 of 167 characters.
+Information : Vectorized:5 of 5 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
 Status : Resampling Characters : 3 of 5 -- trees in the current optimum
-Information : Vectorized:167 of 167 characters.
+Information : Vectorized:6 of 6 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
 Status : Resampling Characters : 4 of 5 -- trees in the current optimum
-Information : Vectorized:167 of 167 characters.
+Information : Vectorized:8 of 8 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
 Status : Resampling Characters : 5 of 5 -- trees in the current optimum
@@ -566,11 +566,11 @@ Status : Untransforming Characters : 1 of 23 --
 Information : Vectorized:167 of 167 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
-Status : Untransforming Characters : 2 of 23 -- Estimated finish in 0 s
+Status : Untransforming Characters : 2 of 23 -- Estimated finish in 1 s
 Information : Vectorized:167 of 167 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
-Status : Untransforming Characters : 3 of 23 -- Estimated finish in 0 s
+Status : Untransforming Characters : 3 of 23 -- Estimated finish in 1 s
 Information : Vectorized:167 of 167 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
@@ -912,7 +912,7 @@ Status : Diagnosis : 2 of 2 -- Recalculating trees
 Status : Diagnosis Finished
 Status : Perturb Iteration : 1 of 2 -- 
 Status : Resampling Characters : 0 of 1 -- trees in the current optimum
-Information : Vectorized:167 of 167 characters.
+Information : Vectorized:4 of 4 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
 Status : Resampling Characters : 1 of 1 -- trees in the current optimum
@@ -942,23 +942,23 @@ Status : Perturbing Finished
 Status : Resampling Characters Finished
 Status : Perturb Iteration : 2 of 2 -- 
 Status : Resampling Characters : 0 of 5 -- trees in the current optimum
-Information : Vectorized:167 of 167 characters.
+Information : Vectorized:3 of 3 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
 Status : Resampling Characters : 1 of 5 -- trees in the current optimum
-Information : Vectorized:167 of 167 characters.
+Information : Vectorized:8 of 8 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
 Status : Resampling Characters : 2 of 5 -- trees in the current optimum
-Information : Vectorized:167 of 167 characters.
+Information : Vectorized:4 of 4 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
 Status : Resampling Characters : 3 of 5 -- trees in the current optimum
-Information : Vectorized:167 of 167 characters.
+Information : Vectorized:6 of 6 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
 Status : Resampling Characters : 4 of 5 -- trees in the current optimum
-Information : Vectorized:167 of 167 characters.
+Information : Vectorized:4 of 4 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
 Status : Resampling Characters : 5 of 5 -- trees in the current optimum

@@ -1,8 +1,8 @@
 Information : Setting random seed value to 1
-Information : Reading file 27.fas of type input sequences
+Information : Reading file 21.fas of type input sequences
 
-Information : The file 27.fas contains sequences of 47 taxa, each sequence
-              holding 6 fragments.
+Information : The file 21.fas contains sequences of 49 taxa, each sequence
+              holding 2 fragments.
 Status : Loading Trees Finished
 Information : Reading file 34.ss of type hennig86/Nona
 
@@ -109,16 +109,16 @@ Information : Total included: 12
 Information : Total excluded: 37
 Information : Vectorized:161 of 161 characters.
 Status : Selected 12 of 49 terminals
-Status : Wagner : 2 of 12 -- Wagner tree with cost 96.
-Status : Wagner : 3 of 12 -- Wagner tree with cost 131.
-Status : Wagner : 4 of 12 -- Wagner tree with cost 170.
-Status : Wagner : 5 of 12 -- Wagner tree with cost 201.
-Status : Wagner : 6 of 12 -- Wagner tree with cost 223.
-Status : Wagner : 7 of 12 -- Wagner tree with cost 248.
-Status : Wagner : 8 of 12 -- Wagner tree with cost 280.
-Status : Wagner : 9 of 12 -- Wagner tree with cost 310.
-Status : Wagner : 10 of 12 -- Wagner tree with cost 329.
-Status : Wagner : 11 of 12 -- Wagner tree with cost 333.
+Status : Wagner : 2 of 12 -- Wagner tree with cost 73.
+Status : Wagner : 3 of 12 -- Wagner tree with cost 115.
+Status : Wagner : 4 of 12 -- Wagner tree with cost 121.
+Status : Wagner : 5 of 12 -- Wagner tree with cost 150.
+Status : Wagner : 6 of 12 -- Wagner tree with cost 177.
+Status : Wagner : 7 of 12 -- Wagner tree with cost 205.
+Status : Wagner : 8 of 12 -- Wagner tree with cost 248.
+Status : Wagner : 9 of 12 -- Wagner tree with cost 323.
+Status : Wagner : 10 of 12 -- Wagner tree with cost 355.
+Status : Wagner : 11 of 12 -- Wagner tree with cost 392.
 Status : Wagner Finished
 Status : Building Wagner Tree Finished
 Warning : Data contains characters that do not support static approx. I will skip over these and do the best that I can.
@@ -168,166 +168,6 @@ Status : Implied Alignments : 20 of 23 -- vertices calculated
 Status : Implied Alignments : 21 of 23 -- vertices calculated
 Status : Implied Alignments Finished
 Status : Static Approximation Finished
-Status : Implied Alignments : 1 of 23 -- vertices calculated
-Status : Implied Alignments : 2 of 23 -- vertices calculated
-Status : Implied Alignments : 3 of 23 -- vertices calculated
-Status : Implied Alignments : 4 of 23 -- vertices calculated
-Status : Implied Alignments : 5 of 23 -- vertices calculated
-Status : Implied Alignments : 6 of 23 -- vertices calculated
-Status : Implied Alignments : 7 of 23 -- vertices calculated
-Status : Implied Alignments : 8 of 23 -- vertices calculated
-Status : Implied Alignments : 9 of 23 -- vertices calculated
-Status : Implied Alignments : 10 of 23 -- vertices calculated
-Status : Implied Alignments : 11 of 23 -- vertices calculated
-Status : Implied Alignments : 12 of 23 -- vertices calculated
-Status : Implied Alignments : 13 of 23 -- vertices calculated
-Status : Implied Alignments : 14 of 23 -- vertices calculated
-Status : Implied Alignments : 15 of 23 -- vertices calculated
-Status : Implied Alignments : 16 of 23 -- vertices calculated
-Status : Implied Alignments : 17 of 23 -- vertices calculated
-Status : Implied Alignments : 18 of 23 -- vertices calculated
-Status : Implied Alignments : 19 of 23 -- vertices calculated
-Status : Implied Alignments : 20 of 23 -- vertices calculated
-Status : Implied Alignments : 21 of 23 -- vertices calculated
-Status : Implied Alignments Finished
-Status : Static Approximation Finished
-Status : Implied Alignments : 1 of 23 -- vertices calculated
-Status : Implied Alignments : 2 of 23 -- vertices calculated
-Status : Implied Alignments : 3 of 23 -- vertices calculated
-Status : Implied Alignments : 4 of 23 -- vertices calculated
-Status : Implied Alignments : 5 of 23 -- vertices calculated
-Status : Implied Alignments : 6 of 23 -- vertices calculated
-Status : Implied Alignments : 7 of 23 -- vertices calculated
-Status : Implied Alignments : 8 of 23 -- vertices calculated
-Status : Implied Alignments : 9 of 23 -- vertices calculated
-Status : Implied Alignments : 10 of 23 -- vertices calculated
-Status : Implied Alignments : 11 of 23 -- vertices calculated
-Status : Implied Alignments : 12 of 23 -- vertices calculated
-Status : Implied Alignments : 13 of 23 -- vertices calculated
-Status : Implied Alignments : 14 of 23 -- vertices calculated
-Status : Implied Alignments : 15 of 23 -- vertices calculated
-Status : Implied Alignments : 16 of 23 -- vertices calculated
-Status : Implied Alignments : 17 of 23 -- vertices calculated
-Status : Implied Alignments : 18 of 23 -- vertices calculated
-Status : Implied Alignments : 19 of 23 -- vertices calculated
-Status : Implied Alignments : 20 of 23 -- vertices calculated
-Status : Implied Alignments : 21 of 23 -- vertices calculated
-Status : Implied Alignments Finished
-Status : Static Approximation Finished
-Status : Implied Alignments : 1 of 23 -- vertices calculated
-Status : Implied Alignments : 2 of 23 -- vertices calculated
-Status : Implied Alignments : 3 of 23 -- vertices calculated
-Status : Implied Alignments : 4 of 23 -- vertices calculated
-Status : Implied Alignments : 5 of 23 -- vertices calculated
-Status : Implied Alignments : 6 of 23 -- vertices calculated
-Status : Implied Alignments : 7 of 23 -- vertices calculated
-Status : Implied Alignments : 8 of 23 -- vertices calculated
-Status : Implied Alignments : 9 of 23 -- vertices calculated
-Status : Implied Alignments : 10 of 23 -- vertices calculated
-Status : Implied Alignments : 11 of 23 -- vertices calculated
-Status : Implied Alignments : 12 of 23 -- vertices calculated
-Status : Implied Alignments : 13 of 23 -- vertices calculated
-Status : Implied Alignments : 14 of 23 -- vertices calculated
-Status : Implied Alignments : 15 of 23 -- vertices calculated
-Status : Implied Alignments : 16 of 23 -- vertices calculated
-Status : Implied Alignments : 17 of 23 -- vertices calculated
-Status : Implied Alignments : 18 of 23 -- vertices calculated
-Status : Implied Alignments : 19 of 23 -- vertices calculated
-Status : Implied Alignments : 20 of 23 -- vertices calculated
-Status : Implied Alignments : 21 of 23 -- vertices calculated
-Status : Implied Alignments Finished
-Status : Static Approximation Finished
-Status : Implied Alignments : 1 of 23 -- vertices calculated
-Status : Implied Alignments : 2 of 23 -- vertices calculated
-Status : Implied Alignments : 3 of 23 -- vertices calculated
-Status : Implied Alignments : 4 of 23 -- vertices calculated
-Status : Implied Alignments : 5 of 23 -- vertices calculated
-Status : Implied Alignments : 6 of 23 -- vertices calculated
-Status : Implied Alignments : 7 of 23 -- vertices calculated
-Status : Implied Alignments : 8 of 23 -- vertices calculated
-Status : Implied Alignments : 9 of 23 -- vertices calculated
-Status : Implied Alignments : 10 of 23 -- vertices calculated
-Status : Implied Alignments : 11 of 23 -- vertices calculated
-Status : Implied Alignments : 12 of 23 -- vertices calculated
-Status : Implied Alignments : 13 of 23 -- vertices calculated
-Status : Implied Alignments : 14 of 23 -- vertices calculated
-Status : Implied Alignments : 15 of 23 -- vertices calculated
-Status : Implied Alignments : 16 of 23 -- vertices calculated
-Status : Implied Alignments : 17 of 23 -- vertices calculated
-Status : Implied Alignments : 18 of 23 -- vertices calculated
-Status : Implied Alignments : 19 of 23 -- vertices calculated
-Status : Implied Alignments : 20 of 23 -- vertices calculated
-Status : Implied Alignments : 21 of 23 -- vertices calculated
-Status : Implied Alignments Finished
-Status : Static Approximation Finished
-Status : Loading Characters : 0 of 12 -- Storing the character specifications
-Status : Loading Characters : 1 of 12 -- Storing the character specifications
-Status : Loading Characters : 2 of 12 -- Storing the character specifications
-Status : Loading Characters : 3 of 12 -- Storing the character specifications
-Status : Loading Characters : 4 of 12 -- Storing the character specifications
-Status : Loading Characters : 5 of 12 -- Storing the character specifications
-Status : Loading Characters : 6 of 12 -- Storing the character specifications
-Status : Loading Characters : 7 of 12 -- Storing the character specifications
-Status : Loading Characters : 8 of 12 -- Storing the character specifications
-Status : Loading Characters : 9 of 12 -- Storing the character specifications
-Status : Loading Characters :
-         10 of 12 -- Storing the character specifications
-Status : Loading Characters :
-         11 of 12 -- Storing the character specifications
-Status : Loading Characters :
-         12 of 12 -- Storing the character specifications
-Status : Loading Characters Finished
-Status : Loading Characters : 0 of 12 -- Storing the character specifications
-Status : Loading Characters : 1 of 12 -- Storing the character specifications
-Status : Loading Characters : 2 of 12 -- Storing the character specifications
-Status : Loading Characters : 3 of 12 -- Storing the character specifications
-Status : Loading Characters : 4 of 12 -- Storing the character specifications
-Status : Loading Characters : 5 of 12 -- Storing the character specifications
-Status : Loading Characters : 6 of 12 -- Storing the character specifications
-Status : Loading Characters : 7 of 12 -- Storing the character specifications
-Status : Loading Characters : 8 of 12 -- Storing the character specifications
-Status : Loading Characters : 9 of 12 -- Storing the character specifications
-Status : Loading Characters :
-         10 of 12 -- Storing the character specifications
-Status : Loading Characters :
-         11 of 12 -- Storing the character specifications
-Status : Loading Characters :
-         12 of 12 -- Storing the character specifications
-Status : Loading Characters Finished
-Status : Loading Characters : 0 of 12 -- Storing the character specifications
-Status : Loading Characters : 1 of 12 -- Storing the character specifications
-Status : Loading Characters : 2 of 12 -- Storing the character specifications
-Status : Loading Characters : 3 of 12 -- Storing the character specifications
-Status : Loading Characters : 4 of 12 -- Storing the character specifications
-Status : Loading Characters : 5 of 12 -- Storing the character specifications
-Status : Loading Characters : 6 of 12 -- Storing the character specifications
-Status : Loading Characters : 7 of 12 -- Storing the character specifications
-Status : Loading Characters : 8 of 12 -- Storing the character specifications
-Status : Loading Characters : 9 of 12 -- Storing the character specifications
-Status : Loading Characters :
-         10 of 12 -- Storing the character specifications
-Status : Loading Characters :
-         11 of 12 -- Storing the character specifications
-Status : Loading Characters :
-         12 of 12 -- Storing the character specifications
-Status : Loading Characters Finished
-Status : Loading Characters : 0 of 12 -- Storing the character specifications
-Status : Loading Characters : 1 of 12 -- Storing the character specifications
-Status : Loading Characters : 2 of 12 -- Storing the character specifications
-Status : Loading Characters : 3 of 12 -- Storing the character specifications
-Status : Loading Characters : 4 of 12 -- Storing the character specifications
-Status : Loading Characters : 5 of 12 -- Storing the character specifications
-Status : Loading Characters : 6 of 12 -- Storing the character specifications
-Status : Loading Characters : 7 of 12 -- Storing the character specifications
-Status : Loading Characters : 8 of 12 -- Storing the character specifications
-Status : Loading Characters : 9 of 12 -- Storing the character specifications
-Status : Loading Characters :
-         10 of 12 -- Storing the character specifications
-Status : Loading Characters :
-         11 of 12 -- Storing the character specifications
-Status : Loading Characters :
-         12 of 12 -- Storing the character specifications
-Status : Loading Characters Finished
 Status : Loading Characters : 0 of 12 -- Storing the character specifications
 Status : Loading Characters : 1 of 12 -- Storing the character specifications
 Status : Loading Characters : 2 of 12 -- Storing the character specifications
@@ -364,7 +204,7 @@ Status : Loading Characters :
 Status : Loading Characters Finished
 Information : Vectorized:161 of 161 characters.
 Status : Transforming : 1 of 1 --  transformations applied
-Status : Transforming : 185 of 167 --  characters transformed
+Status : Transforming : 190 of 163 --  characters transformed
 Status : Transforming Finished
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
@@ -372,15 +212,8 @@ Status : Diagnosis : 1 of 1 -- Recalculating trees
 Status : Diagnosis Finished
 Status : Alternate : 0 Beginning search
 Status : Alternate : 0 SPR search
-Status : SPR : 367 367.
-Status : SPR : 364 364.
-Status : SPR : 359 359.
-Status : SPR : 358 358.
-Status : SPR Finished
-Status : Alternate : 0 Performing TBR swapping
-Status : Single TBR Finished
-Status : Alternate : 0 SPR search
-Status : SPR : 358 358.
+Status : SPR : 423 423.
+Status : SPR : 422 422.
 Status : SPR Finished
 Status : Alternate : 0 Performing TBR swapping
 Status : Single TBR Finished
@@ -389,16 +222,16 @@ Information : Vectorized:161 of 161 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
 Status : Running Pipeline : 1 of 2 -- Estimated finish in 0 s
-Status : Wagner : 2 of 12 -- Wagner tree with cost 76.
-Status : Wagner : 3 of 12 -- Wagner tree with cost 139.
-Status : Wagner : 4 of 12 -- Wagner tree with cost 163.
-Status : Wagner : 5 of 12 -- Wagner tree with cost 181.
-Status : Wagner : 6 of 12 -- Wagner tree with cost 243.
-Status : Wagner : 7 of 12 -- Wagner tree with cost 270.
-Status : Wagner : 8 of 12 -- Wagner tree with cost 297.
-Status : Wagner : 9 of 12 -- Wagner tree with cost 322.
-Status : Wagner : 10 of 12 -- Wagner tree with cost 347.
-Status : Wagner : 11 of 12 -- Wagner tree with cost 351.
+Status : Wagner : 2 of 12 -- Wagner tree with cost 115.
+Status : Wagner : 3 of 12 -- Wagner tree with cost 188.
+Status : Wagner : 4 of 12 -- Wagner tree with cost 232.
+Status : Wagner : 5 of 12 -- Wagner tree with cost 254.
+Status : Wagner : 6 of 12 -- Wagner tree with cost 289.
+Status : Wagner : 7 of 12 -- Wagner tree with cost 314.
+Status : Wagner : 8 of 12 -- Wagner tree with cost 320.
+Status : Wagner : 9 of 12 -- Wagner tree with cost 341.
+Status : Wagner : 10 of 12 -- Wagner tree with cost 372.
+Status : Wagner : 11 of 12 -- Wagner tree with cost 410.
 Status : Wagner Finished
 Status : Building Wagner Tree Finished
 Warning : Data contains characters that do not support static approx. I will skip over these and do the best that I can.
@@ -448,166 +281,6 @@ Status : Implied Alignments : 20 of 23 -- vertices calculated
 Status : Implied Alignments : 21 of 23 -- vertices calculated
 Status : Implied Alignments Finished
 Status : Static Approximation Finished
-Status : Implied Alignments : 1 of 23 -- vertices calculated
-Status : Implied Alignments : 2 of 23 -- vertices calculated
-Status : Implied Alignments : 3 of 23 -- vertices calculated
-Status : Implied Alignments : 4 of 23 -- vertices calculated
-Status : Implied Alignments : 5 of 23 -- vertices calculated
-Status : Implied Alignments : 6 of 23 -- vertices calculated
-Status : Implied Alignments : 7 of 23 -- vertices calculated
-Status : Implied Alignments : 8 of 23 -- vertices calculated
-Status : Implied Alignments : 9 of 23 -- vertices calculated
-Status : Implied Alignments : 10 of 23 -- vertices calculated
-Status : Implied Alignments : 11 of 23 -- vertices calculated
-Status : Implied Alignments : 12 of 23 -- vertices calculated
-Status : Implied Alignments : 13 of 23 -- vertices calculated
-Status : Implied Alignments : 14 of 23 -- vertices calculated
-Status : Implied Alignments : 15 of 23 -- vertices calculated
-Status : Implied Alignments : 16 of 23 -- vertices calculated
-Status : Implied Alignments : 17 of 23 -- vertices calculated
-Status : Implied Alignments : 18 of 23 -- vertices calculated
-Status : Implied Alignments : 19 of 23 -- vertices calculated
-Status : Implied Alignments : 20 of 23 -- vertices calculated
-Status : Implied Alignments : 21 of 23 -- vertices calculated
-Status : Implied Alignments Finished
-Status : Static Approximation Finished
-Status : Implied Alignments : 1 of 23 -- vertices calculated
-Status : Implied Alignments : 2 of 23 -- vertices calculated
-Status : Implied Alignments : 3 of 23 -- vertices calculated
-Status : Implied Alignments : 4 of 23 -- vertices calculated
-Status : Implied Alignments : 5 of 23 -- vertices calculated
-Status : Implied Alignments : 6 of 23 -- vertices calculated
-Status : Implied Alignments : 7 of 23 -- vertices calculated
-Status : Implied Alignments : 8 of 23 -- vertices calculated
-Status : Implied Alignments : 9 of 23 -- vertices calculated
-Status : Implied Alignments : 10 of 23 -- vertices calculated
-Status : Implied Alignments : 11 of 23 -- vertices calculated
-Status : Implied Alignments : 12 of 23 -- vertices calculated
-Status : Implied Alignments : 13 of 23 -- vertices calculated
-Status : Implied Alignments : 14 of 23 -- vertices calculated
-Status : Implied Alignments : 15 of 23 -- vertices calculated
-Status : Implied Alignments : 16 of 23 -- vertices calculated
-Status : Implied Alignments : 17 of 23 -- vertices calculated
-Status : Implied Alignments : 18 of 23 -- vertices calculated
-Status : Implied Alignments : 19 of 23 -- vertices calculated
-Status : Implied Alignments : 20 of 23 -- vertices calculated
-Status : Implied Alignments : 21 of 23 -- vertices calculated
-Status : Implied Alignments Finished
-Status : Static Approximation Finished
-Status : Implied Alignments : 1 of 23 -- vertices calculated
-Status : Implied Alignments : 2 of 23 -- vertices calculated
-Status : Implied Alignments : 3 of 23 -- vertices calculated
-Status : Implied Alignments : 4 of 23 -- vertices calculated
-Status : Implied Alignments : 5 of 23 -- vertices calculated
-Status : Implied Alignments : 6 of 23 -- vertices calculated
-Status : Implied Alignments : 7 of 23 -- vertices calculated
-Status : Implied Alignments : 8 of 23 -- vertices calculated
-Status : Implied Alignments : 9 of 23 -- vertices calculated
-Status : Implied Alignments : 10 of 23 -- vertices calculated
-Status : Implied Alignments : 11 of 23 -- vertices calculated
-Status : Implied Alignments : 12 of 23 -- vertices calculated
-Status : Implied Alignments : 13 of 23 -- vertices calculated
-Status : Implied Alignments : 14 of 23 -- vertices calculated
-Status : Implied Alignments : 15 of 23 -- vertices calculated
-Status : Implied Alignments : 16 of 23 -- vertices calculated
-Status : Implied Alignments : 17 of 23 -- vertices calculated
-Status : Implied Alignments : 18 of 23 -- vertices calculated
-Status : Implied Alignments : 19 of 23 -- vertices calculated
-Status : Implied Alignments : 20 of 23 -- vertices calculated
-Status : Implied Alignments : 21 of 23 -- vertices calculated
-Status : Implied Alignments Finished
-Status : Static Approximation Finished
-Status : Implied Alignments : 1 of 23 -- vertices calculated
-Status : Implied Alignments : 2 of 23 -- vertices calculated
-Status : Implied Alignments : 3 of 23 -- vertices calculated
-Status : Implied Alignments : 4 of 23 -- vertices calculated
-Status : Implied Alignments : 5 of 23 -- vertices calculated
-Status : Implied Alignments : 6 of 23 -- vertices calculated
-Status : Implied Alignments : 7 of 23 -- vertices calculated
-Status : Implied Alignments : 8 of 23 -- vertices calculated
-Status : Implied Alignments : 9 of 23 -- vertices calculated
-Status : Implied Alignments : 10 of 23 -- vertices calculated
-Status : Implied Alignments : 11 of 23 -- vertices calculated
-Status : Implied Alignments : 12 of 23 -- vertices calculated
-Status : Implied Alignments : 13 of 23 -- vertices calculated
-Status : Implied Alignments : 14 of 23 -- vertices calculated
-Status : Implied Alignments : 15 of 23 -- vertices calculated
-Status : Implied Alignments : 16 of 23 -- vertices calculated
-Status : Implied Alignments : 17 of 23 -- vertices calculated
-Status : Implied Alignments : 18 of 23 -- vertices calculated
-Status : Implied Alignments : 19 of 23 -- vertices calculated
-Status : Implied Alignments : 20 of 23 -- vertices calculated
-Status : Implied Alignments : 21 of 23 -- vertices calculated
-Status : Implied Alignments Finished
-Status : Static Approximation Finished
-Status : Loading Characters : 0 of 12 -- Storing the character specifications
-Status : Loading Characters : 1 of 12 -- Storing the character specifications
-Status : Loading Characters : 2 of 12 -- Storing the character specifications
-Status : Loading Characters : 3 of 12 -- Storing the character specifications
-Status : Loading Characters : 4 of 12 -- Storing the character specifications
-Status : Loading Characters : 5 of 12 -- Storing the character specifications
-Status : Loading Characters : 6 of 12 -- Storing the character specifications
-Status : Loading Characters : 7 of 12 -- Storing the character specifications
-Status : Loading Characters : 8 of 12 -- Storing the character specifications
-Status : Loading Characters : 9 of 12 -- Storing the character specifications
-Status : Loading Characters :
-         10 of 12 -- Storing the character specifications
-Status : Loading Characters :
-         11 of 12 -- Storing the character specifications
-Status : Loading Characters :
-         12 of 12 -- Storing the character specifications
-Status : Loading Characters Finished
-Status : Loading Characters : 0 of 12 -- Storing the character specifications
-Status : Loading Characters : 1 of 12 -- Storing the character specifications
-Status : Loading Characters : 2 of 12 -- Storing the character specifications
-Status : Loading Characters : 3 of 12 -- Storing the character specifications
-Status : Loading Characters : 4 of 12 -- Storing the character specifications
-Status : Loading Characters : 5 of 12 -- Storing the character specifications
-Status : Loading Characters : 6 of 12 -- Storing the character specifications
-Status : Loading Characters : 7 of 12 -- Storing the character specifications
-Status : Loading Characters : 8 of 12 -- Storing the character specifications
-Status : Loading Characters : 9 of 12 -- Storing the character specifications
-Status : Loading Characters :
-         10 of 12 -- Storing the character specifications
-Status : Loading Characters :
-         11 of 12 -- Storing the character specifications
-Status : Loading Characters :
-         12 of 12 -- Storing the character specifications
-Status : Loading Characters Finished
-Status : Loading Characters : 0 of 12 -- Storing the character specifications
-Status : Loading Characters : 1 of 12 -- Storing the character specifications
-Status : Loading Characters : 2 of 12 -- Storing the character specifications
-Status : Loading Characters : 3 of 12 -- Storing the character specifications
-Status : Loading Characters : 4 of 12 -- Storing the character specifications
-Status : Loading Characters : 5 of 12 -- Storing the character specifications
-Status : Loading Characters : 6 of 12 -- Storing the character specifications
-Status : Loading Characters : 7 of 12 -- Storing the character specifications
-Status : Loading Characters : 8 of 12 -- Storing the character specifications
-Status : Loading Characters : 9 of 12 -- Storing the character specifications
-Status : Loading Characters :
-         10 of 12 -- Storing the character specifications
-Status : Loading Characters :
-         11 of 12 -- Storing the character specifications
-Status : Loading Characters :
-         12 of 12 -- Storing the character specifications
-Status : Loading Characters Finished
-Status : Loading Characters : 0 of 12 -- Storing the character specifications
-Status : Loading Characters : 1 of 12 -- Storing the character specifications
-Status : Loading Characters : 2 of 12 -- Storing the character specifications
-Status : Loading Characters : 3 of 12 -- Storing the character specifications
-Status : Loading Characters : 4 of 12 -- Storing the character specifications
-Status : Loading Characters : 5 of 12 -- Storing the character specifications
-Status : Loading Characters : 6 of 12 -- Storing the character specifications
-Status : Loading Characters : 7 of 12 -- Storing the character specifications
-Status : Loading Characters : 8 of 12 -- Storing the character specifications
-Status : Loading Characters : 9 of 12 -- Storing the character specifications
-Status : Loading Characters :
-         10 of 12 -- Storing the character specifications
-Status : Loading Characters :
-         11 of 12 -- Storing the character specifications
-Status : Loading Characters :
-         12 of 12 -- Storing the character specifications
-Status : Loading Characters Finished
 Status : Loading Characters : 0 of 12 -- Storing the character specifications
 Status : Loading Characters : 1 of 12 -- Storing the character specifications
 Status : Loading Characters : 2 of 12 -- Storing the character specifications
@@ -644,7 +317,7 @@ Status : Loading Characters :
 Status : Loading Characters Finished
 Information : Vectorized:161 of 161 characters.
 Status : Transforming : 1 of 1 --  transformations applied
-Status : Transforming : 185 of 167 --  characters transformed
+Status : Transforming : 190 of 163 --  characters transformed
 Status : Transforming Finished
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
@@ -655,7 +328,8 @@ Status : Diagnosis : 2 of 2 -- Recalculating trees
 Status : Diagnosis Finished
 Status : Alternate : 0 Beginning search
 Status : Alternate : 0 SPR search
-Status : SPR : 360 360.
+Status : SPR : 419 419.
+Status : SPR : 417 417.
 Status : SPR Finished
 Status : Alternate : 0 Performing TBR swapping
 Status : Single TBR Finished
@@ -674,8 +348,7 @@ Status : Diagnosis Finished
 Status : Ratcheting : 1 of 1 -- trees in the current optimum
 Status : Alternate : 0 Beginning search
 Status : Alternate : 0 SPR search
-Status : SPR : 461 461.
-Status : SPR : 458 458.
+Status : SPR : 534 534.
 Status : SPR Finished
 Status : Alternate : 0 Performing TBR swapping
 Status : Single TBR Finished
@@ -685,14 +358,7 @@ Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
 Status : Ratcheting Finished
 Status : Perturb Iteration Finished
-Status : Alternate : 0 Beginning search
-Status : Alternate : 0 SPR search
-Status : SPR : 356 356.
-Status : SPR Finished
-Status : Alternate : 0 Performing TBR swapping
-Status : Single TBR Finished
-Status : Alternate Finished
-Status : Running pipeline on each tree : 2 of 2 -- Estimated finish in 3 s
+Status : Running pipeline on each tree : 2 of 2 -- Estimated finish in 1 s
 Status : Perturb Iteration : 1 of 1 -- 
 Status : Ratcheting : 0 of 1 -- trees in the current optimum
 Information : Vectorized:161 of 161 characters.
@@ -701,13 +367,9 @@ Status : Diagnosis Finished
 Status : Ratcheting : 1 of 1 -- trees in the current optimum
 Status : Alternate : 0 Beginning search
 Status : Alternate : 0 SPR search
-Status : SPR : 468 468.
-Status : SPR : 467 467.
-Status : SPR Finished
-Status : Alternate : 0 Performing TBR swapping
-Status : Single TBR Finished
-Status : Alternate : 0 SPR search
-Status : SPR : 467 467.
+Status : SPR : 543 543.
+Status : SPR : 541 541.
+Status : SPR : 540 540.
 Status : SPR Finished
 Status : Alternate : 0 Performing TBR swapping
 Status : Single TBR Finished
@@ -717,10 +379,17 @@ Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
 Status : Ratcheting Finished
 Status : Perturb Iteration Finished
+Status : Alternate : 0 Beginning search
+Status : Alternate : 0 SPR search
+Status : SPR : 416 416.
+Status : SPR Finished
+Status : Alternate : 0 Performing TBR swapping
+Status : Single TBR Finished
+Status : Alternate Finished
 Status : Running pipeline on each tree Finished
 Information : 
                 Trees:
-                  Storing 2 trees with costs 356. to 360.
+                  Storing 2 trees with costs 416. to 421.
                   Best cost in 1 tree 
                 Cost Mode: Normal Direct Optimization
 PASSED
