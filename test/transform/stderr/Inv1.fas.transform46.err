@@ -3,7 +3,6 @@ Information : Reading file Inv1.fas of type input sequences
 
 Information : The file Inv1.fas contains sequences of 4 taxa, each sequence
               holding 7 fragments.
-Status : Loading Trees Finished
 Status : Random Trees build : 0 of 1 -- 
 Status : Random Trees build Finished
 Status : Running Pipeline : 1 of 1 -- Estimated finish in 0 s
