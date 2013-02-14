@@ -2,7 +2,6 @@ Information : Reading file 1.fas of type input sequences
 
 Information : The file 1.fas contains sequences of 49 taxa, each sequence
               holding 5 fragments.
-Status : Loading Trees Finished
 Information : Setting random seed value to 1
 Status : Wagner : 2 of 49 -- Wagner tree with cost 150.
 Status : Wagner : 3 of 49 -- Wagner tree with cost 233.
@@ -53,7 +52,7 @@ Status : Wagner : 47 of 49 -- Wagner tree with cost 597.
 Status : Wagner : 48 of 49 -- Wagner tree with cost 606.
 Status : Wagner Finished
 Status : Building Wagner Tree Finished
-Status : Running Pipeline : 1 of 2 -- Estimated finish in 6 s
+Status : Running Pipeline : 1 of 2 -- Estimated finish in 2 s
 Status : Wagner : 2 of 49 -- Wagner tree with cost 5.
 Status : Wagner : 3 of 49 -- Wagner tree with cost 5.
 Status : Wagner : 4 of 49 -- Wagner tree with cost 7.
@@ -113,7 +112,7 @@ Status : SPR Finished
 Status : Alternate : 0 Performing TBR swapping
 Status : Single TBR Finished
 Status : Alternate Finished
-Status : Tree search : 2 of 2 -- Estimated finish in 2 m, 4 s
+Status : Tree search : 2 of 2 -- Estimated finish in 45 s
 Status : Alternate : 0 Beginning search
 Status : Alternate : 0 SPR search
 Status : SPR : 607 607.

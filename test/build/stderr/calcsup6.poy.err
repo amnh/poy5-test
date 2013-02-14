@@ -4,7 +4,6 @@ Information : Reading file 2.fas of type input sequences
 Information : The file 2.fas contains sequences of 17 taxa, each sequence
               holding 1 fragment.
 
-Status : Loading Trees Finished
 Status : Selected 2 of 17 terminals
 Status : Wagner Finished
 Status : Building Wagner Tree Finished
