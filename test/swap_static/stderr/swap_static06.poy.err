@@ -94,7 +94,6 @@ Status : Loading Characters :
          49 of 49 -- Storing the character specifications
 Status : Loading Characters Finished
 Information : Vectorized:113 of 113 characters.
-Status : Loading Trees Finished
 Information : Reading file 31.ss of type hennig86/Nona
 
 Information : The file 31.ss defines 167 static homology characters,
@@ -191,7 +190,6 @@ Status : Loading Characters :
          49 of 49 -- Storing the character specifications
 Status : Loading Characters Finished
 Information : Vectorized:280 of 280 characters.
-Status : Loading Trees Finished
 Information : Reading file 32.ss of type hennig86/Nona
 
 Information : The file 32.ss defines 88 static homology characters,
@@ -288,7 +286,6 @@ Status : Loading Characters :
          49 of 49 -- Storing the character specifications
 Status : Loading Characters Finished
 Information : Vectorized:368 of 368 characters.
-Status : Loading Trees Finished
 Information : Reading file 33.ss of type hennig86/Nona
 
 Information : The file 33.ss defines 100 static homology characters,
@@ -385,7 +382,6 @@ Status : Loading Characters :
          49 of 49 -- Storing the character specifications
 Status : Loading Characters Finished
 Information : Vectorized:465 of 465 characters.
-Status : Loading Trees Finished
 Information : Reading file 34.ss of type hennig86/Nona
 
 Information : The file 34.ss defines 161 static homology characters,
@@ -482,7 +478,6 @@ Status : Loading Characters :
          49 of 49 -- Storing the character specifications
 Status : Loading Characters Finished
 Information : Vectorized:626 of 626 characters.
-Status : Loading Trees Finished
 Information : Setting random seed value to 1
 Status : Wagner : 2 of 49 -- Wagner tree with cost 226.
 Status : Wagner : 3 of 49 -- Wagner tree with cost 377.
@@ -533,6 +528,7 @@ Status : Wagner : 47 of 49 -- Wagner tree with cost 4376.
 Status : Wagner : 48 of 49 -- Wagner tree with cost 4462.
 Status : Wagner Finished
 Status : Building Wagner Tree Finished
+Status : Running Pipeline : 1 of 2 -- Estimated finish in 0 s
 Status : Wagner : 2 of 49 -- Wagner tree with cost 231.
 Status : Wagner : 3 of 49 -- Wagner tree with cost 373.
 Status : Wagner : 4 of 49 -- Wagner tree with cost 583.
@@ -582,9 +578,11 @@ Status : Wagner : 47 of 49 -- Wagner tree with cost 4314.
 Status : Wagner : 48 of 49 -- Wagner tree with cost 4401.
 Status : Wagner Finished
 Status : Building Wagner Tree Finished
+Status : Running Pipeline : 2 of 2 -- Estimated finish in 0 s
 Status : Running Pipeline Finished
 Status : Running pipeline on each tree : 1 of 2 -- 
 Status : Single TBR Finished
+Status : Running pipeline on each tree : 2 of 2 -- Estimated finish in 0 s
 Status : Single TBR Finished
 Status : Running pipeline on each tree Finished
 Information : 
