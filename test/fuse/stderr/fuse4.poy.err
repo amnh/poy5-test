@@ -12,6 +12,7 @@ Warning : The following terminals do not appear in the input tree 1 of file
           appearing in the new trees will be missing on this one and could
           cause errors.
 Status : Loading Trees : 1 of 1 -- 
+Status : Loading Trees Finished
 Status : Wagner : 2 of 17 -- Wagner tree with cost 42.
 Status : Wagner : 3 of 17 -- Wagner tree with cost 55.
 Status : Wagner : 4 of 17 -- Wagner tree with cost 74.
