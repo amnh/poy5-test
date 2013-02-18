@@ -3,7 +3,6 @@ Information : Reading file 16.fas of type input sequences
 
 Information : The file 16.fas contains sequences of 49 taxa, each sequence
               holding 6 fragments.
-Status : Loading Trees Finished
 Status : Selected 5 of 49 terminals
 Status : Transforming : 1 of 1 --  transformations applied
 Status : Transforming : 6 of 6 --  characters transformed
