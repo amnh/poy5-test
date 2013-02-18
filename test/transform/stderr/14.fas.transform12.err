@@ -4,7 +4,6 @@ Information : Reading file 14.fas of type input sequences
 Information : The file 14.fas contains sequences of 49 taxa, each sequence
               holding 1 fragment.
 
-Status : Loading Trees Finished
 Status : Wagner : 2 of 49 -- Wagner tree with cost 37.
 Status : Wagner : 3 of 49 -- Wagner tree with cost 56.
 Status : Wagner : 4 of 49 -- Wagner tree with cost 70.

@@ -4,7 +4,6 @@ Information : Reading file 25.fas of type input sequences
 Information : The file 25.fas contains sequences of 49 taxa, each sequence
               holding 1 fragment.
 
-Status : Loading Trees Finished
 Information : Reading file 34.ss of type hennig86/Nona
 
 Information : The file 34.ss defines 161 static homology characters,
@@ -101,19 +100,13 @@ Status : Loading Characters :
          49 of 49 -- Storing the character specifications
 Status : Loading Characters Finished
 Information : Vectorized:161 of 161 characters.
-Status : Loading Trees Finished
 Status : Calculating Three Dimensional Aminoacid Cost Matrix Finished
 Information : The file 41.aa contains sequences of 47 taxa, each sequence
               holding 1 fragment.
 
 Information : Vectorized:161 of 161 characters.
-Status : Loading Trees Finished
 Information : Vectorized:161 of 161 characters.
 Status : Selected 5 of 49 terminals
-Warning : This operation may require large amounts of memory
-Warning : This operation may require large amounts of memory
-Warning : This operation may require large amounts of memory
-Warning : This operation may require large amounts of memory
 Information : Vectorized:161 of 161 characters.
 Status : Transforming : 1 of 1 --  transformations applied
 Status : Transforming : 2 of 163 --  characters transformed
