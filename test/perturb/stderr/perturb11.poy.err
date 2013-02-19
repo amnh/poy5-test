@@ -3,17 +3,14 @@ Information : Reading file 1.fas of type input sequences
 
 Information : The file 1.fas contains sequences of 49 taxa, each sequence
               holding 5 fragments.
-Status : Loading Trees Finished
 Information : Reading file 3.fas of type input sequences
 
 Information : The file 3.fas contains sequences of 49 taxa, each sequence
               holding 2 fragments.
-Status : Loading Trees Finished
 Status : Calculating Three Dimensional Aminoacid Cost Matrix Finished
 Information : The file 40.aa contains sequences of 42 taxa, each sequence
               holding 1 fragment.
 
-Status : Loading Trees Finished
 Information : Selected Terminals:
               
 

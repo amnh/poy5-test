@@ -3,7 +3,6 @@ Information : Reading file 16.fas of type input sequences
 
 Information : The file 16.fas contains sequences of 49 taxa, each sequence
               holding 6 fragments.
-Status : Loading Trees Finished
 Information : Reading file 32.ss of type hennig86/Nona
 
 Information : The file 32.ss defines 88 static homology characters,
@@ -100,7 +99,6 @@ Status : Loading Characters :
          49 of 49 -- Storing the character specifications
 Status : Loading Characters Finished
 Information : Vectorized:88 of 88 characters.
-Status : Loading Trees Finished
 Information : Selected Terminals:
               
 
