@@ -8,7 +8,7 @@ build(2)
 set(opt:coarse)
 transform(likelihood:(FILENAME2,mpl,gap:FILENAME3))
 
-swap(all,spr, optimize:(model:(threshold:1.3), branch:join_delta))
+swap(all,spr, optimize:(model:threshold:1.3, branch:join_delta))
 report(all_roots)
 
 rediagnose(preserve)
