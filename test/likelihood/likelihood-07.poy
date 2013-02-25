@@ -8,6 +8,6 @@ transform(likelihood:(ncm,FILENAME2))
 swap()
 
 transform(parsimony)
-transform(likelihood:(ncm, gap:(character)))
+transform(likelihood:(ncm, gap:character))
 transform(parsimony)
 transform(likelihood:(ncm))

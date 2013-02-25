@@ -5,7 +5,7 @@ set( opt:coarse )
 read(prealigned:("FILENAME1", tcm:(1,1)))
 read("FILENAME2")
 build(2,random)
-transform(FILENAME3:(FILENAME4,mpl,gap:(coupled)))
+transform(FILENAME3:(FILENAME4,mpl,gap:coupled))
 
 report(all_roots)
 report(lkmodel)

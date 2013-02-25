@@ -2,6 +2,6 @@
 set (seed:1)
 read("FILENAME1")
 build(1)
-transform(FILENAME2:(FILENAME3,mpl,gap:(FILENAME4)))
+transform(FILENAME2:(FILENAME3,mpl,gap:FILENAME4))
 report(all_roots)
 report(lkmodel)
