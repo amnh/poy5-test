@@ -8,9 +8,13 @@ read( prealigned:("FILENAME2", tcm:(1,1)) )
 build(2,random)
 
 transform( likelihood:(jc69) )
+report( all_roots )
 report( lkmodel )
+transform( parsimony )
 report( all_roots )
 
+transform( likelihood:(jc69) )
+report( all_roots )
+report( lkmodel )
 transform( parsimony )
-
 report( all_roots )

@@ -1,9 +1,10 @@
-(* prealigned [e]Likelihood w/ gamma; w/ 4 arguments *)
+(* mixed likelihood model selection *)
 set (seed:1, timer:0)
-read(prealigned:("FILENAME1", tcm:(1,1)))
-
-build(1,random)
+read(prealigned:("FILENAME1", tcm:(1,1)), "FILENAME2")
+build(1)
 set(opt:no_opt)
-transform(FILENAME2:(FILENAME3,FILENAME4,gap:FILENAME5,rates:theta:(4)))
-report(all_roots)
+
+transform( (names:("FILENAME1"), (likelihood:(bic,rates:gamma:(4))) ))
+transform( (names:("FILENAME2"), (likelihood:(bic,mpl, gap:character, rates:gamma:(4))) ))
+
 report(lkmodel)

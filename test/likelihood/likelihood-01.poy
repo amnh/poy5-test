@@ -9,4 +9,3 @@ transform(FILENAME3:(FILENAME4,mpl,gap:coupled))
 
 report(all_roots)
 report(lkmodel)
-report(ia:all)
