@@ -1,0 +1,9 @@
+(* mixed likelihood model selection *)
+set (seed:1, timer:0)
+read(prealigned:("FILENAME1", tcm:(1,1)), "FILENAME2")
+build(1)
+set(opt:no_opt)
+
+transform( likelihood:(bic,mpl,gap:character,rates:gamma:(4)) )
+
+report(lkmodel)
