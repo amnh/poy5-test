@@ -6,7 +6,7 @@ read(prealigned:("FILENAME1",tcm:(1,1)), "FILENAME2")
 build(3)
 
 transform( (names:("FILENAME1"), (likelihood:(ncm))) )
-transform( (names:("FILENAME2"), (likelihood:(gtr))) )
+transform( (names:("FILENAME2"), (likelihood:(gtr, gap:coupled))) )
 
 report( lkmodel )
 report( all_roots )
