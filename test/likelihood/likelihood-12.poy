@@ -1,6 +1,6 @@
 (* test dynamic [e]likelihood model selection *)
 set (seed:1)
-set( opt:no_opt )
+set( opt:coarse )
 read("FILENAME1")
 build(1)
 transform(likelihood:(aic,mpl,gap:FILENAME2))
