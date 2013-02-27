@@ -10,7 +10,7 @@ set(opt:coarse:2)
 transform((names:("FILENAME1"),(elikelihood:(k80,mpl,gap:coupled))))
 transform((names:("FILENAME2"),(elikelihood:(gtr,mpl,gap:coupled))))
 
-swap(all,spr, optimize:(model:(threshold:1.3), branch:join_delta))
+swap(all,spr, optimize:(model:threshold:1.3, branch:join_delta))
 
 report(all_roots)
 rediagnose( preserve )
