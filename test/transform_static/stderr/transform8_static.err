@@ -384,7 +384,7 @@ Status : Loading Characters :
 Status : Loading Characters Finished
 Information : Vectorized:513 of 513 characters.
 Information : Vectorized:513 of 513 characters.
-Status : Selected 5 of 49 terminals
+Information : Selected 5 of 49 terminals
 Status : Wagner : 2 of 5 -- Wagner tree with cost 172.
 Status : Wagner : 3 of 5 -- Wagner tree with cost 291.
 Status : Wagner : 4 of 5 -- Wagner tree with cost 384.

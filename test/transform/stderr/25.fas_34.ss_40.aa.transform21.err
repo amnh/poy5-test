@@ -4,7 +4,7 @@ Information : Reading file 25.fas of type input sequences
 Information : The file 25.fas contains sequences of 49 taxa, each sequence
               holding 1 fragment.
 
-Status : Selected 5 of 49 terminals
+Information : Selected 5 of 49 terminals
 Status : Transforming : 1 of 1 --  transformations applied
 Status : Transforming : 1 of 1 --  characters transformed
 Status : Transforming Finished

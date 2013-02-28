@@ -3,7 +3,7 @@ Information : Reading file 1.fas of type input sequences
 
 Information : The file 1.fas contains sequences of 49 taxa, each sequence
               holding 5 fragments.
-Status : Selected 6 of 49 terminals
+Information : Selected 6 of 49 terminals
 Status : Wagner : 2 of 6 -- Wagner tree with cost 4.
 Status : Wagner : 3 of 6 -- Wagner tree with cost 53.
 Status : Wagner : 4 of 6 -- Wagner tree with cost 62.
