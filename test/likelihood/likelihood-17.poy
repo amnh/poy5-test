@@ -1,0 +1,9 @@
+(* Script for Static Topology Support *)
+set (seed:1,timer:0)
+read(prealigned:("FILENAME1", tcm:(1,1)))
+build()
+set(opt:coarse:2)
+swap( all:3,spr )
+
+transform( elikelihood:(k80,mal,gap:missing) )
+report( topologytest:(FILENAME2, n:10, k:5, full) )
