@@ -1,0 +1,15 @@
+Information : Setting random seed value to 50
+Information : Reading file 2.fas of type input sequences
+
+Information : The file 2.fas contains sequences of 17 taxa, each sequence
+              holding 1 fragment.
+
+Information : Selected 2 of 17 terminals
+Status : Transforming : 1 of 1 --  transformations applied
+Status : Transforming : 1 of 1 --  characters transformed
+Status : Transforming Finished
+Information : 
+                Trees:
+                  Storing 0 trees 
+                Cost Mode: Normal Direct Optimization
+PASSED
