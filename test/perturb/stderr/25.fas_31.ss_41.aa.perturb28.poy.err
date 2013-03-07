@@ -196,7 +196,7 @@ Status : TBR : 875 875.
 Status : TBR : 867 867.
 Status : TBR : 866 866.
 Status : TBR Finished
-Status : Tree search : 3 of 5 -- Estimated finish in 3 s
+Status : Tree search : 3 of 5 -- Estimated finish in 4 s
 Status : TBR : 985 985.
 Status : TBR : 955 955.
 Status : TBR : 951 951.
@@ -209,7 +209,7 @@ Status : TBR : 792 792.
 Status : TBR : 786 786.
 Status : TBR : 778 778.
 Status : TBR Finished
-Status : Tree search : 4 of 5 -- Estimated finish in 3 s
+Status : Tree search : 4 of 5 -- Estimated finish in 4 s
 Status : TBR : 977 977.
 Status : TBR : 965 965.
 Status : TBR : 957 957.
@@ -224,7 +224,7 @@ Status : TBR : 828 828.
 Status : TBR : 780 780.
 Status : TBR : 778 778.
 Status : TBR Finished
-Status : Tree search : 5 of 5 -- Estimated finish in 1 s
+Status : Tree search : 5 of 5 -- Estimated finish in 2 s
 Status : TBR : 971 971.
 Status : TBR : 967 967.
 Status : TBR : 962 962.
@@ -239,7 +239,7 @@ Status : TBR : 788 788.
 Status : TBR : 782 782.
 Status : TBR Finished
 Status : Tree search Finished
-Status : Running pipeline on each tree : 2 of 2 -- Estimated finish in 9 s
+Status : Running pipeline on each tree : 2 of 2 -- Estimated finish in 10 s
 Status : Perturb Iteration : 1 of 1 -- 
 Status : Resampling Characters : 0 of 1 -- trees in the current optimum
 Information : Vectorized:9 of 9 characters.

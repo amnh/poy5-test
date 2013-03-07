@@ -1,0 +1,7 @@
+(* Build report trees with parsimony branches; mixxed *)
+set(seed:50, timer:0)
+read ("4.fas", "30.ss")
+build (2)
+report (trees:(branches:min))
+report (trees:(branches:max))
+report (trees:(branches:single))

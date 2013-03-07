@@ -244,7 +244,7 @@ Status : Perturbing : 7 of 19 -- Estimated finish in 1 s
 Information : Vectorized:97 of 97 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
-Status : Perturbing : 8 of 19 -- Estimated finish in 1 s
+Status : Perturbing : 8 of 19 -- Estimated finish in 0 s
 Information : Vectorized:97 of 97 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
@@ -301,7 +301,7 @@ Status : TBR Finished
 Status : Tree search : 2 of 8 -- Estimated finish in 3 s
 Status : TBR : 473 473.
 Status : TBR Finished
-Status : Tree search : 3 of 8 -- Estimated finish in 3 s
+Status : Tree search : 3 of 8 -- Estimated finish in 2 s
 Status : TBR : 475 475.
 Status : TBR Finished
 Status : Tree search : 4 of 8 -- Estimated finish in 2 s

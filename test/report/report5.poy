@@ -1,0 +1,7 @@
+(* Build report trees with parsimony branches; dynamic *)
+set(seed:50, timer:0)
+read ("1.fas")
+build (2)
+report (trees:(branches:min))
+report (trees:(branches:max))
+report (trees:(branches:single))
