@@ -1,5 +1,0 @@
-(* Read and transform custom alphabet to breakinv produce xml output*)
-read (custom_alphabet:("ca1.fas",cm:"m1.fas"))
-transform ((all, custom_to_breakinv:()))
-build (1)
-report (data, diagnosis)
