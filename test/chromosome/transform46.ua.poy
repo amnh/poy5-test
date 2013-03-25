@@ -1,4 +1,4 @@
-(* Read unannotated chromosome using default parameter.  Locus dcj set to 1000 *)
+(* Read unannotated chromosome using default parameter.*)
 
 set(seed:1,timer:0)
 read(chromosome:("FILENAME1"))
