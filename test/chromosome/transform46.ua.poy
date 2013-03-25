@@ -2,6 +2,6 @@
 
 set(seed:1,timer:0)
 read(chromosome:("FILENAME1"))
-transform(chromosome:(locus_indel:(10,0.9),locus_dcj:1000,annotate:(mauve,35.0,0.30,0.01,0.10),circular:false))
+transform(chromosome:(locus_indel:(10,0.9),annotate:(mauve,35.0,0.30,0.01,0.10),circular:false))
 transform(fixed_states:("chr6", ignore_polymorphism))
 build(2)

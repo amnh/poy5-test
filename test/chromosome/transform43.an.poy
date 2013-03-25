@@ -1,6 +1,6 @@
-(* Read annotated chromosome using default parameter.  Transform using locus_dcj *)
+(* Read annotated chromosome using default parameter.  Transform using default *)
 
 set(seed:1, timer:0)
 read(annotated:("FILENAME1"))
-transform(annotated:(locus_indel:(10,0.9),locus_dcj:10,median_solver:caprara,circular:false))
+transform(annotated:(locus_indel:(10,0.9),median_solver:caprara,circular:false))
 build(2)
