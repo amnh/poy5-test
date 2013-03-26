@@ -1,11 +1,10 @@
-(* Read genome and transform using default parameters.  Chrom_indel 10,0.9; Translocation 10; chrom_breakpoint 100; chrom_hom:0.75 *)
+(* Read genome and transform using default parameters.  Chrom_indel 10,0.9; Translocation 10; chrom_hom:0.75 *)
 
 set(seed:1, timer:0)
 read(genome:("FILENAME1"))
 transform(chromosome:(locus_indel:(10,0.9), locus_breakpoint:10,annotate:(mauve,35.0, 0.30,0.01, 0.10)))
 transform(genome:(chrom_indel:(100,0.5)))
 transform(genome:(translocation:100))
-transform(genome:(chrom_breakpoint:10))
 transform(genome:(chrom_hom:0.30))
 transform(fixed_states:("gen10", ignore_polymorphism))
 build(2)
