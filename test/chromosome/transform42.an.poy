@@ -1,6 +1,6 @@
-(* Read annotated chromosome using default parameter using locus inversion. Caprara median solver *)
+(* Read annotated chromosome using default parameter using locus inversion. *)
 
 set(seed:1, timer:0)
 read(annotated:("FILENAME1"))
-transform(annotated:(locus_indel:(10,0.9),locus_inversion:10,median_solver:caprara,circular:false))
+transform(annotated:(locus_indel:(10,0.9),locus_inversion:10,median_solver:FILENAME2,circular:false))
 build(2)
