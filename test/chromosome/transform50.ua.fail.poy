@@ -1,0 +1,8 @@
+(* Read unannotated chromosome using default parameter using locus breakpoint. Caprara median solver.  Metricity problem locus indel *)
+
+set(seed:1,timer:0)
+read(chromosome:("FILENAME1"))
+transform(chromosome:(locus_indel:(1,0.1),locus_breakpoint:10,annotate:(mauve,35.0,0.30,0.01,0.10),circular:false))
+transform(fixed_states:("chr10", ignore_polymorphism))
+build(2)
+

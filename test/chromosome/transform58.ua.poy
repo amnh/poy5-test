@@ -1,0 +1,8 @@
+(* Read nucleotide file (i.e. unannotated chromosome) and transform to chromosome *)
+
+set(seed:1,timer:0)
+read(nucleotide:("FILENAME1"))
+transform(seq_to_chrom:(locus_indel:(10,0.9),locus_breakpoint:100,annotate:(mauve,35.0,0.30,0.01,0.10),circular:false))
+transform(fixed_states:("chr18", ignore_polymorphism))
+build(2)
+

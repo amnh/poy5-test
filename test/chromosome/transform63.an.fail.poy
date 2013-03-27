@@ -1,0 +1,6 @@
+(* Read annotated chromosome using default parameter. median:10, med_approx:true, max_kept_wag:10 *)
+
+set(seed:1, timer:0)
+read(annotated:("FILENAME1"))
+transform(annotated:(locus_indel:(10,0.9),locus_breakpoint:10,median_solver:caprara,circular:false, median:10, med_approx:true, max_kept_wag:10))
+build(2)

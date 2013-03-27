@@ -1,0 +1,7 @@
+(* Read genome and transform using default parameters.  *)
+
+set(seed:1, timer:0)
+read(genome:("FILENAME1"))
+transform(chromosome:(locus_indel:(10,0.9), locus_breakpoint:10,annotate:(mauve,35.0, 0.30,0.01, 0.10)))
+transform(fixed_states:("gen8", ignore_polymorphism))
+build(2)
