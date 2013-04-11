@@ -1,0 +1,6 @@
+(* Read breakinv with level:3, at_random *)
+
+set (seed:1, timer:0)
+read(breakinv:("FILENAME1",tcm:("alphabet"), level:(3,at_random)))
+build(2)
+swap(2)
