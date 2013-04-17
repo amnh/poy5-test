@@ -1,4 +1,0 @@
-(* Build and swap chel.aln *)
-read ("FILENAME1")
-build (1)
-swap (trajectory, timeout:60)

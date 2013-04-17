@@ -1,12 +1,11 @@
 (* Script for mixing aligned and prealigned data; cost must be mpl *)
 set (seed:1,timer:0)
 
-set( opt:coarse )
+set( opt:coarse:1 )
 read(prealigned:("FILENAME1", tcm:(1,1)))
 read("FILENAME2")
-build(2,random)
-transform(FILENAME3:(FILENAME4,mpl,gap:(coupled)))
+build(1)
+transform(FILENAME3:(FILENAME4,mpl,gap:coupled))
 
 report(all_roots)
 report(lkmodel)
-report(ia:all)

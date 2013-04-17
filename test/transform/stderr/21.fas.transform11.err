@@ -3,7 +3,7 @@ Information : Reading file 21.fas of type input sequences
 
 Information : The file 21.fas contains sequences of 49 taxa, each sequence
               holding 2 fragments.
-Status : Selected 5 of 49 terminals
+Information : Selected 5 of 49 terminals
 Status : Wagner : 2 of 5 -- Wagner tree with cost 6.
 Status : Wagner : 3 of 5 -- Wagner tree with cost 23.
 Status : Wagner : 4 of 5 -- Wagner tree with cost 31.

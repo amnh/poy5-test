@@ -1,3 +1,0 @@
-(* Read and build  custom alphabet *)
-read (custom_alphabet:("ca2.fas",cm:"m1.fas"))
-build (1)

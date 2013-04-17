@@ -4,7 +4,7 @@ Information : Reading file 27.fas of type input sequences
 Information : The file 27.fas contains sequences of 47 taxa, each sequence
               holding 6 fragments.
 Status : Loading Trees Finished
-Status : Selected 5 of 47 terminals
+Information : Selected 5 of 47 terminals
 Status : Transforming : 1 of 1 --  transformations applied
 Status : Transforming : 6 of 6 --  characters transformed
 Status : Transforming Finished

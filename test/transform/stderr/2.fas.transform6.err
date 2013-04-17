@@ -1,0 +1,30 @@
+Information : Setting random seed value to 1
+Information : Reading file 2.fas of type input sequences
+
+Information : The file 2.fas contains sequences of 17 taxa, each sequence
+              holding 1 fragment.
+
+Information : Selected 2 of 17 terminals
+Status : Wagner Finished
+Status : Building Wagner Tree Finished
+Status : Running Pipeline : 1 of 2 -- Estimated finish in 0 s
+Status : Wagner Finished
+Status : Building Wagner Tree Finished
+Status : Running Pipeline : 2 of 2 -- Estimated finish in 0 s
+Status : Running Pipeline Finished
+Status : Transforming : 1 of 1 --  transformations applied
+Status : Transforming : 3 of 1 --  characters transformed
+Status : Transforming Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 2 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 2 of 2 -- Recalculating trees
+Status : Diagnosis Finished
+Information : 
+                Trees:
+                  Storing 2 trees with costs 54. to 54.
+                  Best cost in 2 trees 
+                Cost Mode: Normal Direct Optimization
+PASSED

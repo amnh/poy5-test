@@ -111,7 +111,7 @@ Information :
 Information : Total included: 12
 Information : Total excluded: 37
 Information : Vectorized:97 of 97 characters.
-Status : Selected 12 of 49 terminals
+Information : Selected 12 of 49 terminals
 Status : Wagner : 2 of 12 -- Wagner tree with cost 40.
 Status : Wagner : 3 of 12 -- Wagner tree with cost 158.
 Status : Wagner : 4 of 12 -- Wagner tree with cost 190.
@@ -576,19 +576,19 @@ Status : Untransforming Characters : 1 of 25 --
 Information : Vectorized:97 of 97 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
-Status : Untransforming Characters : 2 of 25 -- Estimated finish in 1 s
+Status : Untransforming Characters : 2 of 25 -- Estimated finish in 0 s
 Information : Vectorized:97 of 97 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
-Status : Untransforming Characters : 3 of 25 -- Estimated finish in 1 s
+Status : Untransforming Characters : 3 of 25 -- Estimated finish in 0 s
 Information : Vectorized:97 of 97 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
-Status : Untransforming Characters : 4 of 25 -- Estimated finish in 1 s
+Status : Untransforming Characters : 4 of 25 -- Estimated finish in 0 s
 Information : Vectorized:97 of 97 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
-Status : Untransforming Characters : 5 of 25 -- Estimated finish in 1 s
+Status : Untransforming Characters : 5 of 25 -- Estimated finish in 0 s
 Information : Vectorized:97 of 97 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished

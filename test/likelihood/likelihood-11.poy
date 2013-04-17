@@ -1,6 +1,5 @@
 (* Script for mixing aligned and prealigned data; cost must be mpl *)
 set (seed:1,timer:0)
-read(FILENAME1)
+read( prealigned:("FILENAME1", tcm:(1,0)) )
 build(1)
-swap()
-transform(likelihood:(aic,FILENAME2))
+transform(likelihood:(aic,rates:gamma:(4)))

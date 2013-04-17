@@ -112,7 +112,7 @@ Information :
 Information : Total included: 12
 Information : Total excluded: 37
 Information : Vectorized:88 of 88 characters.
-Status : Selected 12 of 49 terminals
+Information : Selected 12 of 49 terminals
 Status : Wagner : 2 of 12 -- Wagner tree with cost 1288.
 Status : Wagner : 3 of 12 -- Wagner tree with cost 1956.
 Status : Wagner : 4 of 12 -- Wagner tree with cost 2418.
@@ -265,7 +265,7 @@ Status : Perturbing : 1 of 25 --
 Information : Vectorized:88 of 88 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
-Status : Perturbing : 2 of 25 -- Estimated finish in 1 s
+Status : Perturbing : 2 of 25 -- Estimated finish in 2 s
 Information : Vectorized:88 of 88 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
@@ -277,7 +277,7 @@ Status : Perturbing : 4 of 25 -- Estimated finish in 1 s
 Information : Vectorized:88 of 88 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
-Status : Perturbing : 5 of 25 -- Estimated finish in 1 s
+Status : Perturbing : 5 of 25 -- Estimated finish in 2 s
 Information : Vectorized:88 of 88 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
@@ -368,7 +368,7 @@ Status : Untransforming Characters : 1 of 25 --
 Information : Vectorized:88 of 88 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
-Status : Untransforming Characters : 2 of 25 -- Estimated finish in 55 s
+Status : Untransforming Characters : 2 of 25 -- Estimated finish in 57 s
 Information : Vectorized:88 of 88 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
@@ -610,7 +610,7 @@ Status : Perturbing : 6 of 25 -- Estimated finish in 1 s
 Information : Vectorized:88 of 88 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
-Status : Perturbing : 7 of 25 -- Estimated finish in 2 s
+Status : Perturbing : 7 of 25 -- Estimated finish in 1 s
 Information : Vectorized:88 of 88 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
@@ -654,11 +654,11 @@ Status : Perturbing : 17 of 25 -- Estimated finish in 1 s
 Information : Vectorized:88 of 88 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
-Status : Perturbing : 18 of 25 -- Estimated finish in 1 s
+Status : Perturbing : 18 of 25 -- Estimated finish in 0 s
 Information : Vectorized:88 of 88 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
-Status : Perturbing : 19 of 25 -- Estimated finish in 1 s
+Status : Perturbing : 19 of 25 -- Estimated finish in 0 s
 Information : Vectorized:88 of 88 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
@@ -693,7 +693,7 @@ Status : Untransforming Characters : 1 of 25 --
 Information : Vectorized:88 of 88 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
-Status : Untransforming Characters : 2 of 25 -- Estimated finish in 43 s
+Status : Untransforming Characters : 2 of 25 -- Estimated finish in 46 s
 Information : Vectorized:88 of 88 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished

@@ -112,7 +112,7 @@ Information :
 Information : Total included: 12
 Information : Total excluded: 37
 Information : Vectorized:97 of 97 characters.
-Status : Selected 12 of 49 terminals
+Information : Selected 12 of 49 terminals
 Status : Wagner : 2 of 12 -- Wagner tree with cost 94.
 Status : Wagner : 3 of 12 -- Wagner tree with cost 152.
 Status : Wagner : 4 of 12 -- Wagner tree with cost 203.
@@ -190,7 +190,7 @@ Status : TBR : 618 618.
 Status : TBR : 614 614.
 Status : TBR : 611 611.
 Status : TBR Finished
-Status : Tree search : 2 of 5 -- Estimated finish in 6 s
+Status : Tree search : 2 of 5 -- Estimated finish in 7 s
 Status : TBR : 640 640.
 Status : TBR : 637 637.
 Status : TBR : 636 636.
@@ -213,7 +213,7 @@ Status : TBR : 621 621.
 Status : TBR : 618 618.
 Status : TBR : 614 614.
 Status : TBR Finished
-Status : Tree search : 4 of 5 -- Estimated finish in 2 s
+Status : Tree search : 4 of 5 -- Estimated finish in 3 s
 Status : TBR : 628 628.
 Status : TBR Finished
 Status : Tree search : 5 of 5 -- Estimated finish in 1 s
@@ -278,7 +278,7 @@ Status : TBR : 621 621.
 Status : TBR : 613 613.
 Status : TBR : 612 612.
 Status : TBR Finished
-Status : Tree search : 2 of 5 -- Estimated finish in 5 s
+Status : Tree search : 2 of 5 -- Estimated finish in 6 s
 Status : TBR : 623 623.
 Status : TBR : 619 619.
 Status : TBR : 616 616.

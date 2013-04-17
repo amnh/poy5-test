@@ -1,13 +1,13 @@
 (* Static NCM Test; w/ 1 argument *)
 set (seed:1, timer:0)
-read(FILENAME1)
+read(prealigned:("FILENAME1", tcm:(1,1)))
 build(1,random)
 
-transform(likelihood:(ncm,FILENAME2))
+transform(likelihood:(ncm))
 
 swap()
 
 transform(parsimony)
-transform(likelihood:(ncm, gap:(character)))
+transform(likelihood:(ncm, gap:character))
 transform(parsimony)
 transform(likelihood:(ncm))

@@ -112,7 +112,7 @@ Information :
 Information : Total included: 12
 Information : Total excluded: 37
 Information : Vectorized:97 of 97 characters.
-Status : Selected 12 of 49 terminals
+Information : Selected 12 of 49 terminals
 Status : Wagner : 2 of 12 -- Wagner tree with cost 1246.
 Status : Wagner : 3 of 12 -- Wagner tree with cost 1928.
 Status : Wagner : 4 of 12 -- Wagner tree with cost 2407.
@@ -162,11 +162,11 @@ Status : Perturbing : 1 of 5 --
 Information : Vectorized:97 of 97 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
-Status : Perturbing : 2 of 5 -- Estimated finish in 16 s
+Status : Perturbing : 2 of 5 -- Estimated finish in 17 s
 Information : Vectorized:97 of 97 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
-Status : Perturbing : 3 of 5 -- Estimated finish in 12 s
+Status : Perturbing : 3 of 5 -- Estimated finish in 13 s
 Information : Vectorized:97 of 97 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
@@ -197,7 +197,7 @@ Status : TBR : 5536 5536.
 Status : TBR : 5527 5527.
 Status : TBR : 5516 5516.
 Status : TBR Finished
-Status : Tree search : 2 of 5 -- Estimated finish in 8 m, 32 s
+Status : Tree search : 2 of 5 -- Estimated finish in 8 m, 40 s
 Status : TBR : 6522 6522.
 Status : TBR : 6499 6499.
 Status : TBR : 6488 6488.
@@ -213,7 +213,7 @@ Status : TBR : 5830 5830.
 Status : TBR : 5811 5811.
 Status : TBR : 5795 5795.
 Status : TBR Finished
-Status : Tree search : 3 of 5 -- Estimated finish in 6 m, 48 s
+Status : Tree search : 3 of 5 -- Estimated finish in 6 m, 57 s
 Status : TBR : 6441 6441.
 Status : TBR : 6172 6172.
 Status : TBR : 6157 6157.
@@ -235,7 +235,7 @@ Status : TBR : 5531 5531.
 Status : TBR : 5529 5529.
 Status : TBR : 5516 5516.
 Status : TBR Finished
-Status : Tree search : 4 of 5 -- Estimated finish in 5 m, 16 s
+Status : Tree search : 4 of 5 -- Estimated finish in 5 m, 25 s
 Status : TBR : 6495 6495.
 Status : TBR : 6490 6490.
 Status : TBR : 6217 6217.
@@ -249,7 +249,7 @@ Status : TBR : 5556 5556.
 Status : TBR : 5550 5550.
 Status : TBR : 5516 5516.
 Status : TBR Finished
-Status : Tree search : 5 of 5 -- Estimated finish in 2 m, 31 s
+Status : Tree search : 5 of 5 -- Estimated finish in 2 m, 35 s
 Status : TBR : 6466 6466.
 Status : TBR : 6448 6448.
 Status : TBR : 6408 6408.
@@ -272,7 +272,7 @@ Status : TBR : 5541 5541.
 Status : TBR Finished
 Status : Tree search Finished
 Status : Running pipeline on each tree :
-         2 of 2 -- Estimated finish in 18 m, 17 s
+         2 of 2 -- Estimated finish in 18 m, 40 s
 Status : Perturb Iteration : 1 of 1 -- 
 Status : Resampling Characters : 0 of 1 -- trees in the current optimum
 Information : Vectorized:9 of 9 characters.
@@ -292,15 +292,15 @@ Status : Perturbing : 1 of 5 --
 Information : Vectorized:97 of 97 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
-Status : Perturbing : 2 of 5 -- Estimated finish in 21 s
+Status : Perturbing : 2 of 5 -- Estimated finish in 22 s
 Information : Vectorized:97 of 97 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
-Status : Perturbing : 3 of 5 -- Estimated finish in 15 s
+Status : Perturbing : 3 of 5 -- Estimated finish in 16 s
 Information : Vectorized:97 of 97 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
-Status : Perturbing : 4 of 5 -- Estimated finish in 10 s
+Status : Perturbing : 4 of 5 -- Estimated finish in 11 s
 Information : Vectorized:97 of 97 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
@@ -340,7 +340,7 @@ Status : TBR : 5549 5549.
 Status : TBR : 5543 5543.
 Status : TBR : 5532 5532.
 Status : TBR Finished
-Status : Tree search : 2 of 5 -- Estimated finish in 16 m, 50 s
+Status : Tree search : 2 of 5 -- Estimated finish in 17 m, 19 s
 Status : TBR : 6723 6723.
 Status : TBR : 6687 6687.
 Status : TBR : 6193 6193.
@@ -361,7 +361,7 @@ Status : TBR : 5588 5588.
 Status : TBR : 5566 5566.
 Status : TBR : 5532 5532.
 Status : TBR Finished
-Status : Tree search : 3 of 5 -- Estimated finish in 10 m, 48 s
+Status : Tree search : 3 of 5 -- Estimated finish in 11 m, 7 s
 Status : TBR : 7040 7040.
 Status : TBR : 6834 6834.
 Status : TBR : 6797 6797.
@@ -376,7 +376,7 @@ Status : TBR : 5673 5673.
 Status : TBR : 5543 5543.
 Status : TBR : 5532 5532.
 Status : TBR Finished
-Status : Tree search : 4 of 5 -- Estimated finish in 6 m, 53 s
+Status : Tree search : 4 of 5 -- Estimated finish in 7 m, 2 s
 Status : TBR : 6687 6687.
 Status : TBR : 6645 6645.
 Status : TBR : 6193 6193.
@@ -392,7 +392,7 @@ Status : TBR : 5569 5569.
 Status : TBR : 5568 5568.
 Status : TBR : 5532 5532.
 Status : TBR Finished
-Status : Tree search : 5 of 5 -- Estimated finish in 3 m, 31 s
+Status : Tree search : 5 of 5 -- Estimated finish in 3 m, 35 s
 Status : TBR : 7035 7035.
 Status : TBR : 6741 6741.
 Status : TBR : 6610 6610.

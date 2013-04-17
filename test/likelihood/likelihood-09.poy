@@ -2,15 +2,16 @@
 set (seed:1, timer:0)
 set (opt:coarse)
 
-read( prealigned:("FILENAME1", tcm:(1,0)) )
-read( prealigned:("FILENAME2", tcm:(1,1)) )
+read( prealigned:("FILENAME1", tcm:(1,1)) )
 
-build(2,random)
+build(random)
 
 transform( likelihood:(jc69) )
 report( lkmodel )
+transform( parsimony )
 report( all_roots )
 
+transform( likelihood:(jc69) )
+report( lkmodel )
 transform( parsimony )
-
 report( all_roots )

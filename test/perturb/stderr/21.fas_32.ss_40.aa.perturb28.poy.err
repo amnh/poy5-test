@@ -111,7 +111,7 @@ Information :
 Information : Total included: 12
 Information : Total excluded: 37
 Information : Vectorized:88 of 88 characters.
-Status : Selected 12 of 49 terminals
+Information : Selected 12 of 49 terminals
 Status : Wagner : 2 of 12 -- Wagner tree with cost 96.
 Status : Wagner : 3 of 12 -- Wagner tree with cost 129.
 Status : Wagner : 4 of 12 -- Wagner tree with cost 151.
@@ -251,7 +251,7 @@ Status : TBR : 367 367.
 Status : TBR : 363 363.
 Status : TBR : 360 360.
 Status : TBR Finished
-Status : Tree search : 4 of 5 -- Estimated finish in 2 s
+Status : Tree search : 4 of 5 -- Estimated finish in 3 s
 Status : TBR : 372 372.
 Status : TBR Finished
 Status : Tree search : 5 of 5 -- Estimated finish in 1 s

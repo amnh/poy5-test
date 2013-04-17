@@ -1,4 +1,0 @@
-(* Report ia for custom alphabet *)
-read (custom_alphabet:("ca1.fas",cm:"m1.fas"))
-build (1)
-report("ca_ia", ia)

@@ -1,0 +1,3 @@
+(* Read and build  custom alphabet *)
+read (custom_alphabet:("ca2.fas",tcm:"m1.fas"))
+build (1)
