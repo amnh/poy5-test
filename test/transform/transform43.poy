@@ -1,4 +1,0 @@
-(* Read annotated chromosome with locus_breakpoint 50 *)
-set (seed:1, timer:0)
-read (annotated:("FILENAME1"))
-transform (all, (annotated:(locus_breakpoint:50)))
