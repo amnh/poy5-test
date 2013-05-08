@@ -1,4 +1,0 @@
-(* Read annotated chromosome using med_approx true *)
-set (seed:1, timer:0)
-read (annotated:("FILENAME1"))
-transform (all, (annotated:(med_approx:true)))
