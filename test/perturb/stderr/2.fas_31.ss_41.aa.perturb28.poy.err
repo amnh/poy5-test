@@ -209,7 +209,7 @@ Status : TBR : 689 689.
 Status : TBR : 685 685.
 Status : TBR : 682 682.
 Status : TBR Finished
-Status : Tree search : 4 of 5 -- Estimated finish in 1 s
+Status : Tree search : 4 of 5 -- Estimated finish in 0 s
 Status : TBR : 751 751.
 Status : TBR : 728 728.
 Status : TBR : 727 727.
@@ -235,7 +235,7 @@ Status : TBR : 637 637.
 Status : TBR : 634 634.
 Status : TBR Finished
 Status : Tree search Finished
-Status : Running pipeline on each tree : 2 of 2 -- Estimated finish in 3 s
+Status : Running pipeline on each tree : 2 of 2 -- Estimated finish in 2 s
 Status : Perturb Iteration : 1 of 1 -- 
 Status : Resampling Characters : 0 of 1 -- trees in the current optimum
 Information : Vectorized:8 of 8 characters.

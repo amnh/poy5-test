@@ -187,7 +187,7 @@ Status : TBR : 551 551.
 Status : TBR : 547 547.
 Status : TBR : 537 537.
 Status : TBR Finished
-Status : Tree search : 2 of 5 -- Estimated finish in 6 s
+Status : Tree search : 2 of 5 -- Estimated finish in 4 s
 Status : TBR : 607 607.
 Status : TBR : 603 603.
 Status : TBR : 589 589.
@@ -200,7 +200,7 @@ Status : TBR : 553 553.
 Status : TBR : 543 543.
 Status : TBR : 542 542.
 Status : TBR Finished
-Status : Tree search : 3 of 5 -- Estimated finish in 5 s
+Status : Tree search : 3 of 5 -- Estimated finish in 3 s
 Status : TBR : 610 610.
 Status : TBR : 599 599.
 Status : TBR : 583 583.
@@ -212,7 +212,7 @@ Status : TBR : 553 553.
 Status : TBR : 543 543.
 Status : TBR : 542 542.
 Status : TBR Finished
-Status : Tree search : 4 of 5 -- Estimated finish in 3 s
+Status : Tree search : 4 of 5 -- Estimated finish in 2 s
 Status : TBR : 603 603.
 Status : TBR : 600 600.
 Status : TBR : 587 587.
@@ -227,7 +227,7 @@ Status : TBR : 550 550.
 Status : TBR : 547 547.
 Status : TBR : 537 537.
 Status : TBR Finished
-Status : Tree search : 5 of 5 -- Estimated finish in 2 s
+Status : Tree search : 5 of 5 -- Estimated finish in 1 s
 Status : TBR : 609 609.
 Status : TBR : 596 596.
 Status : TBR : 580 580.
@@ -239,7 +239,7 @@ Status : TBR : 542 542.
 Status : TBR : 537 537.
 Status : TBR Finished
 Status : Tree search Finished
-Status : Running pipeline on each tree : 2 of 2 -- Estimated finish in 10 s
+Status : Running pipeline on each tree : 2 of 2 -- Estimated finish in 6 s
 Status : Perturb Iteration : 1 of 1 -- 
 Status : Resampling Characters : 0 of 1 -- trees in the current optimum
 Information : Vectorized:8 of 8 characters.
@@ -283,13 +283,13 @@ Status : TBR : 554 554.
 Status : TBR : 550 550.
 Status : TBR : 542 542.
 Status : TBR Finished
-Status : Tree search : 2 of 5 -- Estimated finish in 4 s
+Status : Tree search : 2 of 5 -- Estimated finish in 2 s
 Status : TBR : 563 563.
 Status : TBR Finished
-Status : Tree search : 3 of 5 -- Estimated finish in 3 s
+Status : Tree search : 3 of 5 -- Estimated finish in 2 s
 Status : TBR : 587 587.
 Status : TBR Finished
-Status : Tree search : 4 of 5 -- Estimated finish in 2 s
+Status : Tree search : 4 of 5 -- Estimated finish in 1 s
 Status : TBR : 584 584.
 Status : TBR : 573 573.
 Status : TBR : 564 564.

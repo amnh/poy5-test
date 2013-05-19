@@ -189,7 +189,7 @@ Status : TBR : 707 707.
 Status : TBR : 705 705.
 Status : TBR : 703 703.
 Status : TBR Finished
-Status : Tree search : 2 of 5 -- Estimated finish in 6 s
+Status : Tree search : 2 of 5 -- Estimated finish in 4 s
 Status : TBR : 865 865.
 Status : TBR : 855 855.
 Status : TBR : 840 840.
@@ -199,7 +199,7 @@ Status : TBR : 746 746.
 Status : TBR : 740 740.
 Status : TBR : 736 736.
 Status : TBR Finished
-Status : Tree search : 3 of 5 -- Estimated finish in 4 s
+Status : Tree search : 3 of 5 -- Estimated finish in 2 s
 Status : TBR : 860 860.
 Status : TBR : 833 833.
 Status : TBR : 817 817.
@@ -214,7 +214,7 @@ Status : TBR : 766 766.
 Status : TBR : 751 751.
 Status : TBR : 736 736.
 Status : TBR Finished
-Status : Tree search : 4 of 5 -- Estimated finish in 3 s
+Status : Tree search : 4 of 5 -- Estimated finish in 2 s
 Status : TBR : 866 866.
 Status : TBR : 835 835.
 Status : TBR : 826 826.
@@ -240,7 +240,7 @@ Status : TBR : 648 648.
 Status : TBR : 638 638.
 Status : TBR : 636 636.
 Status : TBR Finished
-Status : Tree search : 5 of 5 -- Estimated finish in 2 s
+Status : Tree search : 5 of 5 -- Estimated finish in 1 s
 Status : TBR : 872 872.
 Status : TBR : 858 858.
 Status : TBR : 839 839.
@@ -256,7 +256,7 @@ Status : TBR : 692 692.
 Status : TBR : 686 686.
 Status : TBR Finished
 Status : Tree search Finished
-Status : Running pipeline on each tree : 2 of 2 -- Estimated finish in 11 s
+Status : Running pipeline on each tree : 2 of 2 -- Estimated finish in 6 s
 Status : Perturb Iteration : 1 of 1 -- 
 Status : Resampling Characters : 0 of 1 -- trees in the current optimum
 Information : Vectorized:10 of 10 characters.
@@ -300,7 +300,7 @@ Status : TBR : 748 748.
 Status : TBR : 700 700.
 Status : TBR : 686 686.
 Status : TBR Finished
-Status : Tree search : 2 of 5 -- Estimated finish in 5 s
+Status : Tree search : 2 of 5 -- Estimated finish in 3 s
 Status : TBR : 803 803.
 Status : TBR : 745 745.
 Status : TBR : 744 744.
@@ -312,7 +312,7 @@ Status : TBR : 699 699.
 Status : TBR : 653 653.
 Status : TBR : 651 651.
 Status : TBR Finished
-Status : Tree search : 3 of 5 -- Estimated finish in 5 s
+Status : Tree search : 3 of 5 -- Estimated finish in 3 s
 Status : TBR : 866 866.
 Status : TBR : 805 805.
 Status : TBR : 803 803.
@@ -324,7 +324,7 @@ Status : TBR : 748 748.
 Status : TBR : 747 747.
 Status : TBR : 736 736.
 Status : TBR Finished
-Status : Tree search : 4 of 5 -- Estimated finish in 3 s
+Status : Tree search : 4 of 5 -- Estimated finish in 2 s
 Status : TBR : 867 867.
 Status : TBR : 805 805.
 Status : TBR : 803 803.

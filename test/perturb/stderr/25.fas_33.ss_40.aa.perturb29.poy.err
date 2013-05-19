@@ -259,7 +259,7 @@ Status : Tree search : 2 of 2 -- Estimated finish in 1 s
 Status : TBR : 599 599.
 Status : TBR Finished
 Status : Tree search Finished
-Status : Running pipeline on each tree : 2 of 2 -- Estimated finish in 8 s
+Status : Running pipeline on each tree : 2 of 2 -- Estimated finish in 5 s
 Status : Perturb Iteration : 1 of 2 -- 
 Status : Ratcheting : 0 of 1 -- trees in the current optimum
 Information : Vectorized:97 of 97 characters.

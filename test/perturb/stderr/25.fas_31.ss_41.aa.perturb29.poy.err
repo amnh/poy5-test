@@ -253,11 +253,11 @@ Status : Perturb Iteration Finished
 Status : Tree search : 1 of 2 -- 
 Status : TBR : 909 909.
 Status : TBR Finished
-Status : Tree search : 2 of 2 -- Estimated finish in 1 s
+Status : Tree search : 2 of 2 -- Estimated finish in 0 s
 Status : TBR : 905 905.
 Status : TBR Finished
 Status : Tree search Finished
-Status : Running pipeline on each tree : 2 of 2 -- Estimated finish in 5 s
+Status : Running pipeline on each tree : 2 of 2 -- Estimated finish in 3 s
 Status : Perturb Iteration : 1 of 2 -- 
 Status : Ratcheting : 0 of 1 -- trees in the current optimum
 Information : Vectorized:167 of 167 characters.
@@ -334,7 +334,7 @@ Status : Perturb Iteration Finished
 Status : Tree search : 1 of 2 -- 
 Status : TBR : 860 860.
 Status : TBR Finished
-Status : Tree search : 2 of 2 -- Estimated finish in 1 s
+Status : Tree search : 2 of 2 -- Estimated finish in 0 s
 Status : TBR : 809 809.
 Status : TBR Finished
 Status : Tree search Finished

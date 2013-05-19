@@ -190,7 +190,7 @@ Status : TBR : 618 618.
 Status : TBR : 614 614.
 Status : TBR : 611 611.
 Status : TBR Finished
-Status : Tree search : 2 of 5 -- Estimated finish in 7 s
+Status : Tree search : 2 of 5 -- Estimated finish in 4 s
 Status : TBR : 640 640.
 Status : TBR : 637 637.
 Status : TBR : 636 636.
@@ -200,7 +200,7 @@ Status : TBR : 627 627.
 Status : TBR : 620 620.
 Status : TBR : 615 615.
 Status : TBR Finished
-Status : Tree search : 3 of 5 -- Estimated finish in 4 s
+Status : Tree search : 3 of 5 -- Estimated finish in 3 s
 Status : TBR : 656 656.
 Status : TBR : 651 651.
 Status : TBR : 635 635.
@@ -213,7 +213,7 @@ Status : TBR : 621 621.
 Status : TBR : 618 618.
 Status : TBR : 614 614.
 Status : TBR Finished
-Status : Tree search : 4 of 5 -- Estimated finish in 3 s
+Status : Tree search : 4 of 5 -- Estimated finish in 2 s
 Status : TBR : 628 628.
 Status : TBR Finished
 Status : Tree search : 5 of 5 -- Estimated finish in 1 s
@@ -231,7 +231,7 @@ Status : TBR : 617 617.
 Status : TBR : 615 615.
 Status : TBR Finished
 Status : Tree search Finished
-Status : Running pipeline on each tree : 2 of 2 -- Estimated finish in 9 s
+Status : Running pipeline on each tree : 2 of 2 -- Estimated finish in 5 s
 Status : Perturb Iteration : 1 of 1 -- 
 Status : Resampling Characters : 0 of 1 -- trees in the current optimum
 Information : Vectorized:10 of 10 characters.
@@ -278,13 +278,13 @@ Status : TBR : 621 621.
 Status : TBR : 613 613.
 Status : TBR : 612 612.
 Status : TBR Finished
-Status : Tree search : 2 of 5 -- Estimated finish in 6 s
+Status : Tree search : 2 of 5 -- Estimated finish in 3 s
 Status : TBR : 623 623.
 Status : TBR : 619 619.
 Status : TBR : 616 616.
 Status : TBR : 612 612.
 Status : TBR Finished
-Status : Tree search : 3 of 5 -- Estimated finish in 4 s
+Status : Tree search : 3 of 5 -- Estimated finish in 2 s
 Status : TBR : 649 649.
 Status : TBR : 644 644.
 Status : TBR : 642 642.
@@ -297,7 +297,7 @@ Status : TBR : 620 620.
 Status : TBR : 618 618.
 Status : TBR : 615 615.
 Status : TBR Finished
-Status : Tree search : 4 of 5 -- Estimated finish in 3 s
+Status : Tree search : 4 of 5 -- Estimated finish in 2 s
 Status : TBR : 647 647.
 Status : TBR : 644 644.
 Status : TBR : 642 642.
