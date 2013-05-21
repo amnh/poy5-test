@@ -1,6 +1,6 @@
 (* Read custom_alphabet using default parameters *)
 
 set (seed:1, timer:0)
-read(custom_alphabet:("FILENAME1",tcm:("alph.fas")))
+read(prealigned:(custom_alphabet:("FILENAME1"),tcm:("alph.fas")))
 build(2)
 swap(2)
