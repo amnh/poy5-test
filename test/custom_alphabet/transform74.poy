@@ -1,6 +1,6 @@
 (* Read custom_alphabet with optional arguments *)
 
 set (seed:1, timer:0)
-read(custom_alphabet:("FILENAME1",tcm:("alph.fas"), level:(3,at_random), tiebreaker:first))
+read(custom_alphabet:("FILENAME1",tcm:("alph.fas"), level:(3,at_random), tie_breaker:first))
 build(2)
 swap(2)
