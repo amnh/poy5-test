@@ -412,7 +412,7 @@ Status : Perturbing : 17 of 25 -- Estimated finish in 1 s
 Information : Vectorized:61 of 61 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
-Status : Perturbing : 18 of 25 -- Estimated finish in 1 s
+Status : Perturbing : 18 of 25 -- Estimated finish in 0 s
 Information : Vectorized:61 of 61 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
@@ -959,13 +959,13 @@ Status : Diagnosis Finished
 Status : Untransforming Characters Finished
 Status : TBR : 362 362.
 Status : TBR : 358 358.
-Status : TBR : 357 357.
-Status : TBR : 355 355.
+Status : TBR : 356 356.
+Status : TBR : 353 353.
 Status : TBR Finished
 Status : Running pipeline on each tree Finished
 Information : 
                 Trees:
-                  Storing 2 trees with costs 351. to 364.
+                  Storing 2 trees with costs 349. to 364.
                   Best cost in 1 tree 
                 Cost Mode: Normal Direct Optimization
 PASSED

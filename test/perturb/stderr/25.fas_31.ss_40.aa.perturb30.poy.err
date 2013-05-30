@@ -315,7 +315,7 @@ Status : Perturbing : 2 of 25 -- Estimated finish in 2 s
 Information : Vectorized:103 of 103 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
-Status : Perturbing : 3 of 25 -- Estimated finish in 2 s
+Status : Perturbing : 3 of 25 -- Estimated finish in 1 s
 Information : Vectorized:103 of 103 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
@@ -513,7 +513,7 @@ Status : Diagnosis Finished
 Status : Untransforming Characters Finished
 Status : TBR : 633 633.
 Status : TBR Finished
-Status : Running pipeline on each tree : 2 of 2 -- Estimated finish in 7 s
+Status : Running pipeline on each tree : 2 of 2 -- Estimated finish in 6 s
 Warning : Data contains characters that do not support static approx. I will
           skip over these and do the best that I can.
 Status : Implied Alignments : 1 of 23 -- vertices calculated
@@ -689,7 +689,7 @@ Status : Perturbing : 1 of 25 --
 Information : Vectorized:103 of 103 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
-Status : Perturbing : 2 of 25 -- Estimated finish in 2 s
+Status : Perturbing : 2 of 25 -- Estimated finish in 1 s
 Information : Vectorized:103 of 103 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
@@ -753,7 +753,7 @@ Status : Perturbing : 17 of 25 -- Estimated finish in 1 s
 Information : Vectorized:103 of 103 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
-Status : Perturbing : 18 of 25 -- Estimated finish in 1 s
+Status : Perturbing : 18 of 25 -- Estimated finish in 0 s
 Information : Vectorized:103 of 103 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
@@ -892,14 +892,12 @@ Status : Untransforming Characters Finished
 Status : TBR : 651 651.
 Status : TBR : 649 649.
 Status : TBR : 648 648.
-Status : TBR : 646 646.
-Status : TBR : 643 643.
-Status : TBR : 642 642.
+Status : TBR : 647 647.
 Status : TBR Finished
 Status : Running pipeline on each tree Finished
 Information : 
                 Trees:
-                  Storing 2 trees with costs 624. to 625.
+                  Storing 2 trees with costs 624. to 628.
                   Best cost in 1 tree 
                 Cost Mode: Normal Direct Optimization
 PASSED
