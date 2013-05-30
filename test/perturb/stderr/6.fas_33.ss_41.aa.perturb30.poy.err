@@ -346,7 +346,7 @@ Status : Perturbing : 10 of 25 -- Estimated finish in 9 s
 Information : Vectorized:82 of 82 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
-Status : Perturbing : 11 of 25 -- Estimated finish in 9 s
+Status : Perturbing : 11 of 25 -- Estimated finish in 8 s
 Information : Vectorized:82 of 82 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
@@ -413,7 +413,7 @@ Status : Untransforming Characters : 1 of 25 --
 Information : Vectorized:97 of 97 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
-Status : Untransforming Characters : 2 of 25 -- Estimated finish in 32 s
+Status : Untransforming Characters : 2 of 25 -- Estimated finish in 33 s
 Information : Vectorized:97 of 97 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
@@ -441,7 +441,7 @@ Status : Untransforming Characters : 8 of 25 -- Estimated finish in 24 s
 Information : Vectorized:97 of 97 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
-Status : Untransforming Characters : 9 of 25 -- Estimated finish in 23 s
+Status : Untransforming Characters : 9 of 25 -- Estimated finish in 22 s
 Information : Vectorized:97 of 97 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
@@ -453,7 +453,7 @@ Status : Untransforming Characters : 11 of 25 -- Estimated finish in 20 s
 Information : Vectorized:97 of 97 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
-Status : Untransforming Characters : 12 of 25 -- Estimated finish in 19 s
+Status : Untransforming Characters : 12 of 25 -- Estimated finish in 18 s
 Information : Vectorized:97 of 97 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
@@ -465,7 +465,7 @@ Status : Untransforming Characters : 14 of 25 -- Estimated finish in 16 s
 Information : Vectorized:97 of 97 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
-Status : Untransforming Characters : 15 of 25 -- Estimated finish in 15 s
+Status : Untransforming Characters : 15 of 25 -- Estimated finish in 14 s
 Information : Vectorized:97 of 97 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
@@ -477,7 +477,7 @@ Status : Untransforming Characters : 17 of 25 -- Estimated finish in 12 s
 Information : Vectorized:97 of 97 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
-Status : Untransforming Characters : 18 of 25 -- Estimated finish in 11 s
+Status : Untransforming Characters : 18 of 25 -- Estimated finish in 10 s
 Information : Vectorized:97 of 97 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
@@ -516,7 +516,7 @@ Status : TBR : 5529 5529.
 Status : TBR : 5516 5516.
 Status : TBR Finished
 Status : Running pipeline on each tree :
-         2 of 2 -- Estimated finish in 2 m, 36 s
+         2 of 2 -- Estimated finish in 2 m, 11 s
 Warning : Data contains characters that do not support static approx. I will
           skip over these and do the best that I can.
 Status : Implied Alignments : 1 of 23 -- vertices calculated
@@ -694,7 +694,7 @@ Status : Perturbing : 1 of 25 --
 Information : Vectorized:82 of 82 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
-Status : Perturbing : 2 of 25 -- Estimated finish in 13 s
+Status : Perturbing : 2 of 25 -- Estimated finish in 12 s
 Information : Vectorized:82 of 82 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
@@ -742,7 +742,7 @@ Status : Perturbing : 13 of 25 -- Estimated finish in 7 s
 Information : Vectorized:82 of 82 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
-Status : Perturbing : 14 of 25 -- Estimated finish in 7 s
+Status : Perturbing : 14 of 25 -- Estimated finish in 6 s
 Information : Vectorized:82 of 82 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
@@ -801,11 +801,11 @@ Status : Untransforming Characters : 2 of 25 -- Estimated finish in 35 s
 Information : Vectorized:97 of 97 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
-Status : Untransforming Characters : 3 of 25 -- Estimated finish in 34 s
+Status : Untransforming Characters : 3 of 25 -- Estimated finish in 36 s
 Information : Vectorized:97 of 97 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
-Status : Untransforming Characters : 4 of 25 -- Estimated finish in 32 s
+Status : Untransforming Characters : 4 of 25 -- Estimated finish in 33 s
 Information : Vectorized:97 of 97 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
@@ -813,15 +813,15 @@ Status : Untransforming Characters : 5 of 25 -- Estimated finish in 31 s
 Information : Vectorized:97 of 97 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
-Status : Untransforming Characters : 6 of 25 -- Estimated finish in 29 s
+Status : Untransforming Characters : 6 of 25 -- Estimated finish in 30 s
 Information : Vectorized:97 of 97 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
-Status : Untransforming Characters : 7 of 25 -- Estimated finish in 27 s
+Status : Untransforming Characters : 7 of 25 -- Estimated finish in 28 s
 Information : Vectorized:97 of 97 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
-Status : Untransforming Characters : 8 of 25 -- Estimated finish in 25 s
+Status : Untransforming Characters : 8 of 25 -- Estimated finish in 26 s
 Information : Vectorized:97 of 97 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
@@ -865,7 +865,7 @@ Status : Untransforming Characters : 18 of 25 -- Estimated finish in 11 s
 Information : Vectorized:97 of 97 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
-Status : Untransforming Characters : 19 of 25 -- Estimated finish in 10 s
+Status : Untransforming Characters : 19 of 25 -- Estimated finish in 9 s
 Information : Vectorized:97 of 97 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished

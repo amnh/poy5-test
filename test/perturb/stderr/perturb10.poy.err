@@ -2426,7 +2426,7 @@ Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
 Status : Ratcheting Finished
 Status : Perturb Iteration Finished
-Status : Running pipeline on each tree : 2 of 2 -- Estimated finish in 60 s
+Status : Running pipeline on each tree : 2 of 2 -- Estimated finish in 9 s
 Status : Perturb Iteration : 1 of 1 -- 
 Status : Ratcheting : 0 of 1 -- trees in the current optimum
 Status : Diagnosis : 0 Recalculating original tree
