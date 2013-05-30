@@ -221,52 +221,34 @@ Status : TBR : 1823 1823.
 Status : TBR : 1822 1822.
 Status : TBR : 1821 1821.
 Status : TBR : 1820 1820.
+Status : TBR : 1819 1819.
 Status : TBR : 1818 1818.
 Status : TBR : 1817 1817.
-Status : TBR : 1815 1815.
+Status : TBR : 1816 1816.
 Status : TBR : 1814 1814.
-Status : TBR : 1813 1813.
-Status : TBR : 1811 1811.
 Status : TBR : 1810 1810.
 Status : TBR : 1809 1809.
-Status : TBR : 1808 1808.
+Status : TBR : 1806 1806.
 Status : TBR Finished
 Status : Tree Fusing :
          4 of 8
          -- tree #2 [1820.000000] -> tree #1 [1857.000000]: tree with cost 1823.
 Status : Tree Fusing :
-         4 of 8
-         -- tree #1 [1820.000000] -> tree #1 [1806.000000]: tree with cost 1821.
-Status : Tree Fusing :
          5 of 8
-         -- tree #1 [1820.000000] -> tree #1 [1806.000000]: tree with cost 1821.
-Status : Tree Fusing :
-         5 of 8
-         -- tree #1 [1820.000000] -> tree #1 [1806.000000]: tree with cost 1821.
+         -- tree #2 [1820.000000] -> tree #1 [1857.000000]: tree with cost 1823.
 Status : Tree Fusing :
          6 of 8
-         -- tree #1 [1820.000000] -> tree #1 [1806.000000]: tree with cost 1821.
-Status : Tree Fusing :
-         6 of 8
-         -- tree #1 [1820.000000] -> tree #1 [1806.000000]: tree with cost 1821.
+         -- tree #2 [1820.000000] -> tree #1 [1857.000000]: tree with cost 1823.
 Status : Tree Fusing :
          7 of 8
-         -- tree #1 [1820.000000] -> tree #1 [1806.000000]: tree with cost 1821.
-Status : Tree Fusing :
-         7 of 8
-         -- tree #1 [1820.000000] -> tree #1 [1806.000000]: tree with cost 1821.
+         -- tree #2 [1820.000000] -> tree #1 [1857.000000]: tree with cost 1823.
 Status : Tree Fusing :
          8 of 8
-         -- tree #1 [1820.000000] -> tree #1 [1806.000000]: tree with cost 1821.
-Status : Tree Fusing :
-         8 of 8
-         -- tree #2 [1806.000000] -> tree #1 [1820.000000]: tree with cost 1807.
-Status : TBR : 1807 1807.
-Status : TBR Finished
+         -- tree #2 [1820.000000] -> tree #1 [1857.000000]: tree with cost 1823.
 Status : Tree Fusing Finished
 Information : 
                 Trees:
-                  Storing 2 trees with costs 1806. to 1807.
+                  Storing 2 trees with costs 1801. to 1820.
                   Best cost in 1 tree 
                 Cost Mode: Normal Direct Optimization
 PASSED
