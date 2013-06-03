@@ -3,6 +3,7 @@ set (seed:1, timer:0)
 set(opt:coarse)
 
 read(prealigned:("FILENAME1",tcm:(1,1)), "FILENAME2")
+select(terminals, _random:40)
 build(3)
 
 transform( (names:("FILENAME1"), (likelihood:(ncm))) )
