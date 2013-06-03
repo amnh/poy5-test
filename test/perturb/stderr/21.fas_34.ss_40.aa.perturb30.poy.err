@@ -349,7 +349,7 @@ Status : Perturbing : 2 of 25 -- Estimated finish in 2 s
 Information : Vectorized:145 of 145 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
-Status : Perturbing : 3 of 25 -- Estimated finish in 2 s
+Status : Perturbing : 3 of 25 -- Estimated finish in 1 s
 Information : Vectorized:145 of 145 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
@@ -547,7 +547,7 @@ Status : Diagnosis Finished
 Status : Untransforming Characters Finished
 Status : TBR : 553 553.
 Status : TBR Finished
-Status : Running pipeline on each tree : 2 of 2 -- Estimated finish in 8 s
+Status : Running pipeline on each tree : 2 of 2 -- Estimated finish in 7 s
 Warning : Data contains characters that do not support static approx. I will
           skip over these and do the best that I can.
 Status : Implied Alignments : 1 of 23 -- vertices calculated

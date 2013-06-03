@@ -121,59 +121,11 @@ Status : Ratcheting : 1 of 1 -- trees in the current optimum
 Status : Alternate : 0 Beginning search
 Status : Alternate : 0 SPR search
 Status : SPR : 2709 2709.
-Status : SPR : 2694 2694.
-Status : SPR : 2689 2689.
-Status : SPR : 2681 2681.
-Status : SPR : 2653 2653.
-Status : SPR : 2652 2652.
-Status : SPR : 2635 2635.
-Status : SPR : 2627 2627.
-Status : SPR : 2623 2623.
-Status : SPR : 2618 2618.
-Status : SPR : 2617 2617.
-Status : SPR : 2614 2614.
-Status : SPR : 2612 2612.
-Status : SPR : 2603 2603.
-Status : SPR : 2602 2602.
-Status : SPR : 2596 2596.
-Status : SPR : 2592 2592.
-Status : SPR : 2589 2589.
-Status : SPR : 2586 2586.
-Status : SPR : 2584 2584.
-Status : SPR : 2583 2583.
-Status : SPR : 2581 2581.
-Status : SPR : 2580 2580.
-Status : SPR : 2576 2576.
-Status : SPR : 2567 2567.
-Status : SPR : 2559 2559.
-Status : SPR : 2550 2550.
-Status : SPR : 2548 2548.
-Status : SPR : 2547 2547.
-Status : SPR : 2545 2545.
-Status : SPR : 2541 2541.
-Status : SPR : 2534 2534.
-Status : SPR : 2531 2531.
-Status : SPR : 2528 2528.
-Status : SPR : 2525 2525.
-Status : SPR : 2524 2524.
-Status : SPR : 2515 2515.
-Status : SPR : 2514 2514.
-Status : SPR : 2513 2513.
-Status : SPR : 2491 2491.
-Status : SPR : 2487 2487.
-Status : SPR : 2484 2484.
-Status : SPR : 2480 2480.
-Status : SPR : 2474 2474.
-Status : SPR : 2469 2469.
-Status : SPR : 2457 2457.
-Status : SPR : 2456 2456.
-Status : SPR : 2448 2448.
-Status : SPR : 2436 2436.
 Status : SPR Finished
 Status : Alternate : 0 Performing TBR swapping
 Status : Single TBR Finished
 Status : Alternate : 0 SPR search
-Status : SPR : 2436 2436.
+Status : SPR : 2709 2709.
 Status : SPR Finished
 Status : Alternate : 0 Performing TBR swapping
 Status : Single TBR Finished
@@ -184,17 +136,18 @@ Status : Ratcheting Finished
 Status : Perturb Iteration Finished
 Status : Alternate : 0 Beginning search
 Status : Alternate : 0 SPR search
-Status : SPR : 1771 1771.
-Status : SPR : 1769 1769.
-Status : SPR : 1768 1768.
-Status : SPR : 1766 1766.
-Status : SPR : 1765 1765.
+Status : SPR : 1882 1882.
+Status : SPR Finished
+Status : Alternate : 0 Performing TBR swapping
+Status : Single TBR Finished
+Status : Alternate : 0 SPR search
+Status : SPR : 1882 1882.
 Status : SPR Finished
 Status : Alternate : 0 Performing TBR swapping
 Status : Single TBR Finished
 Status : Alternate Finished
 Status : Running pipeline on each tree :
-         2 of 2 -- Estimated finish in 5 m, 23 s
+         2 of 2 -- Estimated finish in 1 m, 6 s
 Status : Perturb Iteration : 1 of 1 -- 
 Status : Ratcheting : 0 of 1 -- trees in the current optimum
 Status : Diagnosis : 0 Recalculating original tree
@@ -204,49 +157,29 @@ Status : Alternate : 0 Beginning search
 Status : Alternate : 0 SPR search
 Status : SPR : 1896 1896.
 Status : SPR : 1894 1894.
-Status : SPR : 1889 1889.
-Status : SPR : 1888 1888.
-Status : SPR : 1881 1881.
+Status : SPR : 1892 1892.
+Status : SPR : 1883 1883.
 Status : SPR : 1876 1876.
 Status : SPR : 1875 1875.
-Status : SPR : 1873 1873.
-Status : SPR : 1869 1869.
-Status : SPR : 1864 1864.
+Status : SPR : 1874 1874.
+Status : SPR : 1870 1870.
+Status : SPR : 1865 1865.
 Status : SPR : 1860 1860.
 Status : SPR : 1858 1858.
+Status : SPR : 1856 1856.
+Status : SPR : 1846 1846.
 Status : SPR : 1845 1845.
-Status : SPR : 1844 1844.
-Status : SPR : 1842 1842.
 Status : SPR : 1841 1841.
+Status : SPR : 1840 1840.
 Status : SPR : 1838 1838.
+Status : SPR : 1836 1836.
 Status : SPR : 1834 1834.
-Status : SPR : 1827 1827.
-Status : SPR : 1826 1826.
-Status : SPR : 1822 1822.
-Status : SPR : 1821 1821.
-Status : SPR : 1818 1818.
-Status : SPR : 1817 1817.
-Status : SPR : 1812 1812.
-Status : SPR : 1807 1807.
-Status : SPR : 1806 1806.
-Status : SPR : 1804 1804.
-Status : SPR : 1802 1802.
-Status : SPR : 1801 1801.
-Status : SPR : 1800 1800.
-Status : SPR : 1799 1799.
-Status : SPR : 1794 1794.
-Status : SPR : 1792 1792.
-Status : SPR : 1791 1791.
-Status : SPR : 1788 1788.
-Status : SPR : 1787 1787.
-Status : SPR : 1786 1786.
-Status : SPR : 1782 1782.
-Status : SPR : 1780 1780.
+Status : SPR : 1828 1828.
 Status : SPR Finished
 Status : Alternate : 0 Performing TBR swapping
 Status : Single TBR Finished
 Status : Alternate : 0 SPR search
-Status : SPR : 1780 1780.
+Status : SPR : 1828 1828.
 Status : SPR Finished
 Status : Alternate : 0 Performing TBR swapping
 Status : Single TBR Finished
@@ -257,16 +190,7 @@ Status : Ratcheting Finished
 Status : Perturb Iteration Finished
 Status : Alternate : 0 Beginning search
 Status : Alternate : 0 SPR search
-Status : SPR : 1778 1778.
-Status : SPR : 1776 1776.
-Status : SPR : 1775 1775.
-Status : SPR : 1773 1773.
-Status : SPR : 1767 1767.
-Status : SPR Finished
-Status : Alternate : 0 Performing TBR swapping
-Status : Single TBR Finished
-Status : Alternate : 0 SPR search
-Status : SPR : 1767 1767.
+Status : SPR : 1804 1804.
 Status : SPR Finished
 Status : Alternate : 0 Performing TBR swapping
 Status : Single TBR Finished
@@ -274,7 +198,7 @@ Status : Alternate Finished
 Status : Running pipeline on each tree Finished
 Information : 
                 Trees:
-                  Storing 2 trees with costs 1765. to 1766.
+                  Storing 2 trees with costs 1804. to 1864.
                   Best cost in 1 tree 
                 Cost Mode: Normal Direct Optimization
 PASSED

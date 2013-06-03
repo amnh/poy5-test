@@ -509,15 +509,12 @@ Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
 Status : Untransforming Characters Finished
 Status : TBR : 785 785.
-Status : TBR : 782 782.
-Status : TBR : 772 772.
-Status : TBR : 770 770.
-Status : TBR : 730 730.
+Status : TBR : 748 748.
+Status : TBR : 738 738.
 Status : TBR : 724 724.
 Status : TBR : 722 722.
-Status : TBR : 720 720.
 Status : TBR Finished
-Status : Running pipeline on each tree : 2 of 2 -- Estimated finish in 14 s
+Status : Running pipeline on each tree : 2 of 2 -- Estimated finish in 13 s
 Warning : Data contains characters that do not support static approx. I will
           skip over these and do the best that I can.
 Status : Implied Alignments : 1 of 23 -- vertices calculated
@@ -685,11 +682,11 @@ Status : Perturbing : 1 of 25 --
 Information : Vectorized:82 of 82 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
-Status : Perturbing : 2 of 25 -- Estimated finish in 6 s
+Status : Perturbing : 2 of 25 -- Estimated finish in 5 s
 Information : Vectorized:82 of 82 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
-Status : Perturbing : 3 of 25 -- Estimated finish in 6 s
+Status : Perturbing : 3 of 25 -- Estimated finish in 5 s
 Information : Vectorized:82 of 82 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
@@ -886,16 +883,15 @@ Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
 Status : Untransforming Characters Finished
 Status : TBR : 831 831.
-Status : TBR : 789 789.
-Status : TBR : 785 785.
-Status : TBR : 783 783.
-Status : TBR : 776 776.
-Status : TBR : 771 771.
+Status : TBR : 799 799.
+Status : TBR : 777 777.
+Status : TBR : 772 772.
+Status : TBR : 770 770.
 Status : TBR Finished
 Status : Running pipeline on each tree Finished
 Information : 
                 Trees:
-                  Storing 2 trees with costs 712. to 767.
+                  Storing 2 trees with costs 708. to 721.
                   Best cost in 1 tree 
                 Cost Mode: Normal Direct Optimization
 PASSED

@@ -1291,14 +1291,13 @@ Status : Untransforming Characters Finished
 Status : TBR : 319 319.
 Status : TBR : 313 313.
 Status : TBR : 309 309.
-Status : TBR : 305 305.
-Status : TBR : 304 304.
-Status : TBR : 302 302.
+Status : TBR : 308 308.
+Status : TBR : 307 307.
 Status : TBR Finished
 Status : Running pipeline on each tree Finished
 Information : 
                 Trees:
-                  Storing 2 trees with costs 299. to 310.
+                  Storing 2 trees with costs 300. to 310.
                   Best cost in 1 tree 
                 Cost Mode: Normal Direct Optimization
 PASSED

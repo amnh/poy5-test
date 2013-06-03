@@ -314,7 +314,7 @@ Status : Perturbing : 3 of 25 -- Estimated finish in 6 s
 Information : Vectorized:61 of 61 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
-Status : Perturbing : 4 of 25 -- Estimated finish in 6 s
+Status : Perturbing : 4 of 25 -- Estimated finish in 5 s
 Information : Vectorized:61 of 61 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
@@ -507,13 +507,13 @@ Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
 Status : Untransforming Characters Finished
 Status : TBR : 758 758.
-Status : TBR : 757 757.
-Status : TBR : 752 752.
-Status : TBR : 743 743.
-Status : TBR : 740 740.
-Status : TBR : 686 686.
+Status : TBR : 714 714.
+Status : TBR : 704 704.
+Status : TBR : 691 691.
+Status : TBR : 642 642.
+Status : TBR : 638 638.
 Status : TBR Finished
-Status : Running pipeline on each tree : 2 of 2 -- Estimated finish in 16 s
+Status : Running pipeline on each tree : 2 of 2 -- Estimated finish in 15 s
 Warning : Data contains characters that do not support static approx. I will
           skip over these and do the best that I can.
 Status : Implied Alignments : 1 of 23 -- vertices calculated
@@ -609,13 +609,13 @@ Status : Diagnosis : 2 of 2 -- Recalculating trees
 Status : Diagnosis Finished
 Status : Perturb Iteration : 1 of 2 -- 
 Status : Resampling Characters : 0 of 1 -- trees in the current optimum
-Information : Vectorized:3 of 3 characters.
+Information : Vectorized:1 of 1 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
 Status : Resampling Characters : 1 of 1 -- trees in the current optimum
-Status : TBR : 21 21.
-Status : TBR : 20 20.
-Status : TBR : 19 19.
+Status : TBR : 13 13.
+Status : TBR : 12 12.
+Status : TBR : 11 11.
 Status : TBR Finished
 Status : Perturbing : 1 of 5 -- 
 Information : Vectorized:61 of 61 characters.
@@ -641,7 +641,6 @@ Status : Perturbing Finished
 Status : Resampling Characters Finished
 Status : Perturb Iteration : 2 of 2 -- 
 Status : Resampling Characters : 0 of 5 -- trees in the current optimum
-Information : Vectorized:1 of 1 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
 Status : Resampling Characters : 1 of 5 -- trees in the current optimum
@@ -649,6 +648,7 @@ Information : Vectorized:1 of 1 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
 Status : Resampling Characters : 2 of 5 -- trees in the current optimum
+Information : Vectorized:1 of 1 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
 Status : Resampling Characters : 3 of 5 -- trees in the current optimum
@@ -659,29 +659,21 @@ Information : Vectorized:1 of 1 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
 Status : Resampling Characters : 5 of 5 -- trees in the current optimum
-Status : TBR : 18 18.
+Status : TBR : 6 6.
+Status : TBR Finished
 Status : TBR : 17 17.
 Status : TBR : 16 16.
 Status : TBR : 15 15.
 Status : TBR : 14 14.
-Status : TBR : 13 13.
+Status : TBR : 12 12.
 Status : TBR Finished
-Status : TBR : 16 16.
 Status : TBR : 15 15.
 Status : TBR : 14 14.
+Status : TBR : 13 13.
 Status : TBR Finished
 Status : TBR : 9 9.
-Status : TBR : 8 8.
 Status : TBR Finished
-Status : TBR : 14 14.
-Status : TBR : 13 13.
-Status : TBR : 12 12.
-Status : TBR Finished
-Status : TBR : 13 13.
-Status : TBR : 12 12.
 Status : TBR : 11 11.
-Status : TBR : 10 10.
-Status : TBR : 9 9.
 Status : TBR Finished
 Status : Perturbing : 1 of 25 -- 
 Information : Vectorized:61 of 61 characters.
@@ -887,26 +879,19 @@ Information : Vectorized:88 of 88 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
 Status : Untransforming Characters Finished
-Status : TBR : 778 778.
-Status : TBR : 777 777.
-Status : TBR : 770 770.
-Status : TBR : 768 768.
-Status : TBR : 759 759.
-Status : TBR : 756 756.
-Status : TBR : 754 754.
-Status : TBR : 749 749.
-Status : TBR : 699 699.
-Status : TBR : 653 653.
-Status : TBR : 644 644.
-Status : TBR : 639 639.
-Status : TBR : 638 638.
-Status : TBR : 637 637.
-Status : TBR : 636 636.
+Status : TBR : 840 840.
+Status : TBR : 837 837.
+Status : TBR : 820 820.
+Status : TBR : 813 813.
+Status : TBR : 809 809.
+Status : TBR : 801 801.
+Status : TBR : 794 794.
+Status : TBR : 791 791.
 Status : TBR Finished
 Status : Running pipeline on each tree Finished
 Information : 
                 Trees:
-                  Storing 2 trees with costs 621. to 667.
+                  Storing 2 trees with costs 622. to 741.
                   Best cost in 1 tree 
                 Cost Mode: Normal Direct Optimization
 PASSED

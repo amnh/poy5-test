@@ -218,15 +218,13 @@ Status : Resampling Characters Finished
 Status : Perturb Iteration Finished
 Status : TBR : 290 290.
 Status : TBR : 288 288.
-Status : TBR : 281 281.
-Status : TBR : 274 274.
-Status : TBR : 270 270.
-Status : TBR : 269 269.
+Status : TBR : 285 285.
+Status : TBR : 283 283.
 Status : TBR Finished
 Status : Running pipeline on each tree Finished
 Information : 
                 Trees:
-                  Storing 2 trees with costs 269. to 273.
+                  Storing 2 trees with costs 272. to 273.
                   Best cost in 1 tree 
                 Cost Mode: Normal Direct Optimization
 PASSED
