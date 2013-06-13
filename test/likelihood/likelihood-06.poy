@@ -2,8 +2,8 @@
 set (seed:1,timer:0)
 
 read("FILENAME1")
-select(terminals, _random:30)
 read(prealigned:("FILENAME2", tcm:(1,1)))
+select(terminals, _random:30)
 
 build(1)
 
