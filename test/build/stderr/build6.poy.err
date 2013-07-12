@@ -4,13 +4,6 @@ Information : Reading file 2.fas of type input sequences
 Information : The file 2.fas contains sequences of 17 taxa, each sequence
               holding 1 fragment.
 
-Information : Selected Terminals:
-              
-
-Information : 
-Information : Total included: 16
-Information : Total excluded: 1
-Information : Selected 16 of 17 terminals
 Status : Loading Trees : 1 of 1 -- 
 Status : Loading Trees Finished
 Status : Loading Trees : 1 of 1 -- 
@@ -34,7 +27,7 @@ Status : Loading Trees Finished
 Status : Running Pipeline Finished
 Information : 
                 Trees:
-                  Storing 10 trees with costs 290. to 290.
+                  Storing 10 trees with costs 344. to 344.
                   Best cost in 10 trees 
                 Cost Mode: Normal Direct Optimization
 PASSED
