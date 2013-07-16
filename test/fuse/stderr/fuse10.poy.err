@@ -221,47 +221,32 @@ Status : SPR : 1823 1823.
 Status : SPR : 1822 1822.
 Status : SPR : 1821 1821.
 Status : SPR : 1820 1820.
+Status : SPR : 1819 1819.
 Status : SPR : 1818 1818.
-Status : SPR : 1817 1817.
+Status : SPR : 1816 1816.
 Status : SPR : 1815 1815.
 Status : SPR : 1814 1814.
+Status : SPR : 1811 1811.
 Status : SPR Finished
 Status : Tree Fusing :
          4 of 8
          -- tree #2 [1820.000000] -> tree #1 [1857.000000]: tree with cost 1823.
 Status : Tree Fusing :
-         4 of 8
-         -- tree #1 [1820.000000] -> tree #1 [1813.000000]: tree with cost 1819.
-Status : Tree Fusing :
          5 of 8
-         -- tree #1 [1820.000000] -> tree #1 [1813.000000]: tree with cost 1819.
-Status : Tree Fusing :
-         5 of 8
-         -- tree #1 [1820.000000] -> tree #1 [1813.000000]: tree with cost 1819.
+         -- tree #2 [1820.000000] -> tree #1 [1857.000000]: tree with cost 1823.
 Status : Tree Fusing :
          6 of 8
-         -- tree #1 [1820.000000] -> tree #1 [1813.000000]: tree with cost 1819.
-Status : Tree Fusing :
-         6 of 8
-         -- tree #1 [1820.000000] -> tree #1 [1813.000000]: tree with cost 1819.
+         -- tree #2 [1820.000000] -> tree #1 [1857.000000]: tree with cost 1823.
 Status : Tree Fusing :
          7 of 8
-         -- tree #1 [1820.000000] -> tree #1 [1813.000000]: tree with cost 1819.
-Status : Tree Fusing :
-         7 of 8
-         -- tree #1 [1820.000000] -> tree #1 [1813.000000]: tree with cost 1819.
+         -- tree #2 [1820.000000] -> tree #1 [1857.000000]: tree with cost 1823.
 Status : Tree Fusing :
          8 of 8
-         -- tree #1 [1820.000000] -> tree #1 [1813.000000]: tree with cost 1819.
-Status : Tree Fusing :
-         8 of 8
-         -- tree #2 [1813.000000] -> tree #1 [1820.000000]: tree with cost 1814.
-Status : SPR : 1814 1814.
-Status : SPR Finished
+         -- tree #2 [1820.000000] -> tree #1 [1857.000000]: tree with cost 1823.
 Status : Tree Fusing Finished
 Information : 
                 Trees:
-                  Storing 2 trees with costs 1813. to 1814.
+                  Storing 2 trees with costs 1806. to 1820.
                   Best cost in 1 tree 
                 Cost Mode: Normal Direct Optimization
 PASSED

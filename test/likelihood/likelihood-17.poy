@@ -6,4 +6,4 @@ set(opt:coarse:2)
 swap( all:3,spr )
 
 transform( elikelihood:(k80,mal,gap:missing) )
-report( topologytest:(FILENAME2, n:10, k:5, full) )
+report( topologytest:(FILENAME2, n:10, full) )

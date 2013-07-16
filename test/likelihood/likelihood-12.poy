@@ -2,6 +2,7 @@
 set (seed:1)
 set( opt:coarse )
 read("FILENAME1")
+select(terminals, _random:40)
 build(1)
 transform(likelihood:(aic,mpl,gap:FILENAME2))
 report(lkmodel)

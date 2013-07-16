@@ -131,7 +131,7 @@ Status : SPR Finished
 Status : Alternate : 0 Performing TBR swapping
 Status : Single TBR Finished
 Status : Alternate Finished
-Status : Running Pipeline : 1 of 2 -- Estimated finish in 4 s
+Status : Running Pipeline : 1 of 2 -- Estimated finish in 1 s
 Status : Wagner : 2 of 12 -- Wagner tree with cost 92.
 Status : Wagner : 3 of 12 -- Wagner tree with cost 172.
 Status : Wagner : 4 of 12 -- Wagner tree with cost 238.
@@ -172,7 +172,7 @@ Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
 Status : Ratcheting Finished
 Status : Perturb Iteration Finished
-Status : Running pipeline on each tree : 2 of 2 -- Estimated finish in 4 s
+Status : Running pipeline on each tree : 2 of 2 -- Estimated finish in 1 s
 Status : Perturb Iteration : 1 of 1 -- 
 Status : Ratcheting : 0 of 1 -- trees in the current optimum
 Information : Vectorized:113 of 113 characters.

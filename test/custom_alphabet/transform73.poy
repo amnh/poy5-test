@@ -1,6 +1,6 @@
 (* Read custom_alphabet with tiebreaker:first *)
 
 set (seed:1, timer:0)
-read(custom_alphabet:("FILENAME1",tcm:("alphabet"), tiebreaker:first))
+read(custom_alphabet:("2.fas",tcm:("alph.fas"), tie_breaker:first))
 build(2)
 swap(2)

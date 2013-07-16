@@ -160,7 +160,6 @@ Status : SPR Finished
 Status : Alternate : 0 Performing TBR swapping
 Status : Single TBR Finished
 Status : Alternate Finished
-Status : Running Pipeline : 1 of 2 -- Estimated finish in 3 m, 9 s
 Status : Wagner : 2 of 49 -- Wagner tree with cost 147.
 Status : Wagner : 3 of 49 -- Wagner tree with cost 180.
 Status : Wagner : 4 of 49 -- Wagner tree with cost 262.
@@ -213,42 +212,10 @@ Status : Building Wagner Tree Finished
 Status : Alternate : 0 Beginning search
 Status : Alternate : 0 SPR search
 Status : SPR : 2244 2244.
-Status : SPR : 2242 2242.
-Status : SPR : 2239 2239.
-Status : SPR : 2238 2238.
-Status : SPR : 2237 2237.
-Status : SPR : 2230 2230.
-Status : SPR : 2223 2223.
-Status : SPR : 2220 2220.
-Status : SPR : 2219 2219.
-Status : SPR : 2218 2218.
-Status : SPR : 2214 2214.
-Status : SPR : 2213 2213.
-Status : SPR : 2212 2212.
-Status : SPR : 2207 2207.
-Status : SPR : 2206 2206.
-Status : SPR : 2203 2203.
-Status : SPR : 2193 2193.
-Status : SPR : 2192 2192.
-Status : SPR : 2191 2191.
-Status : SPR : 2187 2187.
-Status : SPR : 2184 2184.
-Status : SPR : 2182 2182.
-Status : SPR : 2179 2179.
-Status : SPR : 2175 2175.
-Status : SPR : 2168 2168.
-Status : SPR : 2166 2166.
-Status : SPR : 2165 2165.
-Status : SPR Finished
-Status : Alternate : 0 Performing TBR swapping
-Status : Single TBR Finished
-Status : Alternate : 0 SPR search
-Status : SPR : 2165 2165.
 Status : SPR Finished
 Status : Alternate : 0 Performing TBR swapping
 Status : Single TBR Finished
 Status : Alternate Finished
-Status : Running Pipeline : 2 of 2 -- Estimated finish in 0 s
 Status : Running Pipeline Finished
 Information : Vectorized:113 of 113 characters.
 Status : Diagnosis : 0 Recalculating original tree
@@ -260,7 +227,7 @@ Status : Diagnosis : 2 of 2 -- Recalculating trees
 Status : Diagnosis Finished
 Information : 
                 Trees:
-                  Storing 2 trees with costs 2159. to 2233.
+                  Storing 2 trees with costs 2233. to 2244.
                   Best cost in 1 tree 
                 Cost Mode: Normal Direct Optimization
 PASSED

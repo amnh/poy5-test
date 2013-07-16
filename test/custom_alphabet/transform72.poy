@@ -1,6 +1,6 @@
 (* Read custom_alphabet with init3d:false *)
 
 set (seed:1, timer:0)
-read(custom_alphabet:("FILENAME1",tcm:("alphabet"), init3d:false))
+read(custom_alphabet:("2.fas",tcm:("alph.fas"), init3D:false))
 build(2)
 swap(2)
