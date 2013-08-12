@@ -59,25 +59,10 @@ t9           9            {}
 
 Synonyms
     
-
-
-Synonym
-    
-
-
-Value 
-
-
-t5
-
-Value 
-
-
-gamma
-
-
-
-
+    Total 1
+              
+  
+{t5, gamma, }
 
 Ignored taxa
     
@@ -111,7 +96,7 @@ Molecular
 1.fas:3      Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
 1.fas:4      Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
 
-Kolmogorov
+Likelihood
     
     Total 0
 

@@ -61,7 +61,7 @@ t5           5            {}
 
 Synonyms
     
-
+    Total 0
 
 
 
@@ -279,7 +279,7 @@ Molecular
 1.fas:4      Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
 40.aa:0      Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
 
-Kolmogorov
+Likelihood
     
     Total 0
 

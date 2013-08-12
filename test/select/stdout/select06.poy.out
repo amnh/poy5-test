@@ -59,7 +59,7 @@ t9           9            {}
 
 Synonyms
     
-
+    Total 0
 
 
 
@@ -623,7 +623,7 @@ Molecular
 41.aa:0      Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
 6.fas:0      Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
 
-Kolmogorov
+Likelihood
     
     Total 0
 
