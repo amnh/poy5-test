@@ -593,10 +593,8 @@ Status : SPR : 4423 4423.
 Status : SPR : 4405 4405.
 Status : SPR : 4389 4389.
 Status : SPR : 4383 4383.
-16-17
 Status : SPR Finished
 Status : Alternate : 0 Performing TBR swapping
-16-17
 Status : Single TBR Finished
 Status : Alternate Finished
 Status : Running pipeline on each tree : 2 of 2 -- Estimated finish in 0 s
@@ -608,10 +606,8 @@ Status : SPR : 4491 4491.
 Status : SPR : 4485 4485.
 Status : SPR : 4481 4481.
 Status : SPR : 4476 4476.
-96-15
 Status : SPR Finished
 Status : Alternate : 0 Performing TBR swapping
-96-15
 Status : Single TBR Finished
 Status : Alternate Finished
 Status : Running pipeline on each tree Finished
