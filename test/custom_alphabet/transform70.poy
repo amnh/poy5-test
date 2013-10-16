@@ -1,6 +1,6 @@
 (* Read custom_alphabet using default parameters *)
 
 set (seed:1, timer:0)
-read(custom_alphabet:("2.fas",tcm:"alph.fas"))
+read(custom_alphabet:("2.fas",tcm:("alph.fas")))
 build(2)
 swap(2)

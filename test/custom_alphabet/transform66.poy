@@ -1,6 +1,6 @@
 (* Read breakinv with init3d:false *)
 
 set (seed:1, timer:0)
-read(breakinv:("FILENAME1",tcm:"alphabet", init3d:false))
+read(breakinv:("FILENAME1",tcm:("alphabet"(, init3d:false))
 build(2)
 swap(2)
