@@ -116,9 +116,16 @@ Status : Wagner Finished
 Status : Building Wagner Tree Finished
 Status : Running Pipeline : 1 of 1 -- Estimated finish in 0 s
 Status : Running Pipeline Finished
+Information : Vectorized:167 of 167 characters.
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 1 -- Recalculating trees
+Status : Diagnosis Finished
 Status : Transforming : 1 of 1 --  transformations applied
 Status : Transforming : 0 of 169 --  characters transformed
 Status : Transforming Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
 Status : Diagnosis : 1 of 1 -- Recalculating trees
 Status : Diagnosis Finished
 Information : 
