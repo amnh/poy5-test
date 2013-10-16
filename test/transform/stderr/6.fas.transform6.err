@@ -10,7 +10,7 @@ Status : Wagner : 3 of 5 -- Wagner tree with cost 1333.
 Status : Wagner : 4 of 5 -- Wagner tree with cost 1836.
 Status : Wagner Finished
 Status : Building Wagner Tree Finished
-Status : Running Pipeline : 1 of 2 -- Estimated finish in 2 s
+Status : Running Pipeline : 1 of 2 -- Estimated finish in 1 s
 Status : Wagner : 2 of 5 -- Wagner tree with cost 853.
 Status : Wagner : 3 of 5 -- Wagner tree with cost 1398.
 Status : Wagner : 4 of 5 -- Wagner tree with cost 1669.
@@ -18,6 +18,13 @@ Status : Wagner Finished
 Status : Building Wagner Tree Finished
 Status : Running Pipeline : 2 of 2 -- Estimated finish in 0 s
 Status : Running Pipeline Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 2 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 2 of 2 -- Recalculating trees
+Status : Diagnosis Finished
 Status : Transforming : 1 of 1 --  transformations applied
 Status : Transforming : 15 of 1 --  characters transformed
 Status : Transforming Finished
