@@ -1,4 +1,4 @@
 (* Read build and swap custom alphabet *)
-read (custom_alphabet:("ca1.fas",tcm:"m1.fas"))
+read (custom_alphabet:("ca1.fas",tcm:("m1.fas")))
 build (1)
 swap (trajectory)
