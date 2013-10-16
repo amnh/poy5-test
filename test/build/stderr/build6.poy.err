@@ -6,25 +6,66 @@ Information : The file 2.fas contains sequences of 17 taxa, each sequence
 
 Status : Loading Trees : 1 of 1 -- 
 Status : Loading Trees Finished
+Status : Running Pipeline : 1 of 10 -- Estimated finish in 0 s
 Status : Loading Trees : 1 of 1 -- 
 Status : Loading Trees Finished
+Status : Running Pipeline : 2 of 10 -- Estimated finish in 0 s
 Status : Loading Trees : 1 of 1 -- 
 Status : Loading Trees Finished
+Status : Running Pipeline : 3 of 10 -- Estimated finish in 0 s
 Status : Loading Trees : 1 of 1 -- 
 Status : Loading Trees Finished
+Status : Running Pipeline : 4 of 10 -- Estimated finish in 0 s
 Status : Loading Trees : 1 of 1 -- 
 Status : Loading Trees Finished
+Status : Running Pipeline : 5 of 10 -- Estimated finish in 0 s
 Status : Loading Trees : 1 of 1 -- 
 Status : Loading Trees Finished
+Status : Running Pipeline : 6 of 10 -- Estimated finish in 0 s
 Status : Loading Trees : 1 of 1 -- 
 Status : Loading Trees Finished
+Status : Running Pipeline : 7 of 10 -- Estimated finish in 0 s
 Status : Loading Trees : 1 of 1 -- 
 Status : Loading Trees Finished
+Status : Running Pipeline : 8 of 10 -- Estimated finish in 0 s
 Status : Loading Trees : 1 of 1 -- 
 Status : Loading Trees Finished
+Status : Running Pipeline : 9 of 10 -- Estimated finish in 0 s
 Status : Loading Trees : 1 of 1 -- 
 Status : Loading Trees Finished
+Status : Running Pipeline : 10 of 10 -- Estimated finish in 0 s
 Status : Running Pipeline Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 10 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 2 of 10 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 3 of 10 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 4 of 10 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 5 of 10 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 6 of 10 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 7 of 10 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 8 of 10 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 9 of 10 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 10 of 10 -- Recalculating trees
+Status : Diagnosis Finished
 Information : 
                 Trees:
                   Storing 10 trees with costs 344. to 344.

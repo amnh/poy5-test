@@ -14,8 +14,14 @@ Status : SPR Finished
 Status : Alternate : 0 Performing TBR swapping
 Status : Single TBR Finished
 Status : Alternate Finished
+Warning : There are no active trees in memory!
+Warning : There are no active trees in memory!
 Status : Running Pipeline : 1 of 1 -- Estimated finish in 0 s
 Status : Running Pipeline Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 1 -- Recalculating trees
+Status : Diagnosis Finished
 Information : 
                 Trees:
                   Storing 1 tree with cost 54. 
