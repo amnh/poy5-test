@@ -140,6 +140,15 @@ Status : Wagner Finished
 Status : Building Wagner Tree Finished
 Status : Running Pipeline : 2 of 2 -- Estimated finish in 0 s
 Status : Running Pipeline Finished
+Information : Vectorized:88 of 88 characters.
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 2 -- Recalculating trees
+Information : Vectorized:88 of 88 characters.
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 2 of 2 -- Recalculating trees
+Status : Diagnosis Finished
 Status : Running pipeline on each tree : 1 of 2 -- 
 Warning : Data contains characters that do not support static approx. I will
           skip over these and do the best that I can.
@@ -233,6 +242,7 @@ Status : Diagnosis : 1 of 1 -- Recalculating trees
 Status : Diagnosis Finished
 Status : Perturb Iteration : 1 of 2 -- 
 Status : Resampling Characters : 0 of 1 -- trees in the current optimum
+Information : Vectorized:2 of 2 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
 Status : Resampling Characters : 1 of 1 -- trees in the current optimum
@@ -262,45 +272,44 @@ Status : Perturbing Finished
 Status : Resampling Characters Finished
 Status : Perturb Iteration : 2 of 2 -- 
 Status : Resampling Characters : 0 of 5 -- trees in the current optimum
-Information : Vectorized:2 of 2 characters.
+Information : Vectorized:1 of 1 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
 Status : Resampling Characters : 1 of 5 -- trees in the current optimum
+Information : Vectorized:1 of 1 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
 Status : Resampling Characters : 2 of 5 -- trees in the current optimum
-Information : Vectorized:3 of 3 characters.
+Information : Vectorized:1 of 1 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
 Status : Resampling Characters : 3 of 5 -- trees in the current optimum
-Information : Vectorized:2 of 2 characters.
+Information : Vectorized:1 of 1 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
 Status : Resampling Characters : 4 of 5 -- trees in the current optimum
-Information : Vectorized:2 of 2 characters.
+Information : Vectorized:1 of 1 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
 Status : Resampling Characters : 5 of 5 -- trees in the current optimum
-Status : TBR : 19 19.
-Status : TBR : 18 18.
-Status : TBR : 16 16.
-Status : TBR : 15 15.
-Status : TBR Finished
-Status : TBR : 11 11.
 Status : TBR : 10 10.
 Status : TBR : 9 9.
+Status : TBR : 8 8.
 Status : TBR Finished
-Status : TBR : 23 23.
-Status : TBR : 22 22.
-Status : TBR : 20 20.
+Status : TBR : 16 16.
+Status : TBR : 15 15.
+Status : TBR : 14 14.
 Status : TBR Finished
-Status : TBR : 12 12.
 Status : TBR : 11 11.
 Status : TBR : 10 10.
 Status : TBR Finished
-Status : TBR : 14 14.
-Status : TBR : 13 13.
-Status : TBR : 12 12.
+Status : TBR : 9 9.
+Status : TBR Finished
+Status : TBR : 19 19.
+Status : TBR : 18 18.
+Status : TBR : 17 17.
+Status : TBR : 16 16.
+Status : TBR : 15 15.
 Status : TBR Finished
 Status : Perturbing : 1 of 25 -- 
 Information : Vectorized:61 of 61 characters.
@@ -409,7 +418,7 @@ Status : Untransforming Characters : 1 of 25 --
 Information : Vectorized:88 of 88 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
-Status : Untransforming Characters : 2 of 25 -- Estimated finish in 0 s
+Status : Untransforming Characters : 2 of 25 -- Estimated finish in 1 s
 Information : Vectorized:88 of 88 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
@@ -506,14 +515,13 @@ Information : Vectorized:88 of 88 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
 Status : Untransforming Characters Finished
-Status : TBR : 758 758.
-Status : TBR : 714 714.
-Status : TBR : 704 704.
-Status : TBR : 691 691.
-Status : TBR : 642 642.
-Status : TBR : 638 638.
+Status : TBR : 773 773.
+Status : TBR : 724 724.
+Status : TBR : 719 719.
+Status : TBR : 713 713.
+Status : TBR : 692 692.
 Status : TBR Finished
-Status : Running pipeline on each tree : 2 of 2 -- Estimated finish in 15 s
+Status : Running pipeline on each tree : 2 of 2 -- Estimated finish in 16 s
 Warning : Data contains characters that do not support static approx. I will
           skip over these and do the best that I can.
 Status : Implied Alignments : 1 of 23 -- vertices calculated
@@ -602,10 +610,7 @@ Status : Transforming : 509 of 90 --  characters transformed
 Status : Transforming Finished
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
-Status : Diagnosis : 1 of 2 -- Recalculating trees
-Status : Diagnosis : 0 Recalculating original tree
-Status : Diagnosis Finished
-Status : Diagnosis : 2 of 2 -- Recalculating trees
+Status : Diagnosis : 1 of 1 -- Recalculating trees
 Status : Diagnosis Finished
 Status : Perturb Iteration : 1 of 2 -- 
 Status : Resampling Characters : 0 of 1 -- trees in the current optimum
@@ -613,9 +618,8 @@ Information : Vectorized:1 of 1 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
 Status : Resampling Characters : 1 of 1 -- trees in the current optimum
+Status : TBR : 14 14.
 Status : TBR : 13 13.
-Status : TBR : 12 12.
-Status : TBR : 11 11.
 Status : TBR Finished
 Status : Perturbing : 1 of 5 -- 
 Information : Vectorized:61 of 61 characters.
@@ -641,10 +645,10 @@ Status : Perturbing Finished
 Status : Resampling Characters Finished
 Status : Perturb Iteration : 2 of 2 -- 
 Status : Resampling Characters : 0 of 5 -- trees in the current optimum
+Information : Vectorized:1 of 1 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
 Status : Resampling Characters : 1 of 5 -- trees in the current optimum
-Information : Vectorized:1 of 1 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
 Status : Resampling Characters : 2 of 5 -- trees in the current optimum
@@ -652,28 +656,28 @@ Information : Vectorized:1 of 1 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
 Status : Resampling Characters : 3 of 5 -- trees in the current optimum
-Status : Diagnosis : 0 Recalculating original tree
-Status : Diagnosis Finished
-Status : Resampling Characters : 4 of 5 -- trees in the current optimum
 Information : Vectorized:1 of 1 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
+Status : Resampling Characters : 4 of 5 -- trees in the current optimum
+Information : Vectorized:2 of 2 characters.
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
 Status : Resampling Characters : 5 of 5 -- trees in the current optimum
-Status : TBR : 6 6.
-Status : TBR Finished
-Status : TBR : 17 17.
-Status : TBR : 16 16.
-Status : TBR : 15 15.
-Status : TBR : 14 14.
+Status : TBR : 13 13.
 Status : TBR : 12 12.
 Status : TBR Finished
+Status : TBR : 11 11.
+Status : TBR Finished
 Status : TBR : 15 15.
+Status : TBR : 12 12.
+Status : TBR : 11 11.
+Status : TBR Finished
 Status : TBR : 14 14.
 Status : TBR : 13 13.
+Status : TBR : 12 12.
 Status : TBR Finished
-Status : TBR : 9 9.
-Status : TBR Finished
-Status : TBR : 11 11.
+Status : TBR : 13 13.
 Status : TBR Finished
 Status : Perturbing : 1 of 25 -- 
 Information : Vectorized:61 of 61 characters.
@@ -879,19 +883,12 @@ Information : Vectorized:88 of 88 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
 Status : Untransforming Characters Finished
-Status : TBR : 840 840.
-Status : TBR : 837 837.
-Status : TBR : 820 820.
-Status : TBR : 813 813.
-Status : TBR : 809 809.
-Status : TBR : 801 801.
-Status : TBR : 794 794.
-Status : TBR : 791 791.
+Status : TBR : 796 796.
 Status : TBR Finished
 Status : Running pipeline on each tree Finished
 Information : 
                 Trees:
-                  Storing 2 trees with costs 622. to 741.
+                  Storing 2 trees with costs 682. to 796.
                   Best cost in 1 tree 
                 Cost Mode: Normal Direct Optimization
 PASSED

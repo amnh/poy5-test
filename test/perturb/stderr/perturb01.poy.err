@@ -104,6 +104,13 @@ Status : Wagner Finished
 Status : Building Wagner Tree Finished
 Status : Running Pipeline : 2 of 2 -- Estimated finish in 0 s
 Status : Running Pipeline Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 2 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 2 of 2 -- Recalculating trees
+Status : Diagnosis Finished
 Status : Running pipeline on each tree : 1 of 2 -- 
 Status : Perturb Iteration : 1 of 1 -- 
 Status : Ratcheting : 0 of 1 -- trees in the current optimum
@@ -112,15 +119,15 @@ Status : Diagnosis Finished
 Status : Ratcheting : 1 of 1 -- trees in the current optimum
 Status : Alternate : 0 Beginning search
 Status : Alternate : 0 SPR search
-Status : SPR : 896 896.
-Status : SPR : 895 895.
-Status : SPR : 893 893.
-Status : SPR : 892 892.
+Status : SPR : 887 887.
+Status : SPR : 886 886.
+Status : SPR : 884 884.
+Status : SPR : 883 883.
 Status : SPR Finished
 Status : Alternate : 0 Performing TBR swapping
 Status : Single TBR Finished
 Status : Alternate : 0 SPR search
-Status : SPR : 892 892.
+Status : SPR : 883 883.
 Status : SPR Finished
 Status : Alternate : 0 Performing TBR swapping
 Status : Single TBR Finished
@@ -144,19 +151,19 @@ Status : Diagnosis Finished
 Status : Ratcheting : 1 of 1 -- trees in the current optimum
 Status : Alternate : 0 Beginning search
 Status : Alternate : 0 SPR search
-Status : SPR : 607 607.
-Status : SPR : 605 605.
-Status : SPR : 604 604.
-Status : SPR : 603 603.
-Status : SPR : 602 602.
-Status : SPR : 601 601.
-Status : SPR : 600 600.
-Status : SPR : 599 599.
+Status : SPR : 651 651.
+Status : SPR : 649 649.
+Status : SPR : 648 648.
+Status : SPR : 647 647.
+Status : SPR : 646 646.
+Status : SPR : 645 645.
+Status : SPR : 644 644.
+Status : SPR : 643 643.
 Status : SPR Finished
 Status : Alternate : 0 Performing TBR swapping
 Status : Single TBR Finished
 Status : Alternate : 0 SPR search
-Status : SPR : 599 599.
+Status : SPR : 643 643.
 Status : SPR Finished
 Status : Alternate : 0 Performing TBR swapping
 Status : Single TBR Finished

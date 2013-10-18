@@ -112,6 +112,13 @@ Status : Wagner Finished
 Status : Building Wagner Tree Finished
 Status : Running Pipeline : 2 of 2 -- Estimated finish in 0 s
 Status : Running Pipeline Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 2 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 2 of 2 -- Recalculating trees
+Status : Diagnosis Finished
 Status : Running pipeline on each tree : 1 of 2 -- 
 Status : Perturb Iteration : 1 of 1 -- 
 Status : Ratcheting : 0 of 1 -- trees in the current optimum
@@ -120,12 +127,12 @@ Status : Diagnosis Finished
 Status : Ratcheting : 1 of 1 -- trees in the current optimum
 Status : Alternate : 0 Beginning search
 Status : Alternate : 0 SPR search
-Status : SPR : 2709 2709.
+Status : SPR : 2700 2700.
 Status : SPR Finished
 Status : Alternate : 0 Performing TBR swapping
 Status : Single TBR Finished
 Status : Alternate : 0 SPR search
-Status : SPR : 2709 2709.
+Status : SPR : 2700 2700.
 Status : SPR Finished
 Status : Alternate : 0 Performing TBR swapping
 Status : Single TBR Finished
@@ -147,7 +154,7 @@ Status : Alternate : 0 Performing TBR swapping
 Status : Single TBR Finished
 Status : Alternate Finished
 Status : Running pipeline on each tree :
-         2 of 2 -- Estimated finish in 1 m, 6 s
+         2 of 2 -- Estimated finish in 1 m, 7 s
 Status : Perturb Iteration : 1 of 1 -- 
 Status : Ratcheting : 0 of 1 -- trees in the current optimum
 Status : Diagnosis : 0 Recalculating original tree
@@ -155,31 +162,27 @@ Status : Diagnosis Finished
 Status : Ratcheting : 1 of 1 -- trees in the current optimum
 Status : Alternate : 0 Beginning search
 Status : Alternate : 0 SPR search
-Status : SPR : 1896 1896.
-Status : SPR : 1894 1894.
-Status : SPR : 1892 1892.
-Status : SPR : 1883 1883.
+Status : SPR : 1902 1902.
+Status : SPR : 1900 1900.
+Status : SPR : 1898 1898.
+Status : SPR : 1889 1889.
+Status : SPR : 1882 1882.
+Status : SPR : 1881 1881.
+Status : SPR : 1880 1880.
 Status : SPR : 1876 1876.
-Status : SPR : 1875 1875.
-Status : SPR : 1874 1874.
-Status : SPR : 1870 1870.
-Status : SPR : 1865 1865.
-Status : SPR : 1860 1860.
-Status : SPR : 1858 1858.
-Status : SPR : 1856 1856.
-Status : SPR : 1846 1846.
-Status : SPR : 1845 1845.
-Status : SPR : 1841 1841.
-Status : SPR : 1840 1840.
-Status : SPR : 1838 1838.
-Status : SPR : 1836 1836.
-Status : SPR : 1834 1834.
-Status : SPR : 1828 1828.
+Status : SPR : 1871 1871.
+Status : SPR : 1866 1866.
+Status : SPR : 1864 1864.
+Status : SPR : 1862 1862.
+Status : SPR : 1861 1861.
+Status : SPR : 1857 1857.
+Status : SPR : 1853 1853.
+Status : SPR : 1849 1849.
 Status : SPR Finished
 Status : Alternate : 0 Performing TBR swapping
 Status : Single TBR Finished
 Status : Alternate : 0 SPR search
-Status : SPR : 1828 1828.
+Status : SPR : 1849 1849.
 Status : SPR Finished
 Status : Alternate : 0 Performing TBR swapping
 Status : Single TBR Finished
@@ -190,7 +193,7 @@ Status : Ratcheting Finished
 Status : Perturb Iteration Finished
 Status : Alternate : 0 Beginning search
 Status : Alternate : 0 SPR search
-Status : SPR : 1804 1804.
+Status : SPR : 1824 1824.
 Status : SPR Finished
 Status : Alternate : 0 Performing TBR swapping
 Status : Single TBR Finished
@@ -198,7 +201,7 @@ Status : Alternate Finished
 Status : Running pipeline on each tree Finished
 Information : 
                 Trees:
-                  Storing 2 trees with costs 1804. to 1864.
+                  Storing 2 trees with costs 1824. to 1864.
                   Best cost in 1 tree 
                 Cost Mode: Normal Direct Optimization
 PASSED

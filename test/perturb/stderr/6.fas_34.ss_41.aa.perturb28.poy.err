@@ -140,148 +140,142 @@ Status : Wagner Finished
 Status : Building Wagner Tree Finished
 Status : Running Pipeline : 2 of 2 -- Estimated finish in 0 s
 Status : Running Pipeline Finished
+Information : Vectorized:161 of 161 characters.
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 2 -- Recalculating trees
+Information : Vectorized:161 of 161 characters.
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 2 of 2 -- Recalculating trees
+Status : Diagnosis Finished
 Status : Running pipeline on each tree : 1 of 2 -- 
-Status : Perturb Iteration : 1 of 1 -- 
-Status : Resampling Characters : 0 of 1 -- trees in the current optimum
-Information : Vectorized:9 of 9 characters.
-Status : Diagnosis : 0 Recalculating original tree
-Status : Diagnosis Finished
-Status : Resampling Characters : 1 of 1 -- trees in the current optimum
-Status : TBR : 31 31.
-Status : TBR : 30 30.
-Status : TBR : 28 28.
-Status : TBR : 26 26.
-Status : TBR : 24 24.
-Status : TBR : 22 22.
-Status : TBR : 20 20.
-Status : TBR : 19 19.
-Status : TBR : 17 17.
-Status : TBR : 16 16.
-Status : TBR Finished
-Status : Perturbing : 1 of 5 -- 
-Information : Vectorized:161 of 161 characters.
-Status : Diagnosis : 0 Recalculating original tree
-Status : Diagnosis Finished
-Status : Perturbing : 2 of 5 -- Estimated finish in 13 s
-Information : Vectorized:161 of 161 characters.
-Status : Diagnosis : 0 Recalculating original tree
-Status : Diagnosis Finished
-Status : Perturbing : 3 of 5 -- Estimated finish in 10 s
-Information : Vectorized:161 of 161 characters.
-Status : Diagnosis : 0 Recalculating original tree
-Status : Diagnosis Finished
-Status : Perturbing : 4 of 5 -- Estimated finish in 7 s
-Information : Vectorized:161 of 161 characters.
-Status : Diagnosis : 0 Recalculating original tree
-Status : Diagnosis Finished
-Status : Perturbing : 5 of 5 -- Estimated finish in 3 s
-Information : Vectorized:161 of 161 characters.
-Status : Diagnosis : 0 Recalculating original tree
-Status : Diagnosis Finished
-Status : Perturbing Finished
-Status : Resampling Characters Finished
-Status : Perturb Iteration Finished
-Status : Tree search : 1 of 5 -- 
-Status : TBR : 7061 7061.
-Status : TBR : 6757 6757.
-Status : TBR : 6724 6724.
-Status : TBR : 6412 6412.
-Status : TBR : 5950 5950.
-Status : TBR : 5918 5918.
-Status : TBR : 5843 5843.
-Status : TBR : 5833 5833.
-Status : TBR : 5746 5746.
-Status : TBR : 5726 5726.
-Status : TBR : 5722 5722.
-Status : TBR Finished
-Status : Tree search : 2 of 5 -- Estimated finish in 4 m, 11 s
-Status : TBR : 7044 7044.
-Status : TBR : 6729 6729.
-Status : TBR : 6672 6672.
-Status : TBR : 6375 6375.
-Status : TBR : 5907 5907.
-Status : TBR : 5887 5887.
-Status : TBR : 5874 5874.
-Status : TBR : 5859 5859.
-Status : TBR : 5839 5839.
-Status : TBR : 5743 5743.
-Status : TBR : 5738 5738.
-Status : TBR : 5723 5723.
-Status : TBR : 5714 5714.
-Status : TBR Finished
-Status : Tree search : 3 of 5 -- Estimated finish in 2 m, 57 s
-Status : TBR : 7132 7132.
-Status : TBR : 6845 6845.
-Status : TBR : 6827 6827.
-Status : TBR : 6516 6516.
-Status : TBR : 6494 6494.
-Status : TBR : 6034 6034.
-Status : TBR : 5998 5998.
-Status : TBR : 5928 5928.
-Status : TBR : 5841 5841.
-Status : TBR : 5819 5819.
-Status : TBR : 5800 5800.
-Status : TBR : 5761 5761.
-Status : TBR : 5750 5750.
-Status : TBR : 5748 5748.
-Status : TBR : 5711 5711.
-Status : TBR Finished
-Status : Tree search : 4 of 5 -- Estimated finish in 1 m, 58 s
-Status : TBR : 7131 7131.
-Status : TBR : 6852 6852.
-Status : TBR : 6815 6815.
-Status : TBR : 6510 6510.
-Status : TBR : 6494 6494.
-Status : TBR : 6034 6034.
-Status : TBR : 5998 5998.
-Status : TBR : 5910 5910.
-Status : TBR : 5841 5841.
-Status : TBR : 5819 5819.
-Status : TBR : 5800 5800.
-Status : TBR : 5782 5782.
-Status : TBR : 5750 5750.
-Status : TBR : 5732 5732.
-Status : TBR : 5731 5731.
-Status : TBR : 5711 5711.
-Status : TBR Finished
-Status : Tree search : 5 of 5 -- Estimated finish in 57 s
-Status : TBR : 6981 6981.
-Status : TBR : 6690 6690.
-Status : TBR : 6677 6677.
-Status : TBR : 6619 6619.
-Status : TBR : 6375 6375.
-Status : TBR : 6219 6219.
-Status : TBR : 6108 6108.
-Status : TBR : 6088 6088.
-Status : TBR : 6082 6082.
-Status : TBR : 6051 6051.
-Status : TBR : 6024 6024.
-Status : TBR : 5743 5743.
-Status : TBR : 5726 5726.
-Status : TBR : 5722 5722.
-Status : TBR Finished
-Status : Tree search Finished
-Status : Running pipeline on each tree :
-         2 of 2 -- Estimated finish in 6 m, 4 s
 Status : Perturb Iteration : 1 of 1 -- 
 Status : Resampling Characters : 0 of 1 -- trees in the current optimum
 Information : Vectorized:10 of 10 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
 Status : Resampling Characters : 1 of 1 -- trees in the current optimum
+Status : TBR : 24 24.
+Status : TBR : 23 23.
+Status : TBR : 22 22.
+Status : TBR : 21 21.
+Status : TBR : 19 19.
+Status : TBR : 18 18.
 Status : TBR : 17 17.
 Status : TBR : 16 16.
 Status : TBR : 15 15.
 Status : TBR : 14 14.
 Status : TBR : 13 13.
-Status : TBR : 11 11.
-Status : TBR : 10 10.
 Status : TBR Finished
 Status : Perturbing : 1 of 5 -- 
 Information : Vectorized:161 of 161 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
-Status : Perturbing : 2 of 5 -- Estimated finish in 13 s
+Status : Perturbing : 2 of 5 -- Estimated finish in 14 s
+Information : Vectorized:161 of 161 characters.
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Perturbing : 3 of 5 -- Estimated finish in 11 s
+Information : Vectorized:161 of 161 characters.
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Perturbing : 4 of 5 -- Estimated finish in 7 s
+Information : Vectorized:161 of 161 characters.
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Perturbing : 5 of 5 -- Estimated finish in 4 s
+Information : Vectorized:161 of 161 characters.
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Perturbing Finished
+Status : Resampling Characters Finished
+Status : Perturb Iteration Finished
+Status : Tree search : 1 of 3 -- 
+Status : TBR : 6894 6894.
+Status : TBR : 6780 6780.
+Status : TBR : 6688 6688.
+Status : TBR : 6673 6673.
+Status : TBR : 6547 6547.
+Status : TBR : 6537 6537.
+Status : TBR : 6263 6263.
+Status : TBR : 5961 5961.
+Status : TBR : 5938 5938.
+Status : TBR : 5909 5909.
+Status : TBR : 5873 5873.
+Status : TBR : 5871 5871.
+Status : TBR : 5866 5866.
+Status : TBR : 5759 5759.
+Status : TBR : 5751 5751.
+Status : TBR : 5744 5744.
+Status : TBR : 5726 5726.
+Status : TBR : 5722 5722.
+Status : TBR : 5714 5714.
+Status : TBR Finished
+Status : Tree search : 2 of 3 -- Estimated finish in 2 m, 25 s
+Status : TBR : 6907 6907.
+Status : TBR : 6708 6708.
+Status : TBR : 6640 6640.
+Status : TBR : 6530 6530.
+Status : TBR : 6267 6267.
+Status : TBR : 6017 6017.
+Status : TBR : 5997 5997.
+Status : TBR : 5965 5965.
+Status : TBR : 5959 5959.
+Status : TBR : 5952 5952.
+Status : TBR : 5930 5930.
+Status : TBR : 5902 5902.
+Status : TBR : 5899 5899.
+Status : TBR : 5846 5846.
+Status : TBR : 5829 5829.
+Status : TBR : 5828 5828.
+Status : TBR : 5775 5775.
+Status : TBR : 5768 5768.
+Status : TBR : 5764 5764.
+Status : TBR : 5756 5756.
+Status : TBR : 5745 5745.
+Status : TBR Finished
+Status : Tree search : 3 of 3 -- Estimated finish in 1 m, 32 s
+Status : TBR : 6908 6908.
+Status : TBR : 6725 6725.
+Status : TBR : 6617 6617.
+Status : TBR : 6589 6589.
+Status : TBR : 6354 6354.
+Status : TBR : 6168 6168.
+Status : TBR : 6159 6159.
+Status : TBR : 6124 6124.
+Status : TBR : 6071 6071.
+Status : TBR : 6067 6067.
+Status : TBR : 6042 6042.
+Status : TBR : 6034 6034.
+Status : TBR : 6022 6022.
+Status : TBR : 6010 6010.
+Status : TBR : 5755 5755.
+Status : TBR : 5743 5743.
+Status : TBR : 5738 5738.
+Status : TBR : 5723 5723.
+Status : TBR : 5714 5714.
+Status : TBR Finished
+Status : Tree search Finished
+Status : Running pipeline on each tree :
+         2 of 2 -- Estimated finish in 6 m, 11 s
+Status : Perturb Iteration : 1 of 1 -- 
+Status : Resampling Characters : 0 of 1 -- trees in the current optimum
+Information : Vectorized:10 of 10 characters.
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Resampling Characters : 1 of 1 -- trees in the current optimum
+Status : TBR : 25 25.
+Status : TBR : 24 24.
+Status : TBR : 21 21.
+Status : TBR : 20 20.
+Status : TBR : 19 19.
+Status : TBR Finished
+Status : Perturbing : 1 of 5 -- 
+Information : Vectorized:161 of 161 characters.
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Perturbing : 2 of 5 -- Estimated finish in 14 s
 Information : Vectorized:161 of 161 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
@@ -301,104 +295,105 @@ Status : Perturbing Finished
 Status : Resampling Characters Finished
 Status : Perturb Iteration Finished
 Status : Tree search : 1 of 5 -- 
-Status : TBR : 6903 6903.
-Status : TBR : 6673 6673.
-Status : TBR : 6636 6636.
-Status : TBR : 6469 6469.
-Status : TBR : 6460 6460.
-Status : TBR : 6387 6387.
-Status : TBR : 6356 6356.
-Status : TBR : 6353 6353.
-Status : TBR : 6308 6308.
-Status : TBR : 6088 6088.
-Status : TBR : 6054 6054.
-Status : TBR : 6021 6021.
-Status : TBR : 5929 5929.
-Status : TBR : 5918 5918.
-Status : TBR : 5907 5907.
-Status : TBR : 5892 5892.
-Status : TBR : 5848 5848.
-Status : TBR : 5796 5796.
-Status : TBR : 5783 5783.
-Status : TBR : 5770 5770.
-Status : TBR : 5752 5752.
-Status : TBR : 5733 5733.
-Status : TBR : 5732 5732.
-Status : TBR Finished
-Status : Tree search : 2 of 5 -- Estimated finish in 5 m, 57 s
-Status : TBR : 6887 6887.
-Status : TBR : 6561 6561.
-Status : TBR : 6551 6551.
-Status : TBR : 6342 6342.
-Status : TBR : 6326 6326.
-Status : TBR : 6143 6143.
-Status : TBR : 5849 5849.
-Status : TBR : 5844 5844.
-Status : TBR : 5765 5765.
-Status : TBR : 5742 5742.
-Status : TBR Finished
-Status : Tree search : 3 of 5 -- Estimated finish in 3 m, 52 s
-Status : TBR : 7167 7167.
-Status : TBR : 6948 6948.
-Status : TBR : 6913 6913.
-Status : TBR : 6749 6749.
-Status : TBR : 6506 6506.
-Status : TBR : 6438 6438.
-Status : TBR : 6395 6395.
-Status : TBR : 6380 6380.
-Status : TBR : 6374 6374.
-Status : TBR : 6264 6264.
-Status : TBR : 6252 6252.
-Status : TBR : 6242 6242.
-Status : TBR : 6070 6070.
-Status : TBR : 5900 5900.
-Status : TBR : 5874 5874.
-Status : TBR : 5865 5865.
-Status : TBR : 5833 5833.
-Status : TBR : 5808 5808.
-Status : TBR : 5749 5749.
-Status : TBR : 5741 5741.
-Status : TBR : 5733 5733.
-Status : TBR : 5732 5732.
-Status : TBR Finished
-Status : Tree search : 4 of 5 -- Estimated finish in 2 m, 31 s
-Status : TBR : 7184 7184.
-Status : TBR : 6986 6986.
 Status : TBR : 6942 6942.
-Status : TBR : 6921 6921.
-Status : TBR : 6686 6686.
-Status : TBR : 6642 6642.
-Status : TBR : 6611 6611.
-Status : TBR : 6577 6577.
-Status : TBR : 6525 6525.
+Status : TBR : 6653 6653.
+Status : TBR : 6482 6482.
 Status : TBR : 6447 6447.
-Status : TBR : 6320 6320.
-Status : TBR : 6180 6180.
-Status : TBR : 5881 5881.
-Status : TBR : 5821 5821.
-Status : TBR : 5805 5805.
-Status : TBR : 5797 5797.
+Status : TBR : 6411 6411.
+Status : TBR : 6327 6327.
+Status : TBR : 6189 6189.
+Status : TBR : 6181 6181.
+Status : TBR : 6105 6105.
+Status : TBR : 6065 6065.
+Status : TBR : 5836 5836.
+Status : TBR : 5831 5831.
+Status : TBR : 5799 5799.
+Status : TBR : 5781 5781.
+Status : TBR : 5770 5770.
+Status : TBR : 5757 5757.
+Status : TBR : 5741 5741.
+Status : TBR : 5732 5732.
+Status : TBR Finished
+Status : Tree search : 2 of 5 -- Estimated finish in 4 m, 60 s
+Status : TBR : 6966 6966.
+Status : TBR : 6653 6653.
+Status : TBR : 6482 6482.
+Status : TBR : 6447 6447.
+Status : TBR : 6429 6429.
+Status : TBR : 6398 6398.
+Status : TBR : 6362 6362.
+Status : TBR : 6334 6334.
+Status : TBR : 5995 5995.
+Status : TBR : 5942 5942.
+Status : TBR : 5849 5849.
+Status : TBR : 5828 5828.
+Status : TBR : 5815 5815.
+Status : TBR : 5790 5790.
+Status : TBR : 5785 5785.
+Status : TBR : 5778 5778.
+Status : TBR : 5774 5774.
+Status : TBR : 5772 5772.
+Status : TBR : 5757 5757.
+Status : TBR : 5741 5741.
+Status : TBR : 5739 5739.
+Status : TBR Finished
+Status : Tree search : 3 of 5 -- Estimated finish in 4 m, 24 s
+Status : TBR : 6658 6658.
+Status : TBR : 6472 6472.
+Status : TBR : 6455 6455.
+Status : TBR : 6060 6060.
+Status : TBR : 6046 6046.
+Status : TBR : 6033 6033.
+Status : TBR : 6010 6010.
+Status : TBR : 5923 5923.
+Status : TBR : 5912 5912.
+Status : TBR : 5911 5911.
+Status : TBR : 5905 5905.
+Status : TBR : 5882 5882.
+Status : TBR : 5835 5835.
+Status : TBR : 5794 5794.
+Status : TBR : 5790 5790.
+Status : TBR : 5775 5775.
+Status : TBR : 5770 5770.
+Status : TBR : 5766 5766.
+Status : TBR : 5756 5756.
+Status : TBR Finished
+Status : Tree search : 4 of 5 -- Estimated finish in 2 m, 54 s
+Status : TBR : 6631 6631.
+Status : TBR : 6482 6482.
+Status : TBR : 6447 6447.
+Status : TBR : 6401 6401.
+Status : TBR : 6065 6065.
+Status : TBR : 6048 6048.
+Status : TBR : 6045 6045.
+Status : TBR : 6003 6003.
+Status : TBR : 5987 5987.
+Status : TBR : 5935 5935.
+Status : TBR : 5906 5906.
+Status : TBR : 5893 5893.
+Status : TBR : 5889 5889.
+Status : TBR : 5818 5818.
+Status : TBR : 5810 5810.
+Status : TBR : 5784 5784.
+Status : TBR : 5775 5775.
+Status : TBR : 5770 5770.
+Status : TBR : 5766 5766.
 Status : TBR : 5752 5752.
 Status : TBR : 5745 5745.
 Status : TBR Finished
-Status : Tree search : 5 of 5 -- Estimated finish in 1 m, 27 s
-Status : TBR : 6897 6897.
-Status : TBR : 6637 6637.
-Status : TBR : 6632 6632.
-Status : TBR : 6504 6504.
-Status : TBR : 6478 6478.
-Status : TBR : 6409 6409.
-Status : TBR : 6395 6395.
-Status : TBR : 6352 6352.
-Status : TBR : 6321 6321.
-Status : TBR : 5992 5992.
-Status : TBR : 5965 5965.
-Status : TBR : 5864 5864.
-Status : TBR : 5860 5860.
-Status : TBR : 5801 5801.
-Status : TBR : 5797 5797.
-Status : TBR : 5781 5781.
-Status : TBR : 5752 5752.
+Status : Tree search : 5 of 5 -- Estimated finish in 1 m, 29 s
+Status : TBR : 6634 6634.
+Status : TBR : 6358 6358.
+Status : TBR : 6255 6255.
+Status : TBR : 6217 6217.
+Status : TBR : 5901 5901.
+Status : TBR : 5859 5859.
+Status : TBR : 5848 5848.
+Status : TBR : 5837 5837.
+Status : TBR : 5800 5800.
+Status : TBR : 5782 5782.
+Status : TBR : 5753 5753.
+Status : TBR : 5745 5745.
 Status : TBR Finished
 Status : Tree search Finished
 Status : Running pipeline on each tree Finished

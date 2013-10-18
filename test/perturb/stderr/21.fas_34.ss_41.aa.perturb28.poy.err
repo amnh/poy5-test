@@ -139,18 +139,25 @@ Status : Wagner Finished
 Status : Building Wagner Tree Finished
 Status : Running Pipeline : 2 of 2 -- Estimated finish in 0 s
 Status : Running Pipeline Finished
+Information : Vectorized:161 of 161 characters.
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 2 -- Recalculating trees
+Information : Vectorized:161 of 161 characters.
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 2 of 2 -- Recalculating trees
+Status : Diagnosis Finished
 Status : Running pipeline on each tree : 1 of 2 -- 
 Status : Perturb Iteration : 1 of 1 -- 
 Status : Resampling Characters : 0 of 1 -- trees in the current optimum
-Information : Vectorized:9 of 9 characters.
+Information : Vectorized:10 of 10 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
 Status : Resampling Characters : 1 of 1 -- trees in the current optimum
-Status : TBR : 20 20.
-Status : TBR : 18 18.
-Status : TBR : 17 17.
-Status : TBR : 15 15.
-Status : TBR : 14 14.
+Status : TBR : 13 13.
+Status : TBR : 12 12.
+Status : TBR : 11 11.
 Status : TBR Finished
 Status : Perturbing : 1 of 5 -- 
 Information : Vectorized:161 of 161 characters.
@@ -175,72 +182,37 @@ Status : Diagnosis Finished
 Status : Perturbing Finished
 Status : Resampling Characters Finished
 Status : Perturb Iteration Finished
-Status : Tree search : 1 of 5 -- 
-Status : TBR : 878 878.
-Status : TBR : 873 873.
-Status : TBR : 859 859.
-Status : TBR : 855 855.
-Status : TBR : 695 695.
-Status : TBR : 685 685.
-Status : TBR : 677 677.
-Status : TBR : 675 675.
-Status : TBR : 667 667.
-Status : TBR : 665 665.
-Status : TBR Finished
-Status : Tree search : 2 of 5 -- Estimated finish in 2 s
-Status : TBR : 878 878.
-Status : TBR : 862 862.
-Status : TBR : 848 848.
-Status : TBR : 844 844.
-Status : TBR : 683 683.
-Status : TBR : 676 676.
-Status : TBR : 665 665.
-Status : TBR : 662 662.
-Status : TBR Finished
-Status : Tree search : 3 of 5 -- Estimated finish in 1 s
-Status : TBR : 875 875.
-Status : TBR : 857 857.
-Status : TBR : 843 843.
-Status : TBR : 839 839.
-Status : TBR : 677 677.
-Status : TBR : 671 671.
-Status : TBR : 668 668.
-Status : TBR : 662 662.
-Status : TBR Finished
-Status : Tree search : 4 of 5 -- Estimated finish in 1 s
-Status : TBR : 868 868.
-Status : TBR : 862 862.
-Status : TBR : 848 848.
-Status : TBR : 844 844.
-Status : TBR : 840 840.
-Status : TBR : 676 676.
-Status : TBR : 665 665.
-Status : TBR : 661 661.
-Status : TBR : 658 658.
-Status : TBR Finished
-Status : Tree search : 5 of 5 -- Estimated finish in 0 s
-Status : TBR : 868 868.
-Status : TBR : 853 853.
-Status : TBR : 839 839.
-Status : TBR : 835 835.
-Status : TBR : 834 834.
-Status : TBR : 665 665.
+Status : Tree search : 1 of 4 -- 
 Status : TBR : 663 663.
-Status : TBR : 653 653.
+Status : TBR : 661 661.
+Status : TBR : 654 654.
+Status : TBR Finished
+Status : Tree search : 2 of 4 -- Estimated finish in 2 s
+Status : TBR : 660 660.
+Status : TBR Finished
+Status : Tree search : 3 of 4 -- Estimated finish in 1 s
+Status : TBR : 657 657.
+Status : TBR Finished
+Status : Tree search : 4 of 4 -- Estimated finish in 0 s
+Status : TBR : 663 663.
+Status : TBR : 661 661.
+Status : TBR : 654 654.
 Status : TBR Finished
 Status : Tree search Finished
-Status : Running pipeline on each tree : 2 of 2 -- Estimated finish in 3 s
+Status : Running pipeline on each tree : 2 of 2 -- Estimated finish in 2 s
 Status : Perturb Iteration : 1 of 1 -- 
 Status : Resampling Characters : 0 of 1 -- trees in the current optimum
 Information : Vectorized:9 of 9 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
 Status : Resampling Characters : 1 of 1 -- trees in the current optimum
-Status : TBR : 313 313.
-Status : TBR : 286 286.
-Status : TBR : 279 279.
-Status : TBR : 274 274.
-Status : TBR : 271 271.
+Status : TBR : 60 60.
+Status : TBR : 59 59.
+Status : TBR : 58 58.
+Status : TBR : 57 57.
+Status : TBR : 55 55.
+Status : TBR : 54 54.
+Status : TBR : 53 53.
 Status : TBR Finished
 Status : Perturbing : 1 of 5 -- 
 Information : Vectorized:161 of 161 characters.
@@ -266,33 +238,62 @@ Status : Perturbing Finished
 Status : Resampling Characters Finished
 Status : Perturb Iteration Finished
 Status : Tree search : 1 of 5 -- 
-Status : TBR : 694 694.
-Status : TBR : 661 661.
-Status : TBR : 653 653.
+Status : TBR : 918 918.
+Status : TBR : 879 879.
+Status : TBR : 874 874.
+Status : TBR : 794 794.
+Status : TBR : 747 747.
+Status : TBR : 744 744.
+Status : TBR : 739 739.
+Status : TBR : 725 725.
+Status : TBR : 668 668.
+Status : TBR : 663 663.
 Status : TBR Finished
 Status : Tree search : 2 of 5 -- Estimated finish in 2 s
-Status : TBR : 661 661.
-Status : TBR : 653 653.
+Status : TBR : 913 913.
+Status : TBR : 879 879.
+Status : TBR : 874 874.
+Status : TBR : 794 794.
+Status : TBR : 747 747.
+Status : TBR : 744 744.
+Status : TBR : 739 739.
+Status : TBR : 725 725.
+Status : TBR : 668 668.
+Status : TBR : 663 663.
 Status : TBR Finished
 Status : Tree search : 3 of 5 -- Estimated finish in 1 s
-Status : TBR : 660 660.
-Status : TBR : 654 654.
-Status : TBR : 653 653.
+Status : TBR : 772 772.
+Status : TBR : 734 734.
+Status : TBR : 675 675.
+Status : TBR : 674 674.
+Status : TBR : 668 668.
+Status : TBR : 659 659.
 Status : TBR Finished
 Status : Tree search : 4 of 5 -- Estimated finish in 1 s
+Status : TBR : 831 831.
+Status : TBR : 808 808.
+Status : TBR : 734 734.
+Status : TBR : 675 675.
 Status : TBR : 663 663.
-Status : TBR : 662 662.
-Status : TBR : 660 660.
+Status : TBR : 659 659.
 Status : TBR Finished
 Status : Tree search : 5 of 5 -- Estimated finish in 0 s
-Status : TBR : 662 662.
-Status : TBR : 660 660.
+Status : TBR : 918 918.
+Status : TBR : 878 878.
+Status : TBR : 874 874.
+Status : TBR : 794 794.
+Status : TBR : 747 747.
+Status : TBR : 744 744.
+Status : TBR : 739 739.
+Status : TBR : 725 725.
+Status : TBR : 668 668.
+Status : TBR : 663 663.
 Status : TBR Finished
 Status : Tree search Finished
 Status : Running pipeline on each tree Finished
 Information : 
                 Trees:
-                  Storing 2 trees with costs 634. to 635.
+                  Storing 2 trees with costs 634. to 640.
                   Best cost in 1 tree 
                 Cost Mode: Normal Direct Optimization
 PASSED

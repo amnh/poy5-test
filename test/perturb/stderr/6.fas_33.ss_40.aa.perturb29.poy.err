@@ -140,6 +140,15 @@ Status : Wagner Finished
 Status : Building Wagner Tree Finished
 Status : Running Pipeline : 2 of 2 -- Estimated finish in 0 s
 Status : Running Pipeline Finished
+Information : Vectorized:97 of 97 characters.
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 2 -- Recalculating trees
+Information : Vectorized:97 of 97 characters.
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 2 of 2 -- Recalculating trees
+Status : Diagnosis Finished
 Status : Running pipeline on each tree : 1 of 2 -- 
 Status : Perturb Iteration : 1 of 2 -- 
 Status : Ratcheting : 0 of 1 -- trees in the current optimum
@@ -147,163 +156,158 @@ Information : Vectorized:97 of 97 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
 Status : Ratcheting : 1 of 1 -- trees in the current optimum
-Status : TBR : 5480 5480.
+Status : TBR : 5323 5323.
 Status : TBR Finished
-Status : Perturbing : 1 of 4 -- 
+Status : Perturbing : 1 of 3 -- 
 Information : Vectorized:97 of 97 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
-Status : Perturbing : 2 of 4 -- Estimated finish in 8 s
+Status : Perturbing : 2 of 3 -- Estimated finish in 5 s
 Information : Vectorized:97 of 97 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
-Status : Perturbing : 3 of 4 -- Estimated finish in 5 s
-Information : Vectorized:97 of 97 characters.
-Status : Diagnosis : 0 Recalculating original tree
-Status : Diagnosis Finished
-Status : Perturbing : 4 of 4 -- Estimated finish in 3 s
+Status : Perturbing : 3 of 3 -- Estimated finish in 3 s
 Information : Vectorized:97 of 97 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
 Status : Perturbing Finished
 Status : Ratcheting Finished
 Status : Perturb Iteration : 2 of 2 -- 
-Status : Ratcheting : 0 of 4 -- trees in the current optimum
+Status : Ratcheting : 0 of 3 -- trees in the current optimum
 Information : Vectorized:97 of 97 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
-Status : Ratcheting : 1 of 4 -- trees in the current optimum
+Status : Ratcheting : 1 of 3 -- trees in the current optimum
 Information : Vectorized:97 of 97 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
-Status : Ratcheting : 2 of 4 -- trees in the current optimum
+Status : Ratcheting : 2 of 3 -- trees in the current optimum
 Information : Vectorized:97 of 97 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
-Status : Ratcheting : 3 of 4 -- trees in the current optimum
-Information : Vectorized:97 of 97 characters.
-Status : Diagnosis : 0 Recalculating original tree
-Status : Diagnosis Finished
-Status : Ratcheting : 4 of 4 -- trees in the current optimum
-Status : TBR : 10138 10138.
+Status : Ratcheting : 3 of 3 -- trees in the current optimum
+Status : TBR : 10319 10319.
 Status : TBR Finished
-Status : TBR : 5306 5306.
+Status : TBR : 5296 5296.
 Status : TBR Finished
-Status : TBR : 5360 5360.
-Status : TBR : 5359 5359.
-Status : TBR : 5340 5340.
+Status : TBR : 5288 5288.
 Status : TBR Finished
-Status : TBR : 5302 5302.
-Status : TBR Finished
-Status : Perturbing : 1 of 12 -- 
+Status : Perturbing : 1 of 9 -- 
 Information : Vectorized:97 of 97 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
-Status : Perturbing : 2 of 12 -- Estimated finish in 28 s
+Status : Perturbing : 2 of 9 -- Estimated finish in 20 s
 Information : Vectorized:97 of 97 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
-Status : Perturbing : 3 of 12 -- Estimated finish in 25 s
+Status : Perturbing : 3 of 9 -- Estimated finish in 18 s
 Information : Vectorized:97 of 97 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
-Status : Perturbing : 4 of 12 -- Estimated finish in 23 s
+Status : Perturbing : 4 of 9 -- Estimated finish in 15 s
 Information : Vectorized:97 of 97 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
-Status : Perturbing : 5 of 12 -- Estimated finish in 20 s
+Status : Perturbing : 5 of 9 -- Estimated finish in 13 s
 Information : Vectorized:97 of 97 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
-Status : Perturbing : 6 of 12 -- Estimated finish in 18 s
+Status : Perturbing : 6 of 9 -- Estimated finish in 10 s
 Information : Vectorized:97 of 97 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
-Status : Perturbing : 7 of 12 -- Estimated finish in 15 s
+Status : Perturbing : 7 of 9 -- Estimated finish in 8 s
 Information : Vectorized:97 of 97 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
-Status : Perturbing : 8 of 12 -- Estimated finish in 13 s
+Status : Perturbing : 8 of 9 -- Estimated finish in 5 s
 Information : Vectorized:97 of 97 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
-Status : Perturbing : 9 of 12 -- Estimated finish in 10 s
-Information : Vectorized:97 of 97 characters.
-Status : Diagnosis : 0 Recalculating original tree
-Status : Diagnosis Finished
-Status : Perturbing : 10 of 12 -- Estimated finish in 8 s
-Information : Vectorized:97 of 97 characters.
-Status : Diagnosis : 0 Recalculating original tree
-Status : Diagnosis Finished
-Status : Perturbing : 11 of 12 -- Estimated finish in 5 s
-Information : Vectorized:97 of 97 characters.
-Status : Diagnosis : 0 Recalculating original tree
-Status : Diagnosis Finished
-Status : Perturbing : 12 of 12 -- Estimated finish in 3 s
+Status : Perturbing : 9 of 9 -- Estimated finish in 3 s
 Information : Vectorized:97 of 97 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
 Status : Perturbing Finished
 Status : Ratcheting Finished
 Status : Perturb Iteration Finished
-Status : TBR : 5229 5229.
-Status : TBR Finished
 Status : Running pipeline on each tree :
-         2 of 2 -- Estimated finish in 3 m, 16 s
+         2 of 2 -- Estimated finish in 2 m, 8 s
 Status : Perturb Iteration : 1 of 2 -- 
 Status : Ratcheting : 0 of 1 -- trees in the current optimum
 Information : Vectorized:97 of 97 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
 Status : Ratcheting : 1 of 1 -- trees in the current optimum
-Status : TBR : 10160 10160.
-Status : TBR : 10157 10157.
+Status : TBR : 5426 5426.
 Status : TBR Finished
-Status : Perturbing : 1 of 2 -- 
+Status : Perturbing : 1 of 3 -- 
 Information : Vectorized:97 of 97 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
-Status : Perturbing : 2 of 2 -- Estimated finish in 2 s
+Status : Perturbing : 2 of 3 -- Estimated finish in 5 s
+Information : Vectorized:97 of 97 characters.
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Perturbing : 3 of 3 -- Estimated finish in 3 s
 Information : Vectorized:97 of 97 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
 Status : Perturbing Finished
 Status : Ratcheting Finished
 Status : Perturb Iteration : 2 of 2 -- 
-Status : Ratcheting : 0 of 2 -- trees in the current optimum
+Status : Ratcheting : 0 of 3 -- trees in the current optimum
 Information : Vectorized:97 of 97 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
-Status : Ratcheting : 1 of 2 -- trees in the current optimum
+Status : Ratcheting : 1 of 3 -- trees in the current optimum
 Information : Vectorized:97 of 97 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
-Status : Ratcheting : 2 of 2 -- trees in the current optimum
-Status : TBR : 5287 5287.
+Status : Ratcheting : 2 of 3 -- trees in the current optimum
+Information : Vectorized:97 of 97 characters.
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting : 3 of 3 -- trees in the current optimum
+Status : TBR : 5324 5324.
 Status : TBR Finished
-Status : TBR : 5306 5306.
+Status : TBR : 5317 5317.
 Status : TBR Finished
-Status : Perturbing : 1 of 6 -- 
+Status : TBR : 5286 5286.
+Status : TBR Finished
+Status : Perturbing : 1 of 9 -- 
 Information : Vectorized:97 of 97 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
-Status : Perturbing : 2 of 6 -- Estimated finish in 12 s
+Status : Perturbing : 2 of 9 -- Estimated finish in 21 s
 Information : Vectorized:97 of 97 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
-Status : Perturbing : 3 of 6 -- Estimated finish in 10 s
+Status : Perturbing : 3 of 9 -- Estimated finish in 18 s
 Information : Vectorized:97 of 97 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
-Status : Perturbing : 4 of 6 -- Estimated finish in 7 s
+Status : Perturbing : 4 of 9 -- Estimated finish in 16 s
 Information : Vectorized:97 of 97 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
-Status : Perturbing : 5 of 6 -- Estimated finish in 5 s
+Status : Perturbing : 5 of 9 -- Estimated finish in 13 s
 Information : Vectorized:97 of 97 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
-Status : Perturbing : 6 of 6 -- Estimated finish in 3 s
+Status : Perturbing : 6 of 9 -- Estimated finish in 10 s
+Information : Vectorized:97 of 97 characters.
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Perturbing : 7 of 9 -- Estimated finish in 8 s
+Information : Vectorized:97 of 97 characters.
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Perturbing : 8 of 9 -- Estimated finish in 5 s
+Information : Vectorized:97 of 97 characters.
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Perturbing : 9 of 9 -- Estimated finish in 3 s
 Information : Vectorized:97 of 97 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
@@ -313,7 +317,7 @@ Status : Perturb Iteration Finished
 Status : Running pipeline on each tree Finished
 Information : 
                 Trees:
-                  Storing 2 trees with costs 5229. to 5252.
+                  Storing 2 trees with costs 5249. to 5252.
                   Best cost in 1 tree 
                 Cost Mode: Normal Direct Optimization
 PASSED

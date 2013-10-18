@@ -139,6 +139,15 @@ Status : Wagner Finished
 Status : Building Wagner Tree Finished
 Status : Running Pipeline : 2 of 2 -- Estimated finish in 0 s
 Status : Running Pipeline Finished
+Information : Vectorized:88 of 88 characters.
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 2 -- Recalculating trees
+Information : Vectorized:88 of 88 characters.
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 2 of 2 -- Recalculating trees
+Status : Diagnosis Finished
 Status : Running pipeline on each tree : 1 of 2 -- 
 Status : Perturb Iteration : 1 of 2 -- 
 Status : Ratcheting : 0 of 1 -- trees in the current optimum
@@ -146,7 +155,7 @@ Information : Vectorized:88 of 88 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
 Status : Ratcheting : 1 of 1 -- trees in the current optimum
-Status : TBR : 392 392.
+Status : TBR : 528 528.
 Status : TBR Finished
 Status : Perturbing : 1 of 3 -- 
 Information : Vectorized:88 of 88 characters.
@@ -176,11 +185,11 @@ Information : Vectorized:88 of 88 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
 Status : Ratcheting : 3 of 3 -- trees in the current optimum
-Status : TBR : 456 456.
+Status : TBR : 418 418.
 Status : TBR Finished
-Status : TBR : 405 405.
+Status : TBR : 436 436.
 Status : TBR Finished
-Status : TBR : 567 567.
+Status : TBR : 454 454.
 Status : TBR Finished
 Status : Perturbing : 1 of 9 -- 
 Information : Vectorized:88 of 88 characters.
@@ -228,7 +237,7 @@ Information : Vectorized:88 of 88 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
 Status : Ratcheting : 1 of 1 -- trees in the current optimum
-Status : TBR : 484 484.
+Status : TBR : 427 427.
 Status : TBR Finished
 Status : Perturbing : 1 of 3 -- 
 Information : Vectorized:88 of 88 characters.
@@ -258,11 +267,11 @@ Information : Vectorized:88 of 88 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
 Status : Ratcheting : 3 of 3 -- trees in the current optimum
-Status : TBR : 402 402.
+Status : TBR : 430 430.
 Status : TBR Finished
-Status : TBR : 422 422.
+Status : TBR : 464 464.
 Status : TBR Finished
-Status : TBR : 460 460.
+Status : TBR : 390 390.
 Status : TBR Finished
 Status : Perturbing : 1 of 9 -- 
 Information : Vectorized:88 of 88 characters.

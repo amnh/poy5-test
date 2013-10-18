@@ -140,6 +140,15 @@ Status : Wagner Finished
 Status : Building Wagner Tree Finished
 Status : Running Pipeline : 2 of 2 -- Estimated finish in 0 s
 Status : Running Pipeline Finished
+Information : Vectorized:161 of 161 characters.
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 2 -- Recalculating trees
+Information : Vectorized:161 of 161 characters.
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 2 of 2 -- Recalculating trees
+Status : Diagnosis Finished
 Status : Running pipeline on each tree : 1 of 2 -- 
 Status : Perturb Iteration : 1 of 2 -- 
 Status : Ratcheting : 0 of 1 -- trees in the current optimum
@@ -147,7 +156,7 @@ Information : Vectorized:161 of 161 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
 Status : Ratcheting : 1 of 1 -- trees in the current optimum
-Status : TBR : 921 921.
+Status : TBR : 1121 1121.
 Status : TBR Finished
 Status : Perturbing : 1 of 3 -- 
 Information : Vectorized:161 of 161 characters.
@@ -177,11 +186,11 @@ Information : Vectorized:161 of 161 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
 Status : Ratcheting : 3 of 3 -- trees in the current optimum
-Status : TBR : 899 899.
+Status : TBR : 906 906.
 Status : TBR Finished
-Status : TBR : 1131 1131.
+Status : TBR : 907 907.
 Status : TBR Finished
-Status : TBR : 913 913.
+Status : TBR : 884 884.
 Status : TBR Finished
 Status : Perturbing : 1 of 9 -- 
 Information : Vectorized:161 of 161 characters.
@@ -229,10 +238,10 @@ Information : Vectorized:161 of 161 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
 Status : Ratcheting : 1 of 1 -- trees in the current optimum
-Status : TBR : 1017 1017.
-Status : TBR : 976 976.
-Status : TBR : 972 972.
-Status : TBR : 903 903.
+Status : TBR : 1037 1037.
+Status : TBR : 995 995.
+Status : TBR : 992 992.
+Status : TBR : 922 922.
 Status : TBR Finished
 Status : Perturbing : 1 of 3 -- 
 Information : Vectorized:161 of 161 characters.
@@ -262,15 +271,14 @@ Information : Vectorized:161 of 161 characters.
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
 Status : Ratcheting : 3 of 3 -- trees in the current optimum
-Status : TBR : 1409 1409.
+Status : TBR : 929 929.
 Status : TBR Finished
-Status : TBR : 1213 1213.
-Status : TBR : 1209 1209.
+Status : TBR : 903 903.
 Status : TBR Finished
-Status : TBR : 1027 1027.
-Status : TBR : 984 984.
-Status : TBR : 979 979.
-Status : TBR : 908 908.
+Status : TBR : 1357 1357.
+Status : TBR : 1287 1287.
+Status : TBR : 1283 1283.
+Status : TBR : 1152 1152.
 Status : TBR Finished
 Status : Perturbing : 1 of 10 -- 
 Information : Vectorized:161 of 161 characters.
@@ -315,20 +323,17 @@ Status : Diagnosis Finished
 Status : Perturbing Finished
 Status : Ratcheting Finished
 Status : Perturb Iteration Finished
-Status : Tree search : 1 of 3 -- 
-Status : TBR : 821 821.
+Status : Tree search : 1 of 2 -- 
+Status : TBR : 828 828.
 Status : TBR Finished
-Status : Tree search : 2 of 3 -- Estimated finish in 0 s
-Status : TBR : 824 824.
-Status : TBR Finished
-Status : Tree search : 3 of 3 -- Estimated finish in 0 s
+Status : Tree search : 2 of 2 -- Estimated finish in 0 s
 Status : TBR : 833 833.
 Status : TBR Finished
 Status : Tree search Finished
 Status : Running pipeline on each tree Finished
 Information : 
                 Trees:
-                  Storing 2 trees with costs 821. to 821.
-                  Best cost in 2 trees 
+                  Storing 2 trees with costs 821. to 828.
+                  Best cost in 1 tree 
                 Cost Mode: Normal Direct Optimization
 PASSED
