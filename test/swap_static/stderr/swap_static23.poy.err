@@ -514,13 +514,21 @@ Status : Wagner Finished
 Status : Building Wagner Tree Finished
 Status : Running Pipeline : 2 of 2 -- Estimated finish in 0 s
 Status : Running Pipeline Finished
+Information : Vectorized:482 of 482 characters.
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 2 -- Recalculating trees
+Information : Vectorized:482 of 482 characters.
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 2 of 2 -- Recalculating trees
+Status : Diagnosis Finished
 Status : Running pipeline on each tree : 1 of 2 -- 
 Status : Alternate : 0 Beginning search
 Status : Alternate : 0 SPR search
 Status : SPR : 1541 1541.
-Status : SPR : 1536 1536.
-Status : SPR : 1534 1534.
-Status : SPR : 1530 1530.
+Status : SPR : 1535 1535.
+Status : SPR : 1533 1533.
 Status : SPR Finished
 Status : Alternate : 0 Performing TBR swapping
 Status : Single TBR Finished
@@ -539,7 +547,7 @@ Status : Alternate Finished
 Status : Running pipeline on each tree Finished
 Information : 
                 Trees:
-                  Storing 2 trees with costs 1526. to 1530.
+                  Storing 2 trees with costs 1526. to 1533.
                   Best cost in 1 tree 
                 Cost Mode: Normal Direct Optimization
 PASSED

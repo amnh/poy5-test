@@ -580,6 +580,15 @@ Status : Wagner Finished
 Status : Building Wagner Tree Finished
 Status : Running Pipeline : 2 of 2 -- Estimated finish in 0 s
 Status : Running Pipeline Finished
+Information : Vectorized:579 of 579 characters.
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 2 -- Recalculating trees
+Information : Vectorized:579 of 579 characters.
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 2 of 2 -- Recalculating trees
+Status : Diagnosis Finished
 Status : Tree search : 1 of 2 -- 
 Status : Alternate : 0 Beginning search
 Status : Alternate : 0 SPR search
@@ -587,63 +596,61 @@ Status : SPR : 4516 4516.
 Status : SPR : 4515 4515.
 Status : SPR : 4484 4484.
 Status : SPR : 4449 4449.
-Status : SPR : 4443 4443.
-Status : SPR : 4440 4440.
-Status : SPR : 4422 4422.
-Status : SPR : 4420 4420.
-Status : SPR : 4403 4403.
-Status : SPR : 4400 4400.
-Status : SPR : 4364 4364.
-Status : SPR : 4358 4358.
-Status : SPR : 4356 4356.
+Status : SPR : 4441 4441.
+Status : SPR : 4436 4436.
+Status : SPR : 4426 4426.
+Status : SPR : 4423 4423.
+Status : SPR : 4397 4397.
+Status : SPR : 4387 4387.
+Status : SPR : 4386 4386.
+Status : SPR : 4384 4384.
+Status : SPR : 4381 4381.
+Status : SPR : 4379 4379.
+Status : SPR : 4368 4368.
 Status : SPR : 4354 4354.
-Status : SPR : 4349 4349.
-Status : SPR : 4348 4348.
-Status : SPR : 4337 4337.
+Status : SPR : 4347 4347.
+Status : SPR : 4338 4338.
 Status : SPR : 4328 4328.
-Status : SPR : 4326 4326.
 Status : SPR Finished
 Status : Alternate : 0 Performing TBR swapping
 Status : Single TBR Finished
 Status : Alternate : 0 SPR search
-Status : SPR : 4326 4326.
+Status : SPR : 4328 4328.
 Status : SPR Finished
 Status : Alternate : 0 Performing TBR swapping
 Status : Single TBR Finished
 Status : Alternate Finished
-Status : Tree search : 2 of 2 -- Estimated finish in 2 s
+Status : Tree search : 2 of 2 -- Estimated finish in 1 s
 Status : Alternate : 0 Beginning search
 Status : Alternate : 0 SPR search
 Status : SPR : 4501 4501.
-Status : SPR : 4496 4496.
-Status : SPR : 4491 4491.
-Status : SPR : 4488 4488.
-Status : SPR : 4482 4482.
-Status : SPR : 4474 4474.
-Status : SPR : 4469 4469.
-Status : SPR : 4468 4468.
-Status : SPR : 4453 4453.
-Status : SPR : 4445 4445.
-Status : SPR : 4438 4438.
-Status : SPR : 4432 4432.
-Status : SPR : 4429 4429.
-Status : SPR : 4426 4426.
-Status : SPR : 4411 4411.
-Status : SPR : 4395 4395.
-Status : SPR : 4383 4383.
-Status : SPR : 4377 4377.
-Status : SPR : 4370 4370.
+Status : SPR : 4493 4493.
+Status : SPR : 4490 4490.
+Status : SPR : 4486 4486.
+Status : SPR : 4483 4483.
+Status : SPR : 4477 4477.
+Status : SPR : 4460 4460.
+Status : SPR : 4457 4457.
+Status : SPR : 4456 4456.
+Status : SPR : 4452 4452.
+Status : SPR : 4430 4430.
+Status : SPR : 4412 4412.
+Status : SPR : 4400 4400.
+Status : SPR : 4398 4398.
+Status : SPR : 4392 4392.
+Status : SPR : 4390 4390.
+Status : SPR : 4356 4356.
 Status : SPR : 4348 4348.
-Status : SPR : 4339 4339.
-Status : SPR : 4333 4333.
-Status : SPR : 4332 4332.
+Status : SPR : 4347 4347.
+Status : SPR : 4342 4342.
+Status : SPR : 4335 4335.
+Status : SPR : 4334 4334.
 Status : SPR : 4326 4326.
-Status : SPR : 4317 4317.
 Status : SPR Finished
 Status : Alternate : 0 Performing TBR swapping
 Status : Single TBR Finished
 Status : Alternate : 0 SPR search
-Status : SPR : 4317 4317.
+Status : SPR : 4326 4326.
 Status : SPR Finished
 Status : Alternate : 0 Performing TBR swapping
 Status : Single TBR Finished
@@ -651,7 +658,7 @@ Status : Alternate Finished
 Status : Tree search Finished
 Information : 
                 Trees:
-                  Storing 2 trees with costs 4311. to 4325.
+                  Storing 2 trees with costs 4324. to 4327.
                   Best cost in 1 tree 
                 Cost Mode: Normal Direct Optimization
 PASSED

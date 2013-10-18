@@ -540,6 +540,15 @@ Status : Single TBR Finished
 Status : Alternate Finished
 Status : Running Pipeline : 2 of 2 -- Estimated finish in 0 s
 Status : Running Pipeline Finished
+Information : Vectorized:482 of 482 characters.
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 2 -- Recalculating trees
+Information : Vectorized:482 of 482 characters.
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 2 of 2 -- Recalculating trees
+Status : Diagnosis Finished
 Information : 
                 Trees:
                   Storing 2 trees with costs 1530. to 1548.
