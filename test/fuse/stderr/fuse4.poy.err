@@ -25,6 +25,7 @@ Status : Wagner : 15 of 17 -- Wagner tree with cost 301.
 Status : Wagner : 16 of 17 -- Wagner tree with cost 328.
 Status : Wagner Finished
 Status : Building Wagner Tree Finished
+Status : Running Pipeline : 1 of 4 -- Estimated finish in 0 s
 Status : Wagner : 2 of 17 -- Wagner tree with cost 31.
 Status : Wagner : 3 of 17 -- Wagner tree with cost 41.
 Status : Wagner : 4 of 17 -- Wagner tree with cost 74.
@@ -42,6 +43,7 @@ Status : Wagner : 15 of 17 -- Wagner tree with cost 314.
 Status : Wagner : 16 of 17 -- Wagner tree with cost 328.
 Status : Wagner Finished
 Status : Building Wagner Tree Finished
+Status : Running Pipeline : 2 of 4 -- Estimated finish in 0 s
 Status : Wagner : 2 of 17 -- Wagner tree with cost 48.
 Status : Wagner : 3 of 17 -- Wagner tree with cost 73.
 Status : Wagner : 4 of 17 -- Wagner tree with cost 79.
@@ -59,6 +61,7 @@ Status : Wagner : 15 of 17 -- Wagner tree with cost 283.
 Status : Wagner : 16 of 17 -- Wagner tree with cost 293.
 Status : Wagner Finished
 Status : Building Wagner Tree Finished
+Status : Running Pipeline : 3 of 4 -- Estimated finish in 0 s
 Status : Wagner : 2 of 17 -- Wagner tree with cost 36.
 Status : Wagner : 3 of 17 -- Wagner tree with cost 54.
 Status : Wagner : 4 of 17 -- Wagner tree with cost 74.
@@ -76,17 +79,54 @@ Status : Wagner : 15 of 17 -- Wagner tree with cost 302.
 Status : Wagner : 16 of 17 -- Wagner tree with cost 315.
 Status : Wagner Finished
 Status : Building Wagner Tree Finished
+Status : Running Pipeline : 4 of 4 -- Estimated finish in 0 s
 Status : Running Pipeline Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 4 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 2 of 4 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 3 of 4 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 4 of 4 -- Recalculating trees
+Status : Diagnosis Finished
 Status : Tree Fusing : 0 of 16 -- 
 Status : Tree Fusing : 1 of 16 -- 
 Status : Tree Fusing : 2 of 16 -- 
-Status : Tree Fusing : 3 of 16 -- 
-Status : Tree Fusing : 4 of 16 -- 
-Status : Tree Fusing : 5 of 16 -- 
-Status : Tree Fusing : 6 of 16 -- 
-Status : Tree Fusing : 7 of 16 -- 
-Status : Tree Fusing : 8 of 16 -- 
-Status : Tree Fusing : 9 of 16 -- 
+Status : Tree Fusing :
+         2 of 16
+         -- tree #1 [342.000000] -> tree #2 [337.000000]: tree with cost 339.
+Status : Tree Fusing :
+         3 of 16
+         -- tree #1 [342.000000] -> tree #2 [337.000000]: tree with cost 339.
+Status : Tree Fusing :
+         3 of 16
+         -- tree #1 [342.000000] -> tree #3 [336.000000]: tree with cost 338.
+Status : Tree Fusing :
+         4 of 16
+         -- tree #1 [342.000000] -> tree #3 [336.000000]: tree with cost 338.
+Status : Tree Fusing :
+         4 of 16
+         -- tree #1 [342.000000] -> tree #3 [336.000000]: tree with cost 338.
+Status : Tree Fusing :
+         5 of 16
+         -- tree #1 [342.000000] -> tree #3 [336.000000]: tree with cost 338.
+Status : Tree Fusing :
+         5 of 16
+         -- tree #1 [342.000000] -> tree #3 [336.000000]: tree with cost 338.
+Status : Tree Fusing :
+         6 of 16
+         -- tree #1 [342.000000] -> tree #3 [336.000000]: tree with cost 338.
+Status : Tree Fusing :
+         7 of 16
+         -- tree #1 [342.000000] -> tree #3 [336.000000]: tree with cost 338.
+Status : Tree Fusing :
+         8 of 16
+         -- tree #1 [342.000000] -> tree #3 [336.000000]: tree with cost 338.
 Status : Tree Fusing :
          9 of 16
          -- tree #1 [342.000000] -> tree #3 [336.000000]: tree with cost 338.
@@ -97,27 +137,33 @@ Status : Tree Fusing :
          11 of 16
          -- tree #1 [342.000000] -> tree #3 [336.000000]: tree with cost 338.
 Status : Tree Fusing :
-         11 of 16
-         -- tree #3 [337.000000] -> tree #1 [342.000000]: tree with cost 338.
-Status : Tree Fusing :
          12 of 16
-         -- tree #3 [337.000000] -> tree #1 [342.000000]: tree with cost 338.
+         -- tree #1 [342.000000] -> tree #3 [336.000000]: tree with cost 338.
 Status : Tree Fusing :
          13 of 16
-         -- tree #3 [337.000000] -> tree #1 [342.000000]: tree with cost 338.
+         -- tree #1 [342.000000] -> tree #3 [336.000000]: tree with cost 338.
+Status : Tree Fusing :
+         13 of 16
+         -- tree #1 [342.000000] -> tree #3 [336.000000]: tree with cost 338.
 Status : Tree Fusing :
          14 of 16
-         -- tree #3 [337.000000] -> tree #1 [342.000000]: tree with cost 338.
+         -- tree #1 [342.000000] -> tree #3 [336.000000]: tree with cost 338.
 Status : Tree Fusing :
          15 of 16
-         -- tree #3 [337.000000] -> tree #1 [342.000000]: tree with cost 338.
+         -- tree #1 [342.000000] -> tree #3 [336.000000]: tree with cost 338.
+Status : Tree Fusing :
+         15 of 16
+         -- tree #4 [336.000000] -> tree #1 [342.000000]: tree with cost 342.
 Status : Tree Fusing :
          16 of 16
-         -- tree #3 [337.000000] -> tree #1 [342.000000]: tree with cost 338.
+         -- tree #4 [336.000000] -> tree #1 [342.000000]: tree with cost 342.
+Status : Tree Fusing :
+         16 of 16
+         -- tree #1 [342.000000] -> tree #3 [336.000000]: tree with cost 338.
 Status : Tree Fusing Finished
 Information : 
                 Trees:
-                  Storing 4 trees with costs 336. to 340.
+                  Storing 4 trees with costs 336. to 342.
                   Best cost in 1 tree 
                 Cost Mode: Normal Direct Optimization
 PASSED

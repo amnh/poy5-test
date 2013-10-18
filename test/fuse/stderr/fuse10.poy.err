@@ -200,22 +200,19 @@ Status : Wagner Finished
 Status : Building Wagner Tree Finished
 Status : Running Pipeline : 2 of 2 -- Estimated finish in 0 s
 Status : Running Pipeline Finished
+Information : Vectorized:113 of 113 characters.
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 2 -- Recalculating trees
+Information : Vectorized:113 of 113 characters.
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 2 of 2 -- Recalculating trees
+Status : Diagnosis Finished
 Status : Tree Fusing : 0 of 8 -- 
 Status : Tree Fusing : 1 of 8 -- 
 Status : Tree Fusing :
          1 of 8
-         -- tree #1 [1857.000000] -> tree #1 [1820.000000]: tree with cost 1863.
-Status : Tree Fusing :
-         2 of 8
-         -- tree #1 [1857.000000] -> tree #1 [1820.000000]: tree with cost 1863.
-Status : Tree Fusing :
-         2 of 8
-         -- tree #1 [1857.000000] -> tree #1 [1820.000000]: tree with cost 1863.
-Status : Tree Fusing :
-         3 of 8
-         -- tree #1 [1857.000000] -> tree #1 [1820.000000]: tree with cost 1863.
-Status : Tree Fusing :
-         3 of 8
          -- tree #2 [1820.000000] -> tree #1 [1857.000000]: tree with cost 1823.
 Status : SPR : 1823 1823.
 Status : SPR : 1822 1822.
@@ -228,6 +225,12 @@ Status : SPR : 1815 1815.
 Status : SPR : 1814 1814.
 Status : SPR : 1811 1811.
 Status : SPR Finished
+Status : Tree Fusing :
+         2 of 8
+         -- tree #2 [1820.000000] -> tree #1 [1857.000000]: tree with cost 1823.
+Status : Tree Fusing :
+         3 of 8
+         -- tree #2 [1820.000000] -> tree #1 [1857.000000]: tree with cost 1823.
 Status : Tree Fusing :
          4 of 8
          -- tree #2 [1820.000000] -> tree #1 [1857.000000]: tree with cost 1823.
