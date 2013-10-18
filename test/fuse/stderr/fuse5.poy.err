@@ -153,7 +153,7 @@ Status : Wagner : 47 of 49 -- Wagner tree with cost 2229.
 Status : Wagner : 48 of 49 -- Wagner tree with cost 2261.
 Status : Wagner Finished
 Status : Building Wagner Tree Finished
-Status : Running Pipeline : 1 of 2 -- Estimated finish in 3 s
+Status : Running Pipeline : 1 of 2 -- Estimated finish in 5 s
 Status : Wagner : 2 of 49 -- Wagner tree with cost 87.
 Status : Wagner : 3 of 49 -- Wagner tree with cost 145.
 Status : Wagner : 4 of 49 -- Wagner tree with cost 191.
@@ -205,32 +205,41 @@ Status : Wagner Finished
 Status : Building Wagner Tree Finished
 Status : Running Pipeline : 2 of 2 -- Estimated finish in 0 s
 Status : Running Pipeline Finished
+Information : Vectorized:113 of 113 characters.
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 2 -- Recalculating trees
+Information : Vectorized:113 of 113 characters.
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 2 of 2 -- Recalculating trees
+Status : Diagnosis Finished
 Status : Tree Fusing : 0 of 10 -- 
 Status : Tree Fusing : 1 of 10 -- 
 Status : Tree Fusing :
          1 of 10
-         -- tree #1 [2233.000000] -> tree #1 [2192.000000]: tree with cost 2237.
-Status : Tree Fusing :
-         2 of 10
-         -- tree #1 [2233.000000] -> tree #1 [2192.000000]: tree with cost 2237.
-Status : Tree Fusing :
-         2 of 10
-         -- tree #1 [2233.000000] -> tree #1 [2192.000000]: tree with cost 2237.
-Status : Tree Fusing :
-         3 of 10
-         -- tree #1 [2233.000000] -> tree #1 [2192.000000]: tree with cost 2237.
-Status : Tree Fusing :
-         3 of 10
          -- tree #2 [2192.000000] -> tree #1 [2233.000000]: tree with cost 2196.
 Status : Tree Fusing :
-         4 of 10
+         2 of 10
          -- tree #2 [2192.000000] -> tree #1 [2233.000000]: tree with cost 2196.
+Status : Tree Fusing :
+         2 of 10
+         -- tree #2 [2192.000000] -> tree #1 [2196.000000]: tree with cost 2196.
+Status : Tree Fusing :
+         3 of 10
+         -- tree #2 [2192.000000] -> tree #1 [2196.000000]: tree with cost 2196.
+Status : Tree Fusing :
+         3 of 10
+         -- tree #1 [2196.000000] -> tree #1 [2192.000000]: tree with cost 2192.
 Status : Tree Fusing :
          4 of 10
          -- tree #1 [2196.000000] -> tree #1 [2192.000000]: tree with cost 2192.
+Status : Tree Fusing :
+         4 of 10
+         -- tree #2 [2192.000000] -> tree #1 [2196.000000]: tree with cost 2196.
 Status : Tree Fusing :
          5 of 10
-         -- tree #1 [2196.000000] -> tree #1 [2192.000000]: tree with cost 2192.
+         -- tree #2 [2192.000000] -> tree #1 [2196.000000]: tree with cost 2196.
 Status : Tree Fusing :
          5 of 10
          -- tree #1 [2196.000000] -> tree #1 [2192.000000]: tree with cost 2192.
@@ -239,31 +248,31 @@ Status : Tree Fusing :
          -- tree #1 [2196.000000] -> tree #1 [2192.000000]: tree with cost 2192.
 Status : Tree Fusing :
          6 of 10
-         -- tree #2 [2192.000000] -> tree #1 [2196.000000]: tree with cost 2196.
-Status : Tree Fusing :
-         7 of 10
-         -- tree #2 [2192.000000] -> tree #1 [2196.000000]: tree with cost 2196.
+         -- tree #1 [2196.000000] -> tree #1 [2192.000000]: tree with cost 2192.
 Status : Tree Fusing :
          7 of 10
          -- tree #1 [2196.000000] -> tree #1 [2192.000000]: tree with cost 2192.
 Status : Tree Fusing :
+         7 of 10
+         -- tree #2 [2192.000000] -> tree #1 [2196.000000]: tree with cost 2196.
+Status : Tree Fusing :
+         8 of 10
+         -- tree #2 [2192.000000] -> tree #1 [2196.000000]: tree with cost 2196.
+Status : Tree Fusing :
          8 of 10
          -- tree #1 [2196.000000] -> tree #1 [2192.000000]: tree with cost 2192.
 Status : Tree Fusing :
-         8 of 10
-         -- tree #2 [2192.000000] -> tree #1 [2196.000000]: tree with cost 2196.
+         9 of 10
+         -- tree #1 [2196.000000] -> tree #1 [2192.000000]: tree with cost 2192.
 Status : Tree Fusing :
          9 of 10
-         -- tree #2 [2192.000000] -> tree #1 [2196.000000]: tree with cost 2196.
-Status : Tree Fusing :
-         9 of 10
-         -- tree #2 [2192.000000] -> tree #1 [2196.000000]: tree with cost 2196.
-Status : Tree Fusing :
-         10 of 10
-         -- tree #2 [2192.000000] -> tree #1 [2196.000000]: tree with cost 2196.
+         -- tree #1 [2196.000000] -> tree #1 [2192.000000]: tree with cost 2192.
 Status : Tree Fusing :
          10 of 10
          -- tree #1 [2196.000000] -> tree #1 [2192.000000]: tree with cost 2192.
+Status : Tree Fusing :
+         10 of 10
+         -- tree #2 [2192.000000] -> tree #1 [2196.000000]: tree with cost 2196.
 Status : Tree Fusing Finished
 Information : 
                 Trees:

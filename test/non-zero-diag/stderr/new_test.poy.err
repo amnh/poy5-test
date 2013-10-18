@@ -1,0 +1,329 @@
+Information : Reading file non-zero-diag/artmor.spa of type dpread file
+
+Status : Parser : 0 of 7 -- Parsing input files
+Status : Parser : 1 of 7 -- Parsing input files
+Status : Parser : 2 of 7 -- Parsing input files
+Status : Parser : 3 of 7 -- Parsing input files
+Status : Parser : 4 of 7 -- Parsing input files
+Status : Parser : 5 of 7 -- Parsing input files
+Status : Parser : 6 of 7 -- Parsing input files
+Status : Parser : 7 of 7 -- Parsing input files
+Status : Parser Finished
+Status : Loading Characters : 0 of 54 -- Storing the character specifications
+Status : Loading Characters : 1 of 54 -- Storing the character specifications
+Status : Loading Characters : 2 of 54 -- Storing the character specifications
+Status : Loading Characters : 3 of 54 -- Storing the character specifications
+Status : Loading Characters : 4 of 54 -- Storing the character specifications
+Status : Loading Characters : 5 of 54 -- Storing the character specifications
+Status : Loading Characters : 6 of 54 -- Storing the character specifications
+Status : Loading Characters : 7 of 54 -- Storing the character specifications
+Status : Loading Characters : 8 of 54 -- Storing the character specifications
+Status : Loading Characters : 9 of 54 -- Storing the character specifications
+Status : Loading Characters :
+         10 of 54 -- Storing the character specifications
+Status : Loading Characters :
+         11 of 54 -- Storing the character specifications
+Status : Loading Characters :
+         12 of 54 -- Storing the character specifications
+Status : Loading Characters :
+         13 of 54 -- Storing the character specifications
+Status : Loading Characters :
+         14 of 54 -- Storing the character specifications
+Status : Loading Characters :
+         15 of 54 -- Storing the character specifications
+Status : Loading Characters :
+         16 of 54 -- Storing the character specifications
+Status : Loading Characters :
+         17 of 54 -- Storing the character specifications
+Status : Loading Characters :
+         18 of 54 -- Storing the character specifications
+Status : Loading Characters :
+         19 of 54 -- Storing the character specifications
+Status : Loading Characters :
+         20 of 54 -- Storing the character specifications
+Status : Loading Characters :
+         21 of 54 -- Storing the character specifications
+Status : Loading Characters :
+         22 of 54 -- Storing the character specifications
+Status : Loading Characters :
+         23 of 54 -- Storing the character specifications
+Status : Loading Characters :
+         24 of 54 -- Storing the character specifications
+Status : Loading Characters :
+         25 of 54 -- Storing the character specifications
+Status : Loading Characters :
+         26 of 54 -- Storing the character specifications
+Status : Loading Characters :
+         27 of 54 -- Storing the character specifications
+Status : Loading Characters :
+         28 of 54 -- Storing the character specifications
+Status : Loading Characters :
+         29 of 54 -- Storing the character specifications
+Status : Loading Characters :
+         30 of 54 -- Storing the character specifications
+Status : Loading Characters :
+         31 of 54 -- Storing the character specifications
+Status : Loading Characters :
+         32 of 54 -- Storing the character specifications
+Status : Loading Characters :
+         33 of 54 -- Storing the character specifications
+Status : Loading Characters :
+         34 of 54 -- Storing the character specifications
+Status : Loading Characters :
+         35 of 54 -- Storing the character specifications
+Status : Loading Characters :
+         36 of 54 -- Storing the character specifications
+Status : Loading Characters :
+         37 of 54 -- Storing the character specifications
+Status : Loading Characters :
+         38 of 54 -- Storing the character specifications
+Status : Loading Characters :
+         39 of 54 -- Storing the character specifications
+Status : Loading Characters :
+         40 of 54 -- Storing the character specifications
+Status : Loading Characters :
+         41 of 54 -- Storing the character specifications
+Status : Loading Characters :
+         42 of 54 -- Storing the character specifications
+Status : Loading Characters :
+         43 of 54 -- Storing the character specifications
+Status : Loading Characters :
+         44 of 54 -- Storing the character specifications
+Status : Loading Characters :
+         45 of 54 -- Storing the character specifications
+Status : Loading Characters :
+         46 of 54 -- Storing the character specifications
+Status : Loading Characters :
+         47 of 54 -- Storing the character specifications
+Status : Loading Characters :
+         48 of 54 -- Storing the character specifications
+Status : Loading Characters :
+         49 of 54 -- Storing the character specifications
+Status : Loading Characters :
+         50 of 54 -- Storing the character specifications
+Status : Loading Characters :
+         51 of 54 -- Storing the character specifications
+Status : Loading Characters :
+         52 of 54 -- Storing the character specifications
+Status : Loading Characters :
+         53 of 54 -- Storing the character specifications
+Status : Loading Characters :
+         54 of 54 -- Storing the character specifications
+Status : Loading Characters Finished
+Information : Reading file non-zero-diag/16S3b.fas of type input sequences
+
+Information : The file non-zero-diag/16S3b.fas contains sequences of 38 taxa,
+              each sequence holding 1 fragment.
+
+Information : Reading file non-zero-diag/16S7b.fas of type input sequences
+
+Information : The file non-zero-diag/16S7b.fas contains sequences of 38 taxa,
+              each sequence holding 1 fragment.
+
+Information : Reading file non-zero-diag/18S13a.fas of type input sequences
+
+Information : The file non-zero-diag/18S13a.fas contains sequences of 54
+              taxa, each sequence holding 1 fragment.
+
+Information : Reading file non-zero-diag/18S17a.fas of type input sequences
+
+Information : The file non-zero-diag/18S17a.fas contains sequences of 53
+              taxa, each sequence holding 1 fragment.
+
+Information : Reading file non-zero-diag/18S20a.fas of type input sequences
+
+Information : The file non-zero-diag/18S20a.fas contains sequences of 53
+              taxa, each sequence holding 1 fragment.
+
+Information : Reading file non-zero-diag/18S2a.fas of type input sequences
+
+Information : The file non-zero-diag/18S2a.fas contains sequences of 52 taxa,
+              each sequence holding 1 fragment.
+
+Information : Reading file non-zero-diag/18S6a.fas of type input sequences
+
+Information : The file non-zero-diag/18S6a.fas contains sequences of 51 taxa,
+              each sequence holding 1 fragment.
+
+Information : Reading file non-zero-diag/28S1b.fas of type input sequences
+
+Information : The file non-zero-diag/28S1b.fas contains sequences of 36 taxa,
+              each sequence holding 1 fragment.
+
+Information : Reading file non-zero-diag/EF1b.fas of type input sequences
+
+Information : The file non-zero-diag/EF1b.fas contains sequences of 42 taxa,
+              each sequence holding 1 fragment.
+
+Information : Reading file non-zero-diag/POL3b.fas of type input sequences
+
+Information : The file non-zero-diag/POL3b.fas contains sequences of 20 taxa,
+              each sequence holding 1 fragment.
+
+Information : Reading file non-zero-diag/16S4b.fas of type input sequences
+
+Information : The file non-zero-diag/16S4b.fas contains sequences of 38 taxa,
+              each sequence holding 1 fragment.
+
+Information : Reading file non-zero-diag/16S8b.fas of type input sequences
+
+Information : The file non-zero-diag/16S8b.fas contains sequences of 38 taxa,
+              each sequence holding 1 fragment.
+
+Information : Reading file non-zero-diag/18S14a.fas of type input sequences
+
+Information : The file non-zero-diag/18S14a.fas contains sequences of 54
+              taxa, each sequence holding 1 fragment.
+
+Information : Reading file non-zero-diag/18S18a.fas of type input sequences
+
+Information : The file non-zero-diag/18S18a.fas contains sequences of 53
+              taxa, each sequence holding 1 fragment.
+
+Information : Reading file non-zero-diag/18S21a.fas of type input sequences
+
+Information : The file non-zero-diag/18S21a.fas contains sequences of 53
+              taxa, each sequence holding 1 fragment.
+
+Information : Reading file non-zero-diag/18S3a.fas of type input sequences
+
+Information : The file non-zero-diag/18S3a.fas contains sequences of 50 taxa,
+              each sequence holding 1 fragment.
+
+Information : Reading file non-zero-diag/18S7a.fas of type input sequences
+
+Information : The file non-zero-diag/18S7a.fas contains sequences of 49 taxa,
+              each sequence holding 1 fragment.
+
+Information : Reading file non-zero-diag/28S2b.fas of type input sequences
+
+Information : The file non-zero-diag/28S2b.fas contains sequences of 43 taxa,
+              each sequence holding 1 fragment.
+
+Information : Reading file non-zero-diag/H3b.fas of type input sequences
+
+Information : The file non-zero-diag/H3b.fas contains sequences of 38 taxa,
+              each sequence holding 1 fragment.
+
+Information : Reading file non-zero-diag/POL5b.fas of type input sequences
+
+Information : The file non-zero-diag/POL5b.fas contains sequences of 19 taxa,
+              each sequence holding 1 fragment.
+
+Information : Reading file non-zero-diag/16S5b.fas of type input sequences
+
+Information : The file non-zero-diag/16S5b.fas contains sequences of 38 taxa,
+              each sequence holding 1 fragment.
+
+Information : Reading file non-zero-diag/18S10a.fas of type input sequences
+
+Information : The file non-zero-diag/18S10a.fas contains sequences of 54
+              taxa, each sequence holding 1 fragment.
+
+Information : Reading file non-zero-diag/18S15a.fas of type input sequences
+
+Information : The file non-zero-diag/18S15a.fas contains sequences of 50
+              taxa, each sequence holding 1 fragment.
+
+Information : Reading file non-zero-diag/18S19a.fas of type input sequences
+
+Information : The file non-zero-diag/18S19a.fas contains sequences of 54
+              taxa, each sequence holding 1 fragment.
+
+Information : Reading file non-zero-diag/18S22a.fas of type input sequences
+
+Information : The file non-zero-diag/18S22a.fas contains sequences of 52
+              taxa, each sequence holding 1 fragment.
+
+Information : Reading file non-zero-diag/18S4a.fas of type input sequences
+
+Information : The file non-zero-diag/18S4a.fas contains sequences of 51 taxa,
+              each sequence holding 1 fragment.
+
+Information : Reading file non-zero-diag/18S8a.fas of type input sequences
+
+Information : The file non-zero-diag/18S8a.fas contains sequences of 50 taxa,
+              each sequence holding 1 fragment.
+
+Information : Reading file non-zero-diag/28S5b.fas of type input sequences
+
+Information : The file non-zero-diag/28S5b.fas contains sequences of 44 taxa,
+              each sequence holding 1 fragment.
+
+Information : Reading file non-zero-diag/POL1b.fas of type input sequences
+
+Information : The file non-zero-diag/POL1b.fas contains sequences of 40 taxa,
+              each sequence holding 1 fragment.
+
+Information : Reading file non-zero-diag/U2b.fas of type input sequences
+
+Information : The file non-zero-diag/U2b.fas contains sequences of 34 taxa,
+              each sequence holding 1 fragment.
+
+Information : Reading file non-zero-diag/16S6b.fas of type input sequences
+
+Information : The file non-zero-diag/16S6b.fas contains sequences of 38 taxa,
+              each sequence holding 1 fragment.
+
+Information : Reading file non-zero-diag/18S11a.fas of type input sequences
+
+Information : The file non-zero-diag/18S11a.fas contains sequences of 54
+              taxa, each sequence holding 1 fragment.
+
+Information : Reading file non-zero-diag/18S16a.fas of type input sequences
+
+Information : The file non-zero-diag/18S16a.fas contains sequences of 50
+              taxa, each sequence holding 1 fragment.
+
+Information : Reading file non-zero-diag/18S1a.fas of type input sequences
+
+Information : The file non-zero-diag/18S1a.fas contains sequences of 52 taxa,
+              each sequence holding 1 fragment.
+
+Information : Reading file non-zero-diag/18S23a.fas of type input sequences
+
+Information : The file non-zero-diag/18S23a.fas contains sequences of 52
+              taxa, each sequence holding 1 fragment.
+
+Information : Reading file non-zero-diag/18S5a.fas of type input sequences
+
+Information : The file non-zero-diag/18S5a.fas contains sequences of 51 taxa,
+              each sequence holding 1 fragment.
+
+Information : Reading file non-zero-diag/18S9a.fas of type input sequences
+
+Information : The file non-zero-diag/18S9a.fas contains sequences of 52 taxa,
+              each sequence holding 1 fragment.
+
+Information : Reading file non-zero-diag/COIb.fas of type input sequences
+
+Information : The file non-zero-diag/COIb.fas contains sequences of 45 taxa,
+              each sequence holding 1 fragment.
+
+Information : Reading file non-zero-diag/POL2b.fas of type input sequences
+
+Information : The file non-zero-diag/POL2b.fas contains sequences of 26 taxa,
+              each sequence holding 1 fragment.
+
+Information : Selected Terminals:
+              
+
+Information : 
+Information : Total included: 53
+Information : Total excluded: 1
+Information : Selected 53 of 54 terminals
+Warning : You are loading a non-metric TCM
+Warning : You are loading a non-metric TCM
+Status : Transforming : 1 of 1 --  transformations applied
+Status : Transforming : 45 of 342 --  characters transformed
+Status : Transforming Finished
+Information : Reading file non-zero-diag/gg_mapa_pars_53_fuse_ney_best.tre of
+              type Tree List
+
+Status : Loading Trees : 1 of 1 -- 
+Status : Loading Trees Finished
+Information : 
+                Trees:
+                  Storing 1 tree with cost 15953361236. 
+                Cost Mode: Normal Direct Optimization
+PASSED
